@@ -1,4 +1,5 @@
 ---
+layout: homepage
 title: Test
 permalink: /test/
 sections:
