@@ -7,6 +7,6 @@ permalink: /example-page/
     <p>test1</p>
   </div>
   <div class="col-6">
-    <p>test1</p>
+    <p>test2</p>
   </div>
 </div>
