@@ -16,16 +16,12 @@ third_nav_title: VD1
     font-size: 2rem;
     color: #ffcc66;
   }
-	.bg {
-    background-image: url("https://staging.d2summg9pochhh.amplifyapp.com/images/VFM/bg.png");
-    background-repeat:no-repeat;
-  background-size:cover;
-  }
+
 </style>
 
-<div class="container py-5 bg">
+<div class="container py-5 bg-card">
 	<div class="row">
-  <div class="col-sm-12 pt-4 pb-3 text-center bg">
+  <div class="col-sm-12 pt-4 pb-3 text-center">
     <img src="/images/Logos/MOTAC_header.png" alt="motac logo" class="img-fluid" />
   </div>
 </div>
