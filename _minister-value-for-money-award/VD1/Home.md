@@ -223,7 +223,7 @@ third_nav_title: VD1
           <path d="M6.5 14.5v-3.505c0-.245.25-.495.5-.495h2c.25 0 .5.25.5.5v3.5a.5.5 0 0 0 .5.5h4a.5.5 0 0 0 .5-.5v-7a.5.5 0 0 0-.146-.354L13 5.793V2.5a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1.293L8.354 1.146a.5.5 0 0 0-.708 0l-6 6A.5.5 0 0 0 1.5 7.5v7a.5.5 0 0 0 .5.5h4a.5.5 0 0 0 .5-.5Z" />
         </svg>
       </a>
-      <a class="nav-link link-project text-decoration-none" id="nav-project-tab" href="/"> NEED FOR <br /> PROJECT </a>
+      <a class="nav-link link-project text-decoration-none" id="nav-project-tab" href="/minister-value-for-money-award/VD1/need-for-project/"> NEED FOR <br /> PROJECT </a>
       <a class="nav-link link-solution text-decoration-none" id="nav-solution-tab" href="/"> SOLUTION</a>
       <a class="nav-link link-impact text-decoration-none" id="nav-impact-tab" href="/"> IMPACT</a>
     </div>
