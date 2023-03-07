@@ -37,12 +37,18 @@ third_nav_title: VD1
     border: 1px solid #eee !important;
     color: #fff !important;
     background: rgb(39, 54, 149) !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
 
   .link-project {
     border: 1px solid #eee !important;
     color: rgb(83, 114, 122) !important;
     background-color: #fff !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
 
   .link-project.active {
@@ -55,6 +61,9 @@ third_nav_title: VD1
     border: 1px solid #eee !important;
     color: rgb(69, 148, 145) !important;
     background-color: #fff !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
 
   .link-solution.active {
@@ -67,6 +76,9 @@ third_nav_title: VD1
     border: 1px solid #eee !important;
     color: rgb(41, 95, 120) !important;
     background-color: #fff !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
 
   .link-impact.active {
