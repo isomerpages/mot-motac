@@ -45,16 +45,34 @@ third_nav_title: VD1
     background-color: #fff !important;
   }
 
+  .link-project.active {
+    border: none !important;
+    color: #fff !important;
+    background: rgb(41, 115, 144) !important;
+  }
+
   .link-solution {
     border: 1px solid #eee !important;
     color: rgb(69, 148, 145) !important;
     background-color: #fff !important;
   }
 
+  .link-solution.active {
+    border: none !important;
+    color: #fff !important;
+    background: rgb(34, 155, 189) !important;
+  }
+
   .link-impact {
     border: 1px solid #eee !important;
     color: rgb(41, 95, 120) !important;
     background-color: #fff !important;
+  }
+
+  .link-impact.active {
+    border: none !important;
+    color: #fff !important;
+    background: rgb(10, 91, 142) !important;
   }
 </style>
 <div class="container py-5 bg-card text-pri">
