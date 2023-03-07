@@ -361,5 +361,7 @@ $desktop: 960px + (2 * $gap) !default;
     justify-content: center !important;
 }
 .card-bg{
-background-color:#eee;
+background-image: url("/images/VFM/bg.png");
+background-repeat:no-repeat;
+background-size:cover;
 }
