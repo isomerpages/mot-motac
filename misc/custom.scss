@@ -20,13 +20,6 @@
 $primary: {{- site.colors.primary-color -}};
 $secondary: {{- site.colors.secondary-color -}};
 $secondary-hover: lighten($secondary, 10%);
-
-$primary: #273592;
-$secondary:#85ced6;
-$danger: #f11912;
-$warning: #f5941d;
-$success: #0b8036;
-$info:#817450;
 	
 {%- for media-color in site.colors.media-colors -%}
   ${{- media-color.title -}}: {{- media-color.color -}};
