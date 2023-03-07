@@ -6,5 +6,5 @@ description: ""
 third_nav_title: VD1
 ---
 <div class="container py-5">
-  <p class="text-center">test</p>
+  <p class="text-center text-primary">test</p>
 </div>
