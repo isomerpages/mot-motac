@@ -95,64 +95,46 @@ third_nav_title: VD1
       <h3 class="text-center  font-weight-bold"> AUTOMATED RUNWAY CONDITION REPORTING TO ENHANCE OPERATIONAL SAFETY </h3>
     </div>
     <div class="col-sm-12 text-center py-2 my-2 bg-secondary">
-      <p class="mb-0 h3  font-weight-bold text-uppercase"> NEED FOR PROJECT​ </p>
+      <p class="mb-0 h3  font-weight-bold text-uppercase">IMPACT </p>
     </div>
-    <div class="col-sm-12 py-4">
+    <div class="col-sm-12 py-5">
       <div class="row py-2">
-        <div class="col-sm-8">
+        <div class="col-sm-8  mx-auto">
+          <img src="/images/VFM/VD1/VD1 Impact 1A.png" class="img-fluid border border-5 border-primary" alt="" />
+        </div>
+        <div class="col-sm-12 py-2">
           <ul>
             <li>
-              <p> Runway excursions (inappropriate and premature exit from runway) have always been a top safety risk, with poor braking action as a key contributing factor.</p>
+              <p> One of the first few in the world to innovatively determine the real-time runway surface conditions automatically through the use of data analytics, and end-to-end integration of existing systems’ functionalities.​ </p>
             </li>
-          </ul>
-        </div>
-        <div class="col-sm-4 ">
-          <img src="/images/VFM/VD1/VD1_NeedforProject1.jpg" class="img-fluid border border-5 border-primary" alt="" />
-        </div>
-      </div>
-      <div class="row py-2">
-        <div class="col-sm-8">
-          <ul class="  ">
             <li>
-              <p>IATA analysis shows that:</p>
+              <p> Achieved higher operational efficiency, and avoidance of more than 1,000 manual measurements instances per year per runway which equates to at least 250 hours of downtime per year for each runway.​ </p>
+            </li>
+            <li>
+              <p> Achieved timely reporting of updated RCR automatically when there is a change in runway surface condition.​ </p>
+            </li>
+            <li class="fw-bold">
+              <p class="mb-0"> Total Cost Savings: ≥ $4.80mil.​ </p>
               <ul>
                 <li>
-                  <p> There was 1 runway excursion reported for every 1.3 million flights. </p>
+                  <p class="mb-0"> Annual Cost Savings: $1.35mil for 2 runways.​ </p>
                 </li>
                 <li>
-                  <p> From 2005 to 1H 2019, approximately 23% of the accidents in IATA’s global accident database involved runway excursion. </p>
+                  <p> Project Cost Savings: $3.44mil through integration with existing systems.​ </p>
                 </li>
               </ul>
             </li>
           </ul>
-        </div>
-        <div class="col-sm-4 ">
-          <img src="/images/VFM/VD1/VD1_NeedforProject2.jpg" class="img-fluid border border-5 border-secondary" alt="" />
-        </div>
-      </div>
-      <div class="row py-2">
-        <div class="col-sm-8">
-          <ul class=" ">
-            <li>
-              <p> ICAO Friction Task Force was tasked to address the problem and developed the Global Reporting Format (GRF) for runway surface conditions. </p>
-            </li>
-            <li>
-              <p>GRF to be implemented by 4 Nov 2021.​</p>
-            </li>
-          </ul>
-        </div>
-        <div class="col-sm-4 ">
-          <img src="/images/VFM/VD1/VD1_NeedforProject3.png" class="img-fluid border border-5" style="border-color: #28bd99 !important" alt="" />
         </div>
       </div>
     </div>
   </div>
   <div class="row">
     <div class="col-sm-12 text-center py-2 my-2 bg-secondary">
-      <p class="mb-0 h3  font-weight-bold text-uppercase"> PROBLEM STATEMENT </p>
+      <p class="mb-0 h3  font-weight-bold text-uppercase"> OUTCOME STATEMENT </p>
     </div>
     <div class="col-sm-12 py-2">
-      <p class="mb-0  font-weight-bold"> Need to address the problem on the lack of accuracy and timeliness of assessment and reporting methods on the runway surface conditions that had contributed to many operational safety events. </p>
+      <p class="mb-0  font-weight-bold">The implemented solution has achieved an efficient way to timely report RCR automatically that leads to operational efficiency, improved safety outcome and cost savings. </p>
     </div>
   </div>
   <nav>
@@ -162,9 +144,9 @@ third_nav_title: VD1
           <path d="M6.5 14.5v-3.505c0-.245.25-.495.5-.495h2c.25 0 .5.25.5.5v3.5a.5.5 0 0 0 .5.5h4a.5.5 0 0 0 .5-.5v-7a.5.5 0 0 0-.146-.354L13 5.793V2.5a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1.293L8.354 1.146a.5.5 0 0 0-.708 0l-6 6A.5.5 0 0 0 1.5 7.5v7a.5.5 0 0 0 .5.5h4a.5.5 0 0 0 .5-.5Z" />
         </svg>
       </a>
-      <a class="nav-link link-project active text-decoration-none" id="nav-project-tab" href="/"> NEED FOR <br /> PROJECT </a>
-      <a class="nav-link link-solution text-decoration-none" id="nav-solution-tab" href="/"> SOLUTION</a>
-      <a class="nav-link link-impact text-decoration-none" id="nav-impact-tab" href="/"> IMPACT</a>
+      <a class="nav-link link-project  text-decoration-none" id="nav-project-tab" href="/minister-value-for-money-award/VD1/need-for-project/"> NEED FOR <br /> PROJECT </a>
+      <a class="nav-link link-solution text-decoration-none" id="nav-solution-tab" href="/minister-value-for-money-award/VD1/solution/"> SOLUTION</a>
+      <a class="nav-link link-impact active text-decoration-none" id="nav-impact-tab" href="/minister-value-for-money-award/VD1/impact/"> IMPACT</a>
     </div>
   </nav>
 </div>
