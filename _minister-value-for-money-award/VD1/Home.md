@@ -30,13 +30,13 @@ third_nav_title: VD1
       <img src="/images/Logos/CAAS.png" class="img-fluid" alt="CAAS" />
     </div>
     <div class="col-sm-8 py-3 text-center bg-primary d-flex justify-content-center flex-column aligin-items-center">
-      <p class="mb-0 text-light fw-bold raleway-font"> MINISTER’S VFM ACHIEVEMENT </p>
+      <p class="mb-0 text-light font-weight-bold raleway-font"> MINISTER’S VFM ACHIEVEMENT </p>
       <p class="mb-0 distinguished-award">Distinguished Award</p>
     </div>
   </div>
   <div class="row">
     <div class="col-12">
-      <h3 class="text-center text-primary">AUTOMATED RUNWAY CONDITION REPORTING TO ENHANCE OPERATIONAL SAFETY</h3>
+      <h3 class="text-center text-primary font-weight-bold ">AUTOMATED RUNWAY CONDITION REPORTING TO ENHANCE OPERATIONAL SAFETY</h3>
       <img src="/images/VFM/VD1/VD1 IconicPic2.png" class="img-fluid border my-5" />
     </div>
   </div>
