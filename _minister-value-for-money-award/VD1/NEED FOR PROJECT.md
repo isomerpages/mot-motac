@@ -97,9 +97,55 @@ third_nav_title: VD1
     <div class="col-sm-12 text-center py-2 my-2 bg-secondary">
       <p class="mb-0 h3  font-weight-bold text-uppercase"> NEED FOR PROJECT​ </p>
     </div>
-    <div class="col-12 py-3">
-      <img src="/images/VFM/VD1/VD1 IconicPic2.png" class="img-fluid border my-5" />
+   <div class="col-sm-12">
+    <div class="row py-2">
+      <div class="col-sm-8">
+        <ul>
+          <li>
+            <p> Runway excursions (inappropriate and premature exit from runway) have always been a top safety risk, with poor braking action as a key contributing factor.</p>
+          </li>
+        </ul>
+      </div>
+      <div class="col-sm-4 ">
+        <img src="/images/VFM/VD1/VD1_NeedforProject1.jpg" class="img-fluid border border-5 border-primary" alt="" />
+      </div>
     </div>
+    <div class="row py-2">
+      <div class="col-sm-8">
+        <ul class="  ">
+          <li>
+            <p>IATA analysis shows that:</p>
+            <ul>
+              <li>
+                <p> There was 1 runway excursion reported for every 1.3 million flights. </p>
+              </li>
+              <li>
+                <p> From 2005 to 1H 2019, approximately 23% of the accidents in IATA’s global accident database involved runway excursion. </p>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+      <div class="col-sm-4 ">
+        <img src="/images/VFM/VD1/VD1_NeedforProject2.jpg" class="img-fluid border border-5 border-secondary" alt="" />
+      </div>
+    </div>
+    <div class="row py-2">
+      <div class="col-sm-8">
+        <ul class=" ">
+          <li>
+            <p> ICAO Friction Task Force was tasked to address the problem and developed the Global Reporting Format (GRF) for runway surface conditions. </p>
+          </li>
+          <li>
+            <p>GRF to be implemented by 4 Nov 2021.​</p>
+          </li>
+        </ul>
+      </div>
+      <div class="col-sm-4 ">
+        <img src="/images/VFM/VD1/VD1_NeedforProject3.png" class="img-fluid border border-5" style="border-color: #28bd99 !important" alt="" />
+      </div>
+    </div>
+  </div>
   </div>
  <div class="row">
     <div class="col-sm-12 text-center py-2 my-2 bg-secondary">
@@ -108,118 +154,7 @@ third_nav_title: VD1
      <div class="col-sm-11 text-center mx-auto py-3">
       <img src="/images/VFM/VD1/Team_Photo_Combined.jpg" class="img-fluid border border-5 border-secondary" alt="" />
     </div>
-     <div class="col-sm-11 mx-auto">
-      <div class="row py-5">
-        <div class="col-sm-6 mb-5">
-          <div class="row">
-            <div class="col-sm-6">
-              <p class="mb-2 h5  font-weight-bold">Tan Choon Leong</p>
-            </div>
-            <div class="col-sm-6">
-              <p class="mb-2 h5  font-weight-bold">Team Leader​</p>
-            </div>
-          </div>
-          <div class="row">
-            <div class="col-sm-6">
-              <p class="mb-2 h5  font-weight-bold"> Dr. Calvin Yeung </p>
-            </div>
-            <div class="col-sm-6">
-              <p class="mb-2 h5  font-weight-bold"> Co-Team Leader (Changi Airport Group) </p>
-            </div>
-          </div>
-          <div class="row">
-            <div class="col-sm-6">
-              <p class="mb-2 h5  font-weight-bold">Gao Shu</p>
-            </div>
-            <div class="col-sm-6">
-              <p class="mb-2 h5  font-weight-bold">Member</p>
-            </div>
-          </div>
-          <div class="row">
-            <div class="col-sm-6">
-              <p class="mb-2 h5  font-weight-bold">Yeoh Yee Leng</p>
-            </div>
-            <div class="col-sm-6">
-              <p class="mb-2 h5  font-weight-bold">Member</p>
-            </div>
-          </div>
-          <div class="row">
-            <div class="col-sm-6">
-              <p class="mb-2 h5  font-weight-bold">Monica Pang</p>
-            </div>
-            <div class="col-sm-6">
-              <p class="mb-2 h5  font-weight-bold">Member</p>
-            </div>
-          </div>
-          <div class="row">
-            <div class="col-sm-6">
-              <p class="mb-2 h5  font-weight-bold">Pauline Yip</p>
-            </div>
-            <div class="col-sm-6">
-              <p class="mb-2 h5  font-weight-bold">Member</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-sm-6 mb-5">
-          <div class="row">
-            <div class="col-sm-6">
-              <p class="mb-2 h5  font-weight-bold">Allan Alex Sim</p>
-            </div>
-            <div class="col-sm-6">
-              <p class="mb-2 h5  font-weight-bold">Member </p>
-            </div>
-          </div>
-          <div class="row">
-            <div class="col-sm-6">
-              <p class="mb-2 h5  font-weight-bold">Chia Wei Jie</p>
-            </div>
-            <div class="col-sm-6">
-              <p class="mb-2 h5  font-weight-bold">Member </p>
-            </div>
-          </div>
-          <div class="row">
-            <div class="col-sm-6">
-              <p class="mb-2 h5  font-weight-bold">Edwin Chow​</p>
-            </div>
-            <div class="col-sm-6">
-              <p class="mb-2 h5  font-weight-bold"> Member (Changi Airport Group) </p>
-            </div>
-          </div>
-          <div class="row">
-            <div class="col-sm-6">
-              <p class="mb-2 h5  font-weight-bold">Adelene Yeong​</p>
-            </div>
-            <div class="col-sm-6">
-              <p class="mb-2 h5  font-weight-bold">Member</p>
-            </div>
-          </div>
-          <div class="row">
-            <div class="col-sm-6">
-              <p class="mb-2 h5  font-weight-bold">Jon Tay​</p>
-            </div>
-            <div class="col-sm-6">
-              <p class="mb-2 h5  font-weight-bold">Member</p>
-            </div>
-          </div>
-          <div class="row">
-            <div class="col-sm-6">
-              <p class="mb-2 h5  font-weight-bold">Jeff Loke​</p>
-            </div>
-            <div class="col-sm-6">
-              <p class="mb-2 h5  font-weight-bold">Member</p>
-            </div>
-          </div>
-          <div class="row">
-            <div class="col-sm-6">
-              <p class="mb-2 h5  font-weight-bold">Victor Lee​</p>
-            </div>
-            <div class="col-sm-6">
-              <p class="mb-2 h5  font-weight-bold">Member</p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
+     
   </div>
   <nav>
     <div class="nav nav-tabs nav-fill" id="nav-tab" role="tablist">
