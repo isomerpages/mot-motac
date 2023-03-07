@@ -17,11 +17,9 @@ third_nav_title: VD1
     color: #ffcc66;
   }
 	.bg {
-
-    background: url('/images/VFM/bg.png');
+    background: url("https://staging.d2summg9pochhh.amplifyapp.com/images/VFM/bg.png");
     background-repeat:no-repeat;
   background-size:cover;
-
   }
 </style>
 
