@@ -5,7 +5,7 @@ permalink: /minister-value-for-money-award/VD1/impact/
 description: ""
 third_nav_title: VD1
 ---
-<style>
+<style type="text/css">
   .raleway-font {
     font-family: "Raleway", sans-serif;
     font-size: 2rem;
