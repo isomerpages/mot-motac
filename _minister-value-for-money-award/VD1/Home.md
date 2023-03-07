@@ -107,7 +107,7 @@ third_nav_title: VD1
     </div>
      <div class="col-sm-11 mx-auto">
       <div class="row py-5">
-        <div class="col-sm-6 mb-2">
+        <div class="col-sm-6 mb-5">
           <div class="row">
             <div class="col-sm-6">
               <p class="mb-2 h5  font-weight-bold">Tan Choon Leong</p>
@@ -157,7 +157,7 @@ third_nav_title: VD1
             </div>
           </div>
         </div>
-        <div class="col-sm-6 mb-2">
+        <div class="col-sm-6 mb-5">
           <div class="row">
             <div class="col-sm-6">
               <p class="mb-2 h5  font-weight-bold">Allan Alex Sim</p>
