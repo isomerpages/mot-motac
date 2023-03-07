@@ -16,9 +16,16 @@ third_nav_title: VD1
     font-size: 2rem;
     color: #ffcc66;
   }
+	.bg {
+
+    background: url('/images/VFM/bg.png');
+    background-repeat:no-repeat;
+  background-size:cover;
+
+  }
 </style>
 
-<div class="container py-5">
+<div class="container py-5 bg">
 	<div class="row">
   <div class="col-sm-12 pt-4 pb-3 text-center bg">
     <img src="/images/Logos/MOTAC_header.png" alt="motac logo" class="img-fluid" />
