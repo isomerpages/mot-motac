@@ -6,8 +6,16 @@ description: ""
 third_nav_title: VD1
 ---
 <style>
-	</style>
+  .raleway-font {
+    font-family: "Raleway", sans-serif;
+  }
 
+  .distinguished-award {
+    font-family: 'Vivaldi', sans-serif;
+    font-size: 3.5rem;
+    color: #ffcc66;
+  }
+</style>
 
 <div class="container py-5">
 	<div class="row">
