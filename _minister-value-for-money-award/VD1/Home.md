@@ -226,8 +226,8 @@ third_nav_title: VD1
         </svg>
       </a>
       <a class="nav-link link-project text-decoration-none" id="nav-project-tab" href="/minister-value-for-money-award/VD1/need-for-project/"> NEED FOR <br /> PROJECT </a>
-      <a class="nav-link link-solution text-decoration-none" id="nav-solution-tab" href="/"> SOLUTION</a>
-      <a class="nav-link link-impact text-decoration-none" id="nav-impact-tab" href="/"> IMPACT</a>
+      <a class="nav-link link-solution text-decoration-none" id="nav-solution-tab" href="/minister-value-for-money-award/VD1/solution/"> SOLUTION</a>
+      <a class="nav-link link-impact text-decoration-none" id="nav-impact-tab" href="/minister-value-for-money-award/VD1/impact/"> IMPACT</a>
     </div>
   </nav>
 </div>
