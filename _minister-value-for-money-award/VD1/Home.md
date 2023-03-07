@@ -93,6 +93,8 @@ third_nav_title: VD1
   <div class="row">
     <div class="col-12 py-5">
       <h3 class="text-center  font-weight-bold"> AUTOMATED RUNWAY CONDITION REPORTING TO ENHANCE OPERATIONAL SAFETY </h3>
+    </div>
+    <div class="col-12 py-3">
       <img src="/images/VFM/VD1/VD1 IconicPic2.png" class="img-fluid border my-5" />
     </div>
   </div>
