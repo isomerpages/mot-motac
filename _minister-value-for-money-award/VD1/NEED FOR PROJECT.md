@@ -152,7 +152,7 @@ third_nav_title: VD1
       <p class="mb-0 h3  font-weight-bold text-uppercase"> PROBLEM STATEMENT </p>
     </div>
     <div class="col-sm-12 py-2">
-      <p class="mb-0 fs-5 text-primary font-weight-bold"> Need to address the problem on the lack of accuracy and timeliness of assessment and reporting methods on the runway surface conditions that had contributed to many operational safety events. </p>
+      <p class="mb-0  font-weight-bold"> Need to address the problem on the lack of accuracy and timeliness of assessment and reporting methods on the runway surface conditions that had contributed to many operational safety events. </p>
     </div>
   </div>
   <nav>
