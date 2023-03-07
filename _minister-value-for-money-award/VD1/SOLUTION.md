@@ -1,4 +1,5 @@
 ---
+layout: skeleton
 title: SOLUTION
 permalink: /minister-value-for-money-award/VD1/solution/
 description: ""
