@@ -8,11 +8,12 @@ third_nav_title: VD1
 <style>
   .raleway-font {
     font-family: "Raleway", sans-serif;
+    font-size: 2rem;
   }
 
   .distinguished-award {
     font-family: 'Vivaldi', sans-serif;
-    font-size: 3.5rem;
+    font-size: 2rem;
     color: #ffcc66;
   }
 </style>
@@ -28,7 +29,7 @@ third_nav_title: VD1
     <img src="/images/Logos/CAAS.png" class="img-fluid" alt="CAAS" />
   </div>
   <div class="col-sm-8 py-3 text-center bg-primary d-flex justify-content-center flex-column aligin-items-center">
-    <p class="mb-0 fs-2 text-light fw-bold raleway-font"> MINISTER’S VFM ACHIEVEMENT </p>
+    <p class="mb-0 text-light fw-bold raleway-font"> MINISTER’S VFM ACHIEVEMENT </p>
     <p class="mb-0 distinguished-award">Distinguished Award</p>
   </div>
 </div>
