@@ -5,3 +5,166 @@ permalink: /minister-value-for-money-award/VD1/impact/
 description: ""
 third_nav_title: VD1
 ---
+<style>
+  .raleway-font {
+    font-family: "Raleway", sans-serif;
+    font-size: 2rem;
+  }
+
+  .distinguished-award {
+    font-family: "Vivaldi", sans-serif;
+    font-size: 2rem;
+    color: #ffcc66;
+  }
+
+  .text-pri {
+    color: #273592;
+  }
+
+  .nav-tabs {
+    border-bottom: none !important;
+    overflow: hidden !important;
+  }
+
+  .nav-link {
+    margin: 8px !important;
+    border-radius: 0px !important;
+    font-weight: 700 !important;
+    padding: 0.5rem 2.8rem !important;
+  }
+
+  .link-home {
+    border: 1px solid #eee !important;
+    color: #fff !important;
+    background: rgb(39, 54, 149) !important;
+  }
+
+  .link-project {
+    border: 1px solid #eee !important;
+    color: rgb(83, 114, 122) !important;
+    background-color: #fff !important;
+  }
+
+  .link-project.active {
+    border: none !important;
+    color: #fff !important;
+    background: rgb(41, 115, 144) !important;
+  }
+
+  .link-solution {
+    border: 1px solid #eee !important;
+    color: rgb(69, 148, 145) !important;
+    background-color: #fff !important;
+  }
+
+  .link-solution.active {
+    border: none !important;
+    color: #fff !important;
+    background: rgb(34, 155, 189) !important;
+  }
+
+  .link-impact {
+    border: 1px solid #eee !important;
+    color: rgb(41, 95, 120) !important;
+    background-color: #fff !important;
+  }
+
+  .link-impact.active {
+    border: none !important;
+    color: #fff !important;
+    background: rgb(10, 91, 142) !important;
+  }
+</style>
+<div class="container py-5 card-bg text-pri">
+  <div class="row">
+    <div class="col-sm-12 pt-4 pb-3 text-center">
+      <img src="/images/Logos/MOTAC_header.png" alt="motac logo" class="img-fluid" />
+    </div>
+  </div>
+  <div class="row border border-4 border-info">
+    <div class="col-sm-4 py-3 text-center d-flex flex-column align-items-center justify-content-center">
+      <img src="/images/Logos/CAAS.png" class="img-fluid" alt="CAAS" />
+    </div>
+    <div class="col-sm-8 py-3 text-center bg-primary d-flex justify-content-center flex-column aligin-items-center">
+      <p class="mb-0 text-light font-weight-bold raleway-font"> MINISTER’S VFM ACHIEVEMENT </p>
+      <p class="mb-0 distinguished-award">Distinguished Award</p>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-12 py-3">
+      <h3 class="text-center  font-weight-bold"> AUTOMATED RUNWAY CONDITION REPORTING TO ENHANCE OPERATIONAL SAFETY </h3>
+    </div>
+    <div class="col-sm-12 text-center py-2 my-2 bg-secondary">
+      <p class="mb-0 h3  font-weight-bold text-uppercase"> NEED FOR PROJECT​ </p>
+    </div>
+    <div class="col-sm-12 py-4">
+      <div class="row py-2">
+        <div class="col-sm-8">
+          <ul>
+            <li>
+              <p> Runway excursions (inappropriate and premature exit from runway) have always been a top safety risk, with poor braking action as a key contributing factor.</p>
+            </li>
+          </ul>
+        </div>
+        <div class="col-sm-4 ">
+          <img src="/images/VFM/VD1/VD1_NeedforProject1.jpg" class="img-fluid border border-5 border-primary" alt="" />
+        </div>
+      </div>
+      <div class="row py-2">
+        <div class="col-sm-8">
+          <ul class="  ">
+            <li>
+              <p>IATA analysis shows that:</p>
+              <ul>
+                <li>
+                  <p> There was 1 runway excursion reported for every 1.3 million flights. </p>
+                </li>
+                <li>
+                  <p> From 2005 to 1H 2019, approximately 23% of the accidents in IATA’s global accident database involved runway excursion. </p>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+        <div class="col-sm-4 ">
+          <img src="/images/VFM/VD1/VD1_NeedforProject2.jpg" class="img-fluid border border-5 border-secondary" alt="" />
+        </div>
+      </div>
+      <div class="row py-2">
+        <div class="col-sm-8">
+          <ul class=" ">
+            <li>
+              <p> ICAO Friction Task Force was tasked to address the problem and developed the Global Reporting Format (GRF) for runway surface conditions. </p>
+            </li>
+            <li>
+              <p>GRF to be implemented by 4 Nov 2021.​</p>
+            </li>
+          </ul>
+        </div>
+        <div class="col-sm-4 ">
+          <img src="/images/VFM/VD1/VD1_NeedforProject3.png" class="img-fluid border border-5" style="border-color: #28bd99 !important" alt="" />
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm-12 text-center py-2 my-2 bg-secondary">
+      <p class="mb-0 h3  font-weight-bold text-uppercase"> PROBLEM STATEMENT </p>
+    </div>
+    <div class="col-sm-12 py-2">
+      <p class="mb-0  font-weight-bold"> Need to address the problem on the lack of accuracy and timeliness of assessment and reporting methods on the runway surface conditions that had contributed to many operational safety events. </p>
+    </div>
+  </div>
+  <nav>
+    <div class="nav nav-tabs nav-fill" id="nav-tab" role="tablist">
+      <a class="nav-link text-uppercase link-home text-decoration-none" id="nav-home-tab" href="/minister-value-for-money-award/VD1/home/">
+        <svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" fill="currentColor" class="bi bi-house-door-fill" viewBox="0 0 16 16">
+          <path d="M6.5 14.5v-3.505c0-.245.25-.495.5-.495h2c.25 0 .5.25.5.5v3.5a.5.5 0 0 0 .5.5h4a.5.5 0 0 0 .5-.5v-7a.5.5 0 0 0-.146-.354L13 5.793V2.5a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1.293L8.354 1.146a.5.5 0 0 0-.708 0l-6 6A.5.5 0 0 0 1.5 7.5v7a.5.5 0 0 0 .5.5h4a.5.5 0 0 0 .5-.5Z" />
+        </svg>
+      </a>
+      <a class="nav-link link-project active text-decoration-none" id="nav-project-tab" href="/"> NEED FOR <br /> PROJECT </a>
+      <a class="nav-link link-solution text-decoration-none" id="nav-solution-tab" href="/"> SOLUTION</a>
+      <a class="nav-link link-impact text-decoration-none" id="nav-impact-tab" href="/"> IMPACT</a>
+    </div>
+  </nav>
+</div>
