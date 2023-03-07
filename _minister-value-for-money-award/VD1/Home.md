@@ -20,6 +20,42 @@ third_nav_title: VD1
   .text-pri {
     color: #273592;
   }
+
+  .nav-tabs {
+    border-bottom: none;
+    overflow: hidden;
+  }
+
+  .nav-link {
+    margin: 8px;
+    border-radius: 0px;
+    font-weight: 700;
+    padding: 0.5rem 2.8rem;
+  }
+
+  .link-home {
+    border: 1px solid #eee;
+    color: #fff;
+    background: rgb(39, 54, 149);
+  }
+
+  .link-project {
+    border: 1px solid #eee;
+    color: rgb(83, 114, 122);
+    background-color: #fff;
+  }
+
+  .link-solution {
+    border: 1px solid #eee;
+    color: rgb(69, 148, 145);
+    background-color: #fff;
+  }
+
+  .link-impact {
+    border: 1px solid #eee;
+    color: rgb(41, 95, 120);
+    background-color: #fff;
+  }
 </style>
 <div class="container py-5 bg-card text-pri">
   <div class="row">
@@ -160,4 +196,16 @@ third_nav_title: VD1
       </div>
     </div>
   </div>
+  <nav>
+    <div class="nav nav-tabs nav-fill" id="nav-tab" role="tablist">
+      <button class="nav-link active text-uppercase link-home" id="nav-home-tab" data-bs-toggle="tab" data-bs-target="#nav-home" type="button" role="tab" aria-controls="nav-home" aria-selected="true">
+        <svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" fill="currentColor" class="bi bi-house-door-fill" viewBox="0 0 16 16">
+          <path d="M6.5 14.5v-3.505c0-.245.25-.495.5-.495h2c.25 0 .5.25.5.5v3.5a.5.5 0 0 0 .5.5h4a.5.5 0 0 0 .5-.5v-7a.5.5 0 0 0-.146-.354L13 5.793V2.5a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1.293L8.354 1.146a.5.5 0 0 0-.708 0l-6 6A.5.5 0 0 0 1.5 7.5v7a.5.5 0 0 0 .5.5h4a.5.5 0 0 0 .5-.5Z" />
+        </svg>
+      </button>
+      <button class="nav-link link-project" id="nav-project-tab" data-bs-toggle="tab" data-bs-target="#nav-project" type="button" role="tab" aria-controls="nav-project" aria-selected="false"> NEED FOR <br /> PROJECT </button>
+      <button class="nav-link link-solution" id="nav-solution-tab" data-bs-toggle="tab" data-bs-target="#nav-solution" type="button" role="tab" aria-controls="nav-solution" aria-selected="false"> SOLUTION​ </button>
+      <button class="nav-link link-impact" id="nav-impact-tab" data-bs-toggle="tab" data-bs-target="#nav-impact" type="button" role="tab" aria-controls="nav-impact" aria-selected="false"> IMPACT​ </button>
+    </div>
+  </nav>
 </div>
