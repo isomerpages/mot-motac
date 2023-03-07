@@ -44,7 +44,7 @@ third_nav_title: VD1
     <div class="col-sm-12 text-center py-2 my-2 bg-secondary">
       <p class="mb-0 h3 text-primary font-weight-bold text-uppercase"> Project Team​ </p>
     </div>
-    <div class="col-sm-11 text-center mx-auto ">
+    <div class="col-sm-11 text-center mx-auto py-3 ">
       <img src="/images/VFM/VD1/Team_Photo_Combined.jpg" class="img-fluid border border-5 border-secondary" alt="" />
     </div>
     <div class="row py-5">
