@@ -1,13 +1,24 @@
 ---
-layout: homepage
 title: Example Title
 permalink: /example/
-description: ""
-sections:
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
 ---
+<style type="text/css" media="screen">
+  .container {
+    margin: 10px auto;
+    max-width: 600px;
+    text-align: center;
+  }
+  h1 {
+    margin: 30px 0;
+    font-size: 4em;
+    line-height: 1;
+    letter-spacing: -1px;
+  }
+</style>
+
+<div class="container">
+  <h1>test</h1>
+
+  <p><strong>Testing example</strong></p>
+  <p>The requested page could not be found.</p>
+</div>
