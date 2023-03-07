@@ -22,39 +22,39 @@ third_nav_title: VD1
   }
 
   .nav-tabs {
-    border-bottom: none;
-    overflow: hidden;
+    border-bottom: none !important;
+    overflow: hidden !important;
   }
 
   .nav-link {
-    margin: 8px;
-    border-radius: 0px;
-    font-weight: 700;
-    padding: 0.5rem 2.8rem;
+    margin: 8px !important;
+    border-radius: 0px !important;
+    font-weight: 700 !important;
+    padding: 0.5rem 2.8rem !important;
   }
 
   .link-home {
-    border: 1px solid #eee;
-    color: #fff;
-    background: rgb(39, 54, 149);
+    border: 1px solid #eee !important;
+    color: #fff !important;
+    background: rgb(39, 54, 149) !important;
   }
 
   .link-project {
-    border: 1px solid #eee;
-    color: rgb(83, 114, 122);
-    background-color: #fff;
+    border: 1px solid #eee !important;
+    color: rgb(83, 114, 122) !important;
+    background-color: #fff !important;
   }
 
   .link-solution {
-    border: 1px solid #eee;
-    color: rgb(69, 148, 145);
-    background-color: #fff;
+    border: 1px solid #eee !important;
+    color: rgb(69, 148, 145) !important;
+    background-color: #fff !important;
   }
 
   .link-impact {
-    border: 1px solid #eee;
-    color: rgb(41, 95, 120);
-    background-color: #fff;
+    border: 1px solid #eee !important;
+    color: rgb(41, 95, 120) !important;
+    background-color: #fff !important;
   }
 </style>
 <div class="container py-5 bg-card text-pri">
