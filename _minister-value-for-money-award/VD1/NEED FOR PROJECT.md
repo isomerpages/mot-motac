@@ -97,64 +97,63 @@ third_nav_title: VD1
     <div class="col-sm-12 text-center py-2 my-2 bg-secondary">
       <p class="mb-0 h3  font-weight-bold text-uppercase"> NEED FOR PROJECT​ </p>
     </div>
-   <div class="col-sm-12 py-4">
-    <div class="row py-2">
-      <div class="col-sm-8">
-        <ul>
-          <li>
-            <p> Runway excursions (inappropriate and premature exit from runway) have always been a top safety risk, with poor braking action as a key contributing factor.</p>
-          </li>
-        </ul>
+    <div class="col-sm-12 py-4">
+      <div class="row py-2">
+        <div class="col-sm-8">
+          <ul>
+            <li>
+              <p> Runway excursions (inappropriate and premature exit from runway) have always been a top safety risk, with poor braking action as a key contributing factor.</p>
+            </li>
+          </ul>
+        </div>
+        <div class="col-sm-4 ">
+          <img src="/images/VFM/VD1/VD1_NeedforProject1.jpg" class="img-fluid border border-5 border-primary" alt="" />
+        </div>
       </div>
-      <div class="col-sm-4 ">
-        <img src="/images/VFM/VD1/VD1_NeedforProject1.jpg" class="img-fluid border border-5 border-primary" alt="" />
+      <div class="row py-2">
+        <div class="col-sm-8">
+          <ul class="  ">
+            <li>
+              <p>IATA analysis shows that:</p>
+              <ul>
+                <li>
+                  <p> There was 1 runway excursion reported for every 1.3 million flights. </p>
+                </li>
+                <li>
+                  <p> From 2005 to 1H 2019, approximately 23% of the accidents in IATA’s global accident database involved runway excursion. </p>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+        <div class="col-sm-4 ">
+          <img src="/images/VFM/VD1/VD1_NeedforProject2.jpg" class="img-fluid border border-5 border-secondary" alt="" />
+        </div>
       </div>
-    </div>
-    <div class="row py-2">
-      <div class="col-sm-8">
-        <ul class="  ">
-          <li>
-            <p>IATA analysis shows that:</p>
-            <ul>
-              <li>
-                <p> There was 1 runway excursion reported for every 1.3 million flights. </p>
-              </li>
-              <li>
-                <p> From 2005 to 1H 2019, approximately 23% of the accidents in IATA’s global accident database involved runway excursion. </p>
-              </li>
-            </ul>
-          </li>
-        </ul>
-      </div>
-      <div class="col-sm-4 ">
-        <img src="/images/VFM/VD1/VD1_NeedforProject2.jpg" class="img-fluid border border-5 border-secondary" alt="" />
-      </div>
-    </div>
-    <div class="row py-2">
-      <div class="col-sm-8">
-        <ul class=" ">
-          <li>
-            <p> ICAO Friction Task Force was tasked to address the problem and developed the Global Reporting Format (GRF) for runway surface conditions. </p>
-          </li>
-          <li>
-            <p>GRF to be implemented by 4 Nov 2021.​</p>
-          </li>
-        </ul>
-      </div>
-      <div class="col-sm-4 ">
-        <img src="/images/VFM/VD1/VD1_NeedforProject3.png" class="img-fluid border border-5" style="border-color: #28bd99 !important" alt="" />
+      <div class="row py-2">
+        <div class="col-sm-8">
+          <ul class=" ">
+            <li>
+              <p> ICAO Friction Task Force was tasked to address the problem and developed the Global Reporting Format (GRF) for runway surface conditions. </p>
+            </li>
+            <li>
+              <p>GRF to be implemented by 4 Nov 2021.​</p>
+            </li>
+          </ul>
+        </div>
+        <div class="col-sm-4 ">
+          <img src="/images/VFM/VD1/VD1_NeedforProject3.png" class="img-fluid border border-5" style="border-color: #28bd99 !important" alt="" />
+        </div>
       </div>
     </div>
   </div>
-  </div>
- <div class="row">
+  <div class="row">
     <div class="col-sm-12 text-center py-2 my-2 bg-secondary">
-      <p class="mb-0 h3  font-weight-bold text-uppercase"> Project Team​ </p>
+      <p class="mb-0 h3  font-weight-bold text-uppercase"> PROBLEM STATEMENT </p>
     </div>
-     <div class="col-sm-11 text-center mx-auto py-3">
-      <img src="/images/VFM/VD1/Team_Photo_Combined.jpg" class="img-fluid border border-5 border-secondary" alt="" />
+    <div class="col-sm-12 py-2">
+      <p class="mb-0 fs-5 text-primary fw-bold"> Need to address the problem on the lack of accuracy and timeliness of assessment and reporting methods on the runway surface conditions that had contributed to many operational safety events. </p>
     </div>
-     
   </div>
   <nav>
     <div class="nav nav-tabs nav-fill" id="nav-tab" role="tablist">
