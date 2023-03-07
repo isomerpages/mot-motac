@@ -98,4 +98,9 @@ third_nav_title: VD1
       <img src="/images/VFM/VD1/VD1 IconicPic2.png" class="img-fluid border my-5" />
     </div>
   </div>
+   <div class="row">
+    <div class="col-sm-12 text-center py-2 my-2 bg-secondary">
+      <p class="mb-0 h3  font-weight-bold text-uppercase"> Project Team​ </p>
+    </div>
+  </div>
 </div>
