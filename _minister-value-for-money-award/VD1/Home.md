@@ -100,7 +100,7 @@ third_nav_title: VD1
       <img src="/images/Logos/CAAS.png" class="img-fluid" alt="CAAS" />
     </div>
     <div class="col-sm-8 py-3 text-center bg-primary d-flex justify-content-center flex-column aligin-items-center">
-      <p class="mb-0 text-light font-weight-bold raleway-font"> MINISTER’S VFM ACHIEVEMENT AWARD</p>
+      <p class="mb-1 text-light font-weight-bold raleway-font"> MINISTER’S VFM ACHIEVEMENT AWARD</p>
       <p class="mb-0 distinguished-award">Distinguished Award</p>
     </div>
   </div>
