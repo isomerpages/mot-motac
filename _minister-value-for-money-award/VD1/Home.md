@@ -12,7 +12,7 @@ third_nav_title: VD1
   }
 
   .distinguished-award {
-    font-family: "Vivaldi", sans-serif;
+    font-family: 'Tangerine', cursive;
     font-size: 2rem;
     color: #ffcc66;
   }
