@@ -117,26 +117,27 @@ third_nav_title: VD2
             </li>
           </ul>
         </div>
-      </div </div>
-    </div>
-    <div class="row">
-      <div class="col-sm-12 text-center py-2 my-2 bg-secondary">
-        <p class="mb-0 h3  font-weight-bold text-uppercase"> PROBLEM STATEMENT </p>
-      </div>
-      <div class="col-sm-12 py-2">
-        <p class="mb-0  font-weight-bold"> Need to optimise the design of JRL viaduct bearing for efficient Operation and Maintenance and avoid future maintenance issue on viaduct bearing. </p>
       </div>
     </div>
-    <nav>
-      <div class="nav nav-tabs nav-fill" id="nav-tab" role="tablist">
-        <a class="nav-link text-uppercase link-home text-decoration-none" id="nav-home-tab" href="/minister-value-for-money-award/VD2/home/">
-          <svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" fill="currentColor" class="bi bi-house-door-fill" viewBox="0 0 16 16">
-            <path d="M6.5 14.5v-3.505c0-.245.25-.495.5-.495h2c.25 0 .5.25.5.5v3.5a.5.5 0 0 0 .5.5h4a.5.5 0 0 0 .5-.5v-7a.5.5 0 0 0-.146-.354L13 5.793V2.5a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1.293L8.354 1.146a.5.5 0 0 0-.708 0l-6 6A.5.5 0 0 0 1.5 7.5v7a.5.5 0 0 0 .5.5h4a.5.5 0 0 0 .5-.5Z" />
-          </svg>
-        </a>
-        <a class="nav-link link-project active text-decoration-none" id="nav-project-tab" href="/minister-value-for-money-award/VD2/need-for-project/"> NEED FOR <br /> PROJECT </a>
-        <a class="nav-link link-solution text-decoration-none" id="nav-solution-tab" href="/minister-value-for-money-award/VD2/solution/"> SOLUTION</a>
-        <a class="nav-link link-impact text-decoration-none" id="nav-impact-tab" href="/minister-value-for-money-award/VD2/impact/"> IMPACT</a>
-      </div>
-    </nav>
   </div>
+  <div class="row">
+    <div class="col-sm-12 text-center py-2 my-2 bg-secondary">
+      <p class="mb-0 h3  font-weight-bold text-uppercase"> PROBLEM STATEMENT </p>
+    </div>
+    <div class="col-sm-12 py-2">
+      <p class="mb-0  font-weight-bold"> Need to optimise the design of JRL viaduct bearing for efficient Operation and Maintenance and avoid future maintenance issue on viaduct bearing. </p>
+    </div>
+  </div>
+  <nav>
+    <div class="nav nav-tabs nav-fill" id="nav-tab" role="tablist">
+      <a class="nav-link text-uppercase link-home text-decoration-none" id="nav-home-tab" href="/minister-value-for-money-award/VD2/home/">
+        <svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" fill="currentColor" class="bi bi-house-door-fill" viewBox="0 0 16 16">
+          <path d="M6.5 14.5v-3.505c0-.245.25-.495.5-.495h2c.25 0 .5.25.5.5v3.5a.5.5 0 0 0 .5.5h4a.5.5 0 0 0 .5-.5v-7a.5.5 0 0 0-.146-.354L13 5.793V2.5a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1.293L8.354 1.146a.5.5 0 0 0-.708 0l-6 6A.5.5 0 0 0 1.5 7.5v7a.5.5 0 0 0 .5.5h4a.5.5 0 0 0 .5-.5Z" />
+        </svg>
+      </a>
+      <a class="nav-link link-project active text-decoration-none" id="nav-project-tab" href="/minister-value-for-money-award/VD2/need-for-project/"> NEED FOR <br /> PROJECT </a>
+      <a class="nav-link link-solution text-decoration-none" id="nav-solution-tab" href="/minister-value-for-money-award/VD2/solution/"> SOLUTION</a>
+      <a class="nav-link link-impact text-decoration-none" id="nav-impact-tab" href="/minister-value-for-money-award/VD2/impact/"> IMPACT</a>
+    </div>
+  </nav>
+</div>
