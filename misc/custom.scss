@@ -247,6 +247,7 @@ $desktop: 960px + (2 * $gap) !default;
   }
 
   .navbar-item{
+	  color:#fff;
     .sub-link.is-active{
       color:$secondary;
     }
