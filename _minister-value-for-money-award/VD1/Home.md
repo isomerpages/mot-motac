@@ -15,6 +15,7 @@ third_nav_title: VD1
     font-family: 'Tangerine', cursive;
     font-size: 4rem;
     color: #ffcc66;
+	line-height: 4rem;
   }
 
   .text-pri {
