@@ -9,6 +9,7 @@ third_nav_title: VD1
   .raleway-font {
     font-family: "Raleway", sans-serif;
     font-size: 2rem;
+	line-height: 2rem;
   }
 
   .distinguished-award {
