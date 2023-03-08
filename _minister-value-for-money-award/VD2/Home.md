@@ -111,124 +111,123 @@ third_nav_title: VD2
         <div class="col-sm-6 mb-5">
           <div class="row">
             <div class="col-sm-6">
-              <p class="mb-2 fs-5 text-primary fw-bold"> Paul Fok </p>
+              <p class="mb-2 text-pri fw-bold"> Paul Fok </p>
             </div>
             <div class="col-sm-6">
-              <p class="mb-2 fs-5 text-primary fw-bold"> Advisor </p>
-            </div>
-          </div>
-          <div class="row">
-            <div class="col-sm-6">
-              <p class="mb-2 fs-5 text-primary fw-bold"> Choo Chai Foong </p>
-            </div>
-            <div class="col-sm-6">
-              <p class="mb-2 fs-5 text-primary fw-bold"> Advisor </p>
+              <p class="mb-2 text-pri fw-bold"> Advisor </p>
             </div>
           </div>
           <div class="row">
             <div class="col-sm-6">
-              <p class="mb-2 fs-5 text-primary fw-bold"> Neo Bian Hong </p>
+              <p class="mb-2 text-pri fw-bold"> Choo Chai Foong </p>
             </div>
             <div class="col-sm-6">
-              <p class="mb-2 fs-5 text-primary fw-bold"> Advisor </p>
-            </div>
-          </div>
-          <div class="row">
-            <div class="col-sm-6">
-              <p class="mb-2 fs-5 text-primary fw-bold"> Goh Kok Hun </p>
-            </div>
-            <div class="col-sm-6">
-              <p class="mb-2 fs-5 text-primary fw-bold"> Advisor </p>
+              <p class="mb-2 text-pri fw-bold"> Advisor </p>
             </div>
           </div>
           <div class="row">
             <div class="col-sm-6">
-              <p class="mb-2 fs-5 text-primary fw-bold"> Jeyatharan Kumarasamy </p>
+              <p class="mb-2 text-pri fw-bold"> Neo Bian Hong </p>
             </div>
             <div class="col-sm-6">
-              <p class="mb-2 fs-5 text-primary fw-bold"> Advisor </p>
-            </div>
-          </div>
-          <div class="row">
-            <div class="col-sm-6">
-              <p class="mb-2 fs-5 text-primary fw-bold"> Kenneth Liew </p>
-            </div>
-            <div class="col-sm-6">
-              <p class="mb-2 fs-5 text-primary fw-bold"> Advisor </p>
+              <p class="mb-2 text-pri fw-bold"> Advisor </p>
             </div>
           </div>
           <div class="row">
             <div class="col-sm-6">
-              <p class="mb-2 fs-5 text-primary fw-bold"> Novilia Silman </p>
+              <p class="mb-2 text-pri fw-bold"> Goh Kok Hun </p>
             </div>
             <div class="col-sm-6">
-              <p class="mb-2 fs-5 text-primary fw-bold"> Team Leader </p>
+              <p class="mb-2 text-pri fw-bold"> Advisor </p>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-sm-6">
+              <p class="mb-2 text-pri fw-bold"> Jeyatharan Kumarasamy </p>
+            </div>
+            <div class="col-sm-6">
+              <p class="mb-2 text-pri fw-bold"> Advisor </p>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-sm-6">
+              <p class="mb-2 text-pri fw-bold"> Kenneth Liew </p>
+            </div>
+            <div class="col-sm-6">
+              <p class="mb-2 text-pri fw-bold"> Advisor </p>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-sm-6">
+              <p class="mb-2 text-pri fw-bold"> Novilia Silman </p>
+            </div>
+            <div class="col-sm-6">
+              <p class="mb-2 text-pri fw-bold"> Team Leader </p>
             </div>
           </div>
         </div>
         <div class="col-sm-6 mb-5">
           <div class="row">
             <div class="col-sm-6">
-              <p class="mb-2 fs-5 text-primary fw-bold"> Jemmy Patras </p>
+              <p class="mb-2 text-pri fw-bold"> Jemmy Patras </p>
             </div>
             <div class="col-sm-6">
-              <p class="mb-2 fs-5 text-primary fw-bold"> Dy Team Leader  </p>
-            </div>
-          </div>
-          <div class="row">
-            <div class="col-sm-6">
-              <p class="mb-2 fs-5 text-primary fw-bold"> Sim Yuan Teng, Nicholas </p>
-            </div>
-            <div class="col-sm-6">
-              <p class="mb-2 fs-5 text-primary fw-bold"> Team Member </p>
+              <p class="mb-2 text-pri fw-bold"> Dy Team Leader  </p>
             </div>
           </div>
           <div class="row">
             <div class="col-sm-6">
-              <p class="mb-2 fs-5 text-primary fw-bold"> Ma Wei </p>
+              <p class="mb-2 text-pri fw-bold"> Sim Yuan Teng, Nicholas </p>
             </div>
             <div class="col-sm-6">
-              <p class="mb-2 fs-5 text-primary fw-bold"> Team Member </p>
-            </div>
-          </div>
-          <div class="row">
-            <div class="col-sm-6">
-              <p class="mb-2 fs-5 text-primary fw-bold"> Lee Eng Ming </p>
-            </div>
-            <div class="col-sm-6">
-              <p class="mb-2 fs-5 text-primary fw-bold"> Team Member </p>
+              <p class="mb-2 text-pri fw-bold"> Team Member </p>
             </div>
           </div>
           <div class="row">
             <div class="col-sm-6">
-              <p class="mb-2 fs-5 text-primary fw-bold"> David Chen </p>
+              <p class="mb-2 text-pri fw-bold"> Ma Wei </p>
             </div>
             <div class="col-sm-6">
-              <p class="mb-2 fs-5 text-primary fw-bold"> Team Member </p>
+              <p class="mb-2 text-pri fw-bold"> Team Member </p>
             </div>
           </div>
           <div class="row">
             <div class="col-sm-6">
-              <p class="mb-2 fs-5 text-primary fw-bold"> Basant Kumar </p>
+              <p class="mb-2 text-pri fw-bold"> Lee Eng Ming </p>
             </div>
             <div class="col-sm-6">
-              <p class="mb-2 fs-5 text-primary fw-bold"> Team Member </p>
+              <p class="mb-2 text-pri fw-bold"> Team Member </p>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-sm-6">
+              <p class="mb-2 text-pri fw-bold"> David Chen </p>
+            </div>
+            <div class="col-sm-6">
+              <p class="mb-2 text-pri fw-bold"> Team Member </p>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-sm-6">
+              <p class="mb-2 text-pri fw-bold"> Basant Kumar </p>
+            </div>
+            <div class="col-sm-6">
+              <p class="mb-2 text-pri fw-bold"> Team Member </p>
             </div>
           </div>
         </div>
       </div>
     </div>
+    <nav>
+      <div class="nav nav-tabs nav-fill" id="nav-tab" role="tablist">
+        <a class="nav-link active text-uppercase link-home text-decoration-none" id="nav-home-tab" href="/minister-value-for-money-award/VD2/home/">
+          <svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" fill="currentColor" class="bi bi-house-door-fill" viewBox="0 0 16 16">
+            <path d="M6.5 14.5v-3.505c0-.245.25-.495.5-.495h2c.25 0 .5.25.5.5v3.5a.5.5 0 0 0 .5.5h4a.5.5 0 0 0 .5-.5v-7a.5.5 0 0 0-.146-.354L13 5.793V2.5a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1.293L8.354 1.146a.5.5 0 0 0-.708 0l-6 6A.5.5 0 0 0 1.5 7.5v7a.5.5 0 0 0 .5.5h4a.5.5 0 0 0 .5-.5Z" />
+          </svg>
+        </a>
+        <a class="nav-link link-project text-decoration-none" id="nav-project-tab" href="/minister-value-for-money-award/VD2/need-for-project/"> NEED FOR <br /> PROJECT </a>
+        <a class="nav-link link-solution text-decoration-none" id="nav-solution-tab" href="/minister-value-for-money-award/VD2/solution/"> SOLUTION</a>
+        <a class="nav-link link-impact text-decoration-none" id="nav-impact-tab" href="/minister-value-for-money-award/VD2/impact/"> IMPACT</a>
+      </div>
+    </nav>
   </div>
-  <nav>
-    <div class="nav nav-tabs nav-fill" id="nav-tab" role="tablist">
-      <a class="nav-link active text-uppercase link-home text-decoration-none" id="nav-home-tab" href="/minister-value-for-money-award/VD2/home/">
-        <svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" fill="currentColor" class="bi bi-house-door-fill" viewBox="0 0 16 16">
-          <path d="M6.5 14.5v-3.505c0-.245.25-.495.5-.495h2c.25 0 .5.25.5.5v3.5a.5.5 0 0 0 .5.5h4a.5.5 0 0 0 .5-.5v-7a.5.5 0 0 0-.146-.354L13 5.793V2.5a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1.293L8.354 1.146a.5.5 0 0 0-.708 0l-6 6A.5.5 0 0 0 1.5 7.5v7a.5.5 0 0 0 .5.5h4a.5.5 0 0 0 .5-.5Z" />
-        </svg>
-      </a>
-      <a class="nav-link link-project text-decoration-none" id="nav-project-tab" href="/minister-value-for-money-award/VD2/need-for-project/"> NEED FOR <br /> PROJECT </a>
-      <a class="nav-link link-solution text-decoration-none" id="nav-solution-tab" href="/minister-value-for-money-award/VD2/solution/"> SOLUTION</a>
-      <a class="nav-link link-impact text-decoration-none" id="nav-impact-tab" href="/minister-value-for-money-award/VD2/impact/"> IMPACT</a>
-    </div>
-  </nav>
-</div>
