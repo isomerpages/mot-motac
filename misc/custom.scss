@@ -360,6 +360,7 @@ $desktop: 960px + (2 * $gap) !default;
     align-items: center !important;
     display: flex !important;
     justify-content: center !important;
+	width: 100vw;
 }
 .card-bg{
 background-image: url("/images/VFM/bg.png");
@@ -389,5 +390,10 @@ background-size:cover;
 
 #navbar > nav > .bp-container{
 	display: block !important;
+	margin:0 !important;
+	
+}
+#navbarExampleTransparentExample{
+	width: 100vw;
 }
 
