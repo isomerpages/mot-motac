@@ -396,4 +396,6 @@ background-size:cover;
 #navbarExampleTransparentExample{
 	width: 100vw;
 }
-
+#navbarExampleTransparentExample > div.navbar-start{
+  margin: 0 auto !important;
+}
