@@ -401,5 +401,5 @@ background-size:cover;
   margin: 0 auto !important;
 }
 .navbar .navbar-item a {
-    font-size: 11px !important;
+    font-size: clamp(11px, 13px, 16px) !important;
 }
