@@ -372,3 +372,9 @@ background-size:cover;
 #navbarExampleTransparentExample > div.navbar-end.is-hidden-touch.is-hidden-desktop-only{
   display:none !important;
 }
+#navbarExampleTransparentExample > div.navbar-start > div.navbar-item.has-dropdown.is-hoverable > a{
+	color: #fff !important;
+}
+.navbar .navbar-link::after {
+	border: 1px solid #fff !important;
+}
