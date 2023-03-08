@@ -368,3 +368,7 @@ background-size:cover;
 #navbar > nav{
 	  background: linear-gradient(90deg, #7dc142, #0083c7);
 }
+	  
+#navbarExampleTransparentExample > div.navbar-end.is-hidden-touch.is-hidden-desktop-only{
+  display:none !important;
+}
