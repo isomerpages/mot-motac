@@ -373,12 +373,7 @@ background-size:cover;
 #navbarExampleTransparentExample > div.navbar-end.is-hidden-touch.is-hidden-desktop-only{
   display:none !important;
 }
-#navbarExampleTransparentExample > div.navbar-start > div.navbar-item.has-dropdown.is-hoverable > a{
-	color: #fff !important;
-}
-.navbar .navbar-link::after {
-	border-color: #fff !important;
-}
+
   .raleway-font {
     font-family: "Raleway", sans-serif;
     font-size: 2rem;
@@ -395,6 +390,4 @@ background-size:cover;
 #navbar > nav > .bp-container{
 	margin: 0 !important;
 }
-#navbarExampleTransparentExample > div.navbar-start  > a{
-	color: #fff !important;
-}
+
