@@ -6,18 +6,6 @@ description: ""
 third_nav_title: VD1
 ---
 <style type="text/css">
-  .raleway-font {
-    font-family: "Raleway", sans-serif;
-    font-size: 2rem;
-	line-height: 2rem;
-  }
-
-  .distinguished-award {
-    font-family: 'Tangerine', cursive;
-    font-size: 4rem;
-    color: #ffcc66;
-	line-height: 4rem;
-  }
 
   .text-pri {
     color: #273592;
