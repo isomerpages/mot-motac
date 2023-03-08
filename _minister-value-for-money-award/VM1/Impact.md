@@ -1,4 +1,5 @@
 ---
+layout: skeleton
 title: Impact
 permalink: /minister-value-for-money-award/VM1/impact/
 description: ""
