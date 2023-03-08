@@ -2,7 +2,6 @@ collections:
   minister-value-for-money-award:
     output: true
     order:
-      - VD2.md
       - VD1/.keep
       - VD1/Home.md
       - VD1/NEED FOR PROJECT.md
