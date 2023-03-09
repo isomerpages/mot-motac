@@ -99,8 +99,8 @@ third_nav_title: ID1
      </div>
    </div>
    <div class="row">
-     <div class="col-sm-12 text-center py-2 my-2 bg-secondary">
-       <p class="mb-0 h3 font-weight-bold text-uppercase">Project Team​</p>
+     <div class="col-sm-12 text-center py-2 my-2 bg-heading">
+       <p class="mb-0 h3 font-weight-bold text-uppercase text-light">Project Team​</p>
      </div>
      <div class="col-sm-6 text-center mx-auto py-3">
        <img src="/images/MI/ID1/ATM Team photo.jpg" class="img-fluid border border-5 border-secondary" alt="" />
