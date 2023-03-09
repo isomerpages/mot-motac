@@ -1,4 +1,5 @@
 ---
+layout: skeleton
 title: NEED FOR PROJECT
 permalink: /minister-value-for-money-award/VM2/need-for-project/
 description: ""
