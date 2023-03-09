@@ -140,7 +140,7 @@ third_nav_title: VM2
       <p class="mb-0 h3 font-weight-bold text-uppercase"> SOLUTION STATEMENT </p>
     </div>
     <div class="col-sm-12 py-2">
-      <p class="mb-0 font-weight-bold"> Relaxed the aviation height restriction and hence avoided the need to lower at-grade roads, which would lead to benefits such as cost and manpower savings, reducing project delays and minimising environmental impact. </p>
+      <p class="mb-0 font-weight-bold text-pri"> Relaxed the aviation height restriction and hence avoided the need to lower at-grade roads, which would lead to benefits such as cost and manpower savings, reducing project delays and minimising environmental impact. </p>
     </div>
   </div>
   <nav>
