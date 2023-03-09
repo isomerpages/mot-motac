@@ -1,4 +1,5 @@
 ---
+layout: skeleton
 title: Home
 permalink: /minister-value-for-money-award/VM2/home/
 description: ""
