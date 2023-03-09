@@ -100,7 +100,7 @@ third_nav_title: IM1
     </div>
     <div class="col-sm-12">
       <div class="row py-2">
-        <div class="col-sm-12 text-pri py-2">
+        <div class="col-sm-11 mx-auto text-pri py-2">
           <p class="mb-3"> This project is unique because it was a major high-level in-person international event which was held mere weeks after Singapore officially opening its borders to international travel on 1 April 2022. There was a small window of opportunity to seize before the ICAO Assembly to profile Singapore and to be the first mover to demonstrate that Singapore was ready to resume operations as an air hub for international travel. </p>
           <p class="mb-1">
             <i>Innovative initiatives: </i>
