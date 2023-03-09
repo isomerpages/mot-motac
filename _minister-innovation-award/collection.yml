@@ -2,28 +2,28 @@ collections:
   minister-innovation-award:
     output: true
     order:
-      - ID5/Home.md
-      - ID5/Impetus.md
-      - ID5/Innovation.md
-      - ID5/IMPACT​.md
-      - ID5/.keep
       - ID1/.keep
       - ID1/Home.md
       - ID1/Impetus.md
       - ID1/Innovation.md
       - ID1/IMPACT​.md
+      - ID2/.keep
       - ID2/Home.md
       - ID2/Impetus.md
       - ID2/Innovation.md
       - ID2/IMPACT​.md
-      - ID2/.keep
+      - ID3/.keep
       - ID3/Home.md
       - ID3/Impetus.md
       - ID3/Innovation.md
       - ID3/IMPACT​.md
-      - ID3/.keep
+      - ID4/.keep
       - ID4/Home.md
       - ID4/Impetus.md
       - ID4/Innovation.md
       - ID4/IMPACT​.md
-      - ID4/.keep
+      - ID5/.keep
+      - ID5/Home.md
+      - ID5/Impetus.md
+      - ID5/Innovation.md
+      - ID5/IMPACT​.md
