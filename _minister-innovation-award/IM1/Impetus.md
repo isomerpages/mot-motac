@@ -5,7 +5,7 @@ permalink: /minister-innovation-award/IM1/impetus/
 description: ""
 third_nav_title: IM1
 ---
- <style type="text/css">
+<style type="text/css">
    .text-pri {
      color: #273592;
    }
@@ -98,7 +98,7 @@ third_nav_title: IM1
      <div class="col-sm-12 text-center py-2 my-2 bg-heading">
        <p class="mb-0 h3 font-weight-bold text-uppercase text-light"> Impetus </p>
      </div>
-     <div class="col-sm-12">
+     <div class="col-sm-11 mx-auto">
        <div class="row py-2">
          <div class="col-sm-12">
            <p>
