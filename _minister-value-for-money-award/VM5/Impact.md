@@ -5,7 +5,7 @@ permalink: /minister-value-for-money-award/VM5/impact/
 description: ""
 third_nav_title: VM5
 ---
- <style type="text/css">
+<style type="text/css">
    .text-pri {
      color: #273592;
    }
@@ -101,7 +101,7 @@ third_nav_title: VM5
      <div class="col-sm-12">
        <div class="row py-2">
          <div class="col-sm-8 mx-auto text-center">
-           <img src="/imagesVFM/VM5/VM5 Impact.png" class="img-fluid border border-5 border-primary" alt="" />
+           <img src="/images/VFM/VM5/VM5 Impact.png" class="img-fluid border border-5 border-primary" alt="" />
          </div>
          <div class="col-sm-12 py-2 mx-auto">
            <ul class="text-pri">
