@@ -117,16 +117,19 @@ third_nav_title: ID6 SM
               <img src="/images/MI/ID6/NSEWL train livestream.PNG" class="img-fluid border border-primary border-5" alt="" />
             </div>
           </div>
-          <p class="font-italic my-2"> FB livestream of our upgraded NEL train (Feb 2022): <a href="https://www.facebook.com/WeKeepYourWorldMoving/videos/684405442716134" target="_blank">https://www.facebook.com/WeKeepYourWorldMoving/videos/684405442716134</a>
-          </p>
+          <span class="font-italic my-2"> FB livestream of our upgraded NEL train (Feb 2022): <a href="https://www.facebook.com/WeKeepYourWorldMoving/videos/684405442716134" target="_blank">https://www.facebook.com/WeKeepYourWorldMoving/videos/684405442716134</a>
+          </span>
+          <br />
           <img src="/images/MI/ID6/fb.png" class="mb-2" width="200" alt="" />
           <br />
-          <p class="font-italic my-2"> FB livestream of our new NSEWL train (Mar 2022): <a href="https://www.facebook.com/WeKeepYourWorldMoving/videos/397234452244177" target="_blank">https://www.facebook.com/WeKeepYourWorldMoving/videos/397234452244177</a>
-          </p>
+          <span class="font-italic my-2"> FB livestream of our new NSEWL train (Mar 2022): <a href="https://www.facebook.com/WeKeepYourWorldMoving/videos/397234452244177" target="_blank">https://www.facebook.com/WeKeepYourWorldMoving/videos/397234452244177</a>
+          </span>
+          <br />
           <img src="/images/MI/ID6/neswl qr.png" class="mb-2" width="200" alt="" />
           <br />
-          <p class="font-italic my-2"> FB livestream of our new CCL train (Apr 2022): <a href="https://www.facebook.com/WeKeepYourWorldMoving/videos/1128593367988453 " target="_blank">https://www.facebook.com/WeKeepYourWorldMoving/videos/1128593367988453 </a>
-          </p>
+          <span class="font-italic my-2"> FB livestream of our new CCL train (Apr 2022): <a href="https://www.facebook.com/WeKeepYourWorldMoving/videos/1128593367988453 " target="_blank">https://www.facebook.com/WeKeepYourWorldMoving/videos/1128593367988453 </a>
+          </span>
+          <br />
           <img src="/images/MI/ID6/qr.png" class="mb-2" width="200" alt="" />
           <p class="font-italic my-2"> Netizens were excited about the FB livestreams and interacted extensively and engaged in real-time with us </p>
           <img src="/images/MI/ID6/CCL FB comment 1.png" class="img-fluid" alt="" />
