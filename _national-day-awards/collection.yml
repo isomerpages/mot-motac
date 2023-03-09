@@ -2,5 +2,5 @@ collections:
   national-day-awards:
     output: true
     order:
-      - The Public Service Star.md
       - The Meritorious Service.md
+      - The Public Service Star.md
