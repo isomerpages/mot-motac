@@ -5,7 +5,7 @@ permalink: /minister-innovation-award/IM1/home/
 description: ""
 third_nav_title: IM1
 ---
- <style type="text/css">
+<style type="text/css">
    .text-pri {
      color: #273592;
    }
@@ -695,7 +695,7 @@ third_nav_title: IM1
        </a>
        <a class="nav-link link-project text-decoration-none" id="nav-project-tab" href="/minister-innovation-award/IM1/impetus/"> Impetus </a>
        <a class="nav-link link-solution text-decoration-none" id="nav-solution-tab" href="/minister-innovation-award/IM1/innovation/"> Innovation</a>
-       <a class="nav-link link-impact text-decoration-none" id="nav-impact-tab" href="/minister-innovation-award/IM1/impact/"> IMPACT​</a>
+       <a class="nav-link link-impact text-decoration-none" id="nav-impact-tab" href="/minister-innovation-award/IM1/impact/"> Impact</a>
      </div>
    </nav>
  </div>
