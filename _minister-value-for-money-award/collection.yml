@@ -2,6 +2,7 @@ collections:
   minister-value-for-money-award:
     output: true
     order:
+      - VM5/Home.md
       - VM5/NEED FOR PROJECT.md
       - VM5/SOLUTION.md
       - VM5/Impact.md
