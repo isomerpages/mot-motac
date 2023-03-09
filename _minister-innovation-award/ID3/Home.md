@@ -1,4 +1,5 @@
 ---
+layout: skeleton
 title: Home
 permalink: /minister-innovation-award/ID3/home/
 description: ""
