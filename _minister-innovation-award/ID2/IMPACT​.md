@@ -5,7 +5,7 @@ permalink: /minister-innovation-award/ID2/impact/
 description: ""
 third_nav_title: ID2
 ---
- <style type="text/css">
+<style type="text/css">
    .text-pri {
      color: #273592;
    }
@@ -84,7 +84,7 @@ third_nav_title: ID2
    </div>
    <div class="row border border-4 border-info">
      <div class="col-sm-4 py-3 text-center d-flex flex-column align-items-center justify-content-center">
-       <img src="/images/Logos/CAAS.png" class="img-fluid" alt="CAAS" />
+       <img src="/images/Logos/MOT.png" class="img-fluid" alt="MOT" />
      </div>
      <div class="col-sm-8 py-3 text-center bg-primary d-flex justify-content-center flex-column aligin-items-center">
        <p class="mb-1 text-light font-weight-bold raleway-font"> MINISTER’S INNOVATION (MI) AWARD </p>
