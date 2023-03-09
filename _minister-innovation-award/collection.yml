@@ -1,4 +1,5 @@
 collections:
   minister-innovation-award:
     output: true
-    order: []
+    order:
+      - ID1/.keep
