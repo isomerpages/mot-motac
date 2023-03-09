@@ -1,4 +1,5 @@
 ---
+layout: skeleton
 title: Impetus
 permalink: /minister-innovation-award/ID4/impetus/
 description: ""
