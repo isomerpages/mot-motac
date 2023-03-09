@@ -100,7 +100,7 @@ third_nav_title: IM1
     </div>
     <div class="col-sm-12">
       <div class="row py-2">
-        <div class="col-sm-12">
+        <div class="col-sm-11 mx-auto">
           <ol>
             <li> Large scale invitations –This resulted in 73 Heads of Delegates (HODs) participating, greater than the participation rate in the Singapore Airshow during non-pandemic years. Singapore had touch points with countries from all regions, including DGCAs from the Middle East and Africa that were having their own Assemblies at the time. </li>
             <li> The ICAO – Singapore DGCAs Programme on Aviation Resilience provided a valuable platform for DGs of Civil Aviation Authorities to share experiences and work together to develop an international aviation system that is more resilient and sustainable. In addition, the programme enables DGs to share lessons learnt and best practices from different regions and sharpen the discussions on approaches towards aviation resilience. This equipped DGs with sound knowledge and exposure to be better prepared in facing the future challenges in an uncertain and complex operating environment. </li>
