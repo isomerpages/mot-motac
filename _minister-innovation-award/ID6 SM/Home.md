@@ -5,7 +5,7 @@ permalink: /minister-innovation-award/ID6-SM/home/
 description: ""
 third_nav_title: ID6 SM
 ---
- <style type="text/css">
+<style type="text/css">
    .text-pri {
      color: #273592;
    }
@@ -96,7 +96,7 @@ third_nav_title: ID6 SM
        <h3 class="text-center font-weight-bold"> Livestreaming Exclusive Content For Greater Reach & Engagement </h3>
      </div>
      <div class="col-sm-8 mx-auto text-center py-3">
-       <img src="/images/MI/ID5/Iconic Pic.jpg" class="img-fluid border my-5" />
+       <img src="/images/MI/ID6/[Updated] Item 3 - Photo to represent project - Livestream.jpg" class="img-fluid border my-5" />
      </div>
    </div>
    <div class="row">
