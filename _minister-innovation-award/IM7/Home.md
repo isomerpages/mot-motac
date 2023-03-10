@@ -5,7 +5,7 @@ permalink: /minister-innovation-award/IM7/home/
 description: ""
 third_nav_title: IM7
 ---
-  <style type="text/css">
+<style type="text/css">
     .text-pri {
       color: #273592;
     }
