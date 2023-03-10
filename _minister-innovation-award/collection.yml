@@ -2,6 +2,7 @@ collections:
   minister-innovation-award:
     output: true
     order:
+      - IM2/.keep
       - ID1/.keep
       - ID1/Home.md
       - ID1/Impetus.md
