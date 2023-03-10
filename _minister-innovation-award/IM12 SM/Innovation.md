@@ -1,4 +1,5 @@
 ---
+layout: skeleton
 title: Innovation
 permalink: /minister-innovation-award/IM12-SM/innovation/
 description: ""
