@@ -9,7 +9,7 @@ description: ""
      min-height: 100vh;
    }
  </style>
- <div class="container-lg py-5 my-5 text-center cont">
+ <div class="container-fluid py-5 my-5 text-center cont">
    <h1>THE MERITORIOUS SERVICE MEDAL</h1>
    <h3>[Pingat Jasa Gemilang]</h3>
    <div class="row py-5">
