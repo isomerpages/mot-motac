@@ -4,12 +4,12 @@ title: The Public Administration Medal
 permalink: /national-day-awards/The-Public-Administration-Medal/
 description: ""
 ---
- <style type="text/css">
+<style type="text/css">
    .cont {
      min-height: 100vh;
    }
  </style>
- <div class="container-lg py-5 my-5 text-center cont">
+ <div class="container-fluid py-5 my-5 text-center cont">
    <h1>THE PUBLIC ADMINISTRATION MEDAL (GOLD)</h1>
    <h3>[Pingat Pentadbiran Awam (Emas)]</h3>
    <div class="row py-5">
