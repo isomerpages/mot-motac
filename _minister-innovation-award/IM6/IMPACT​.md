@@ -1,4 +1,5 @@
 ---
+layout: skeleton
 title: IMPACT​
 permalink: /minister-innovation-award/IM6/impact/
 description: ""
