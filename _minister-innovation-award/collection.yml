@@ -2,6 +2,7 @@ collections:
   minister-innovation-award:
     output: true
     order:
+      - IM11 SM/.keep
       - IM10 SM/.keep
       - IM9 SM/.keep
       - ID1/.keep
