@@ -2,10 +2,6 @@ collections:
   minister-innovation-award:
     output: true
     order:
-      - IM12 SM/.keep
-      - IM11 SM/.keep
-      - IM10 SM/.keep
-      - IM9 SM/.keep
       - ID1/.keep
       - ID1/Home.md
       - ID1/Impetus.md
@@ -76,3 +72,7 @@ collections:
       - IM8/Impetus.md
       - IM8/Innovation.md
       - IM8/IMPACT​.md
+      - IM9 SM/.keep
+      - IM10 SM/.keep
+      - IM11 SM/.keep
+      - IM12 SM/.keep
