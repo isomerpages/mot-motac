@@ -2,11 +2,6 @@ collections:
   minister-innovation-award:
     output: true
     order:
-      - IM3/Home.md
-      - IM3/Impetus.md
-      - IM3/Innovation.md
-      - IM3/IMPACT​.md
-      - IM3/.keep
       - ID1/.keep
       - ID1/Home.md
       - ID1/Impetus.md
@@ -47,3 +42,8 @@ collections:
       - IM2/Impetus.md
       - IM2/Innovation.md
       - IM2/Impact.md
+      - IM3/.keep
+      - IM3/Home.md
+      - IM3/Impetus.md
+      - IM3/Innovation.md
+      - IM3/IMPACT​.md
