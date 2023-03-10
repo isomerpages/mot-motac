@@ -4,12 +4,12 @@ title: The Commendation Medal
 permalink: /national-day-awards/The-Commendation-Medal/
 description: ""
 ---
- <style type="text/css">
+<style type="text/css">
    .cont {
      min-height: 100vh;
    }
  </style>
- <div class="container-lg py-5 my-5 text-center cont">
+ <div class="container-fluid py-5 my-5 text-center cont">
    <h1>THE COMMENDATION MEDAL</h1>
    <h3>[Pingat Kepujian]</h3>
    <div class="row py-5">
