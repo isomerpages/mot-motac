@@ -76,7 +76,7 @@ third_nav_title: VM1
     background: rgb(10, 91, 142) !important;
   }
 </style>
-<div class="container py-5 text-pri card-bg my-5">
+<div class="container-fluid py-5 text-pri card-bg my-5">
   <div class="row">
     <div class="col-sm-12 pt-4 pb-3 text-center">
       <img src="/images/Logos/MOTAC_header.png" alt="motac logo" class="img-fluid" />
