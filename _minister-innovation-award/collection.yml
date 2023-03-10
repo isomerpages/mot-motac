@@ -2,6 +2,7 @@ collections:
   minister-innovation-award:
     output: true
     order:
+      - IM5/Impetus.md
       - IM5/Innovation.md
       - IM5/IMPACT​.md
       - IM5/.keep
