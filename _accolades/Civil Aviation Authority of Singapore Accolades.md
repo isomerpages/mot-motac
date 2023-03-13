@@ -9,7 +9,7 @@ description: ""
     min-height: 100vh;
   }
 </style>
-<img src="/images/hero.png" class="img-fluid"  alt="hero"/>
+<img src="/images/hero.png" width="100%"  alt="hero"/>
 <div class="container-fluid py-5 my-5 text-center cont">
   <h1>Civil Aviation Authority of Singapore</h1>
   <div class="row py-5">
