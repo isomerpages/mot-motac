@@ -413,14 +413,22 @@ background-size:cover;
   }
   .navbar-dropdown > a {
     color: #fff !important;
-  }
-  .navbar .navbar-item .sub-link {
     font-size: 11px !important;
   }
   .navbar-dropdown {
     background-color: rgba(0, 0, 0, 0.7) !important;
   }
+  #navbarExampleTransparentExample
+    > div.navbar-start
+    > div:nth-child(7)
+    > div.navbar-dropdown {
+    left: -100px !important;
+  }
+  .navbar-dropdown {
+    background-color: rgba(0, 0, 0, 0.7) !important;
+  }
 }
+
 
 .bg-heading {
     background-color: rgb(9, 92, 139);
