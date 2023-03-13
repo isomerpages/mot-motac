@@ -4,7 +4,7 @@ title: Maritime and Port Authority Accolates
 permalink: /accolades/MPA/
 description: ""
 ---
-  <style type="text/css">
+<style type="text/css">
     .cont {
       min-height: 100vh;
     }
@@ -19,6 +19,8 @@ description: ""
         </p>
         <p> The Charity Awards are presented to organisations that have made significant donations to Community Chest. MPA received the Charity Gold Award for our donations to Community Chest. </p>
       </div>
+			  </div>
+      <div class="row py-5">
       <div class="col-sm-4 mb-3 mx-auto">
         <img src="/images/Accolades/MPA/Best Seaport in Asia 2022.jpeg" alt="Maritime and Port Authority of Singapore" height="200" />
         <p class="mt-3">
