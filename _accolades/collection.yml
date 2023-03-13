@@ -2,6 +2,6 @@ collections:
   accolades:
     output: true
     order:
-      - Maritime and Port Authority Accolates.md
-      - Ministry Of Transport Accolates.md
       - Civil Aviation Authority of Singapore Accolades.md
+      - Ministry Of Transport Accolates.md
+      - Maritime and Port Authority Accolates.md
