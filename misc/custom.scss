@@ -405,7 +405,12 @@ background-size:cover;
   margin: 0 auto !important;
 }
 .navbar .navbar-item a {
-    font-size: clamp(11px, 13px, 16px) !important;
+    font-size: 11px !important;
+}
+@media screen and (min-width: 1280px) {
+ .navbar .navbar-item a {
+   color:#fff !important;
+}
 }
 .bg-heading {
     background-color: rgb(9, 92, 139);
