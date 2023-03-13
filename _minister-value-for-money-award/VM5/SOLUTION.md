@@ -76,7 +76,7 @@ third_nav_title: VM5
        background: rgb(10, 91, 142) !important;
      }
    </style>
-	  <div class="container-fluid">
+<div class="container-fluid">
 <img src="/images/hero.png" class="img-fluid"  alt="hero"/>
 </div>
    <div class="container-fluid py-5 card-bg text-pri my-5">
