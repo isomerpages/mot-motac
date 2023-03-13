@@ -422,7 +422,8 @@ background-size:cover;
     > div.navbar-start
     > div:nth-child(7)
     > div.navbar-dropdown {
-    left: -100px !important;
+	    right: 0px !important;
+    left: auto !important;
   }
   .navbar-dropdown {
     background-color: rgba(0, 0, 0, 0.7) !important;
