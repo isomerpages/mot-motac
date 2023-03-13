@@ -1,4 +1,5 @@
 collections:
   accolades:
     output: true
-    order: []
+    order:
+      - Civil Aviation Authority of Singapore Accolades.md
