@@ -361,6 +361,10 @@ $desktop: 960px + (2 * $gap) !default;
     display: flex !important;
     justify-content: center !important;
 	width: 100vw;
+
+	img{
+		max-width:32vw;
+	}
 }
 .card-bg{
 background-image: url("/images/VFM/bg.png");
