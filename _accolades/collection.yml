@@ -2,4 +2,5 @@ collections:
   accolades:
     output: true
     order:
+      - Ministry Of Transport Accolates.md
       - Civil Aviation Authority of Singapore Accolades.md
