@@ -9,7 +9,8 @@ description: ""
       min-height: 100vh;
     }
   </style>
-  <div class="container-lg py-5 my-5 text-center cont">
+<div class="container-fluid py-5 my-5 text-center cont">
+	<img src="/images/hero.png" class="img-fluid"  alt="hero"/>
     <h1>Maritime and Port Authority</h1>
     <div class="row py-5">
       <div class="col-sm-4 mb-3 mx-auto">
