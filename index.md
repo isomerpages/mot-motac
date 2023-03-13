@@ -8,9 +8,6 @@ notification: Here's a notification bar you can use!
 sections:
   - hero:
       background: /images/hero.png
-      dropdown:
-        title: Hero Dropdown Title
-        options: []
   - infobar:
       title: Infobar title
       subtitle: Subtitle
