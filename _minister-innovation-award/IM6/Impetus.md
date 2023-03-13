@@ -5,7 +5,7 @@ permalink: /minister-innovation-award/IM6/impetus/
 description: ""
 third_nav_title: IM6
 ---
-  <style type="text/css">
+<style type="text/css">
     .text-pri {
       color: #273592;
     }
@@ -76,6 +76,7 @@ third_nav_title: IM6
       background: rgb(10, 91, 142) !important;
     }
   </style>
+<img src="/images/hero.png" class="img-fluid"  alt="hero"/>
   <div class="container-fluid py-5 card-bg text-pri my-5">
     <div class="row">
       <div class="col-sm-12 pt-4 pb-3 text-center">
