@@ -9,6 +9,9 @@ description: ""
      min-height: 100vh;
    }
  </style>
+ <div class="container-fluid">
+<img src="/images/hero.png" class="img-fluid"  alt="hero"/>
+</div>
  <div class="container-fluid py-5 my-5 text-center cont">
    <h1>THE COMMENDATION MEDAL</h1>
    <h3>[Pingat Kepujian]</h3>
