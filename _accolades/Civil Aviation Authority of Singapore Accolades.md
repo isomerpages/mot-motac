@@ -21,7 +21,6 @@ description: ""
       <p> SHARE Platinum is for organisations who have regular monetary contribution and high SHARE participation rate of 90-97% towards ComChest. </p>
     </div>
     <div class="col-sm-4 mb-3 mx-auto">
-      <img src="/images/Accolades/CAAS/1. ComChest Award 2022 - SHARE Platinum award.jpg" alt="ComChest Award" height="200" />
       <p class="mt-3">
         <b>One Public Service Award (An inter-agency project submitted by STB on behalf of 17 agencies including MOT and CAAS) </b>
       </p>
