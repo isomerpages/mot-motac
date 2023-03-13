@@ -76,6 +76,9 @@ third_nav_title: ID1
     background: rgb(10, 91, 142) !important;
   }
 </style>
+ <div class="container-fluid">
+<img src="/images/hero.png" class="img-fluid"  alt="hero"/>
+</div>
 <div class="container-fluid py-5 card-bg text-pri my-5">
   <div class="row">
     <div class="col-sm-12 pt-4 pb-3 text-center">
