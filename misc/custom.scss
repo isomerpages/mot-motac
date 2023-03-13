@@ -363,7 +363,7 @@ $desktop: 960px + (2 * $gap) !default;
 	width: 100vw;
 
 	img{
-		max-width:32vw;
+	    max-width: 32vw !important;
 	}
 }
 .card-bg{
