@@ -94,7 +94,7 @@ third_nav_title: VD4
   </div>
   <div class="row">
     <div class="col-12 py-3">
-      <h3 class="text-center font-weight-bold"> MPA <u>E</u>NTERPRISE <u>D</u>ATA e <u>X</u>CHANGE​ </h3>
+      <h3 class="text-center font-weight-bold"> MPA <u>E</u>NTERPRISE <u>D</u>ATA e<u>X</u>CHANGE​ </h3>
     </div>
     <div class="col-sm-12 text-center py-2 my-2 bg-secondary">
       <p class="mb-0 h3 font-weight-bold text-uppercase"> NEED FOR PROJECT​ </p>
