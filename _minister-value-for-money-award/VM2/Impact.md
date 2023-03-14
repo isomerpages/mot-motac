@@ -108,10 +108,10 @@ third_nav_title: VM2
           <p>
             <span class="mr-3"> &#x2022;</span> No need to lower at-grade road in the revised scheme:
           </p>
-          <p class="pl-3">
+          <p class="pl-5">
             <span class="mr-3"> &#x2022;</span> Most of the utilities were not required to be diverted; only utilities clashing with the viaduct’s piers / foundations had to be diverted.
           </p>
-          <p class="pl-3">
+          <p class="pl-5">
             <span class="mr-3"> &#x2022;</span> The original requirement for the provision of Contiguous Bored Piles retaining wall and cutting of ground level to 2m below the existing road surface would be omitted, resulting in cost savings.
           </p>
           <p>
