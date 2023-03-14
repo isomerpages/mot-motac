@@ -76,7 +76,7 @@ third_nav_title: VD1
     background: rgb(10, 91, 142) !important;
   }
 </style>
-<img src="/images/hero.png" width="100%" alt="hero"/>
+<img src="/images/hero.png" width="100%" alt="hero" />
 <div class="container-fluid py-5 card-bg text-pri my-5">
   <div class="row">
     <div class="col-sm-12 pt-4 pb-3 text-center">
@@ -88,7 +88,7 @@ third_nav_title: VD1
       <img src="/images/Logos/CAAS.png" class="img-fluid" alt="CAAS" />
     </div>
     <div class="col-sm-8 py-3 text-center bg-primary d-flex justify-content-center flex-column aligin-items-center">
-            <p class="mb-1 text-light font-weight-bold raleway-font"> MINISTER’S VFM ACHIEVEMENT AWARD</p>
+      <p class="mb-1 text-light font-weight-bold raleway-font"> MINISTER’S VFM ACHIEVEMENT AWARD</p>
       <p class="mb-0 distinguished-award">Distinguished Award</p>
     </div>
   </div>
@@ -102,7 +102,9 @@ third_nav_title: VD1
     <div class="col-sm-12 py-4">
       <div class="row py-2">
         <div class="col-sm-8">
-*           Runway excursions (veer off or overrun from the runway surface) have always been a top safety risk, with poor braking action as a key contributing factor.
+          <p>
+            <span class="mr-3"> &#x2022;</span> Runway excursions (veer off or overrun from the runway surface) have always been a top safety risk, with poor braking action as a key contributing factor.
+          </p>
         </div>
         <div class="col-sm-4 ">
           <img src="/images/VFM/VD1/VD1_NeedforProject1.jpg" class="img-fluid border border-5 border-primary" alt="" />
@@ -110,19 +112,15 @@ third_nav_title: VD1
       </div>
       <div class="row py-2">
         <div class="col-sm-8">
-          <ul style="list-style-type:circle">
-            <li>
-             IATA analysis shows that:
-              <ul>
-                <li>
-                   There was 1 runway excursion reported for every 1.3 million flights. 
-                </li>
-                <li>
-               From 2005 to 1H 2019, approximately 23% of the accidents in IATA’s global accident database involved runway excursion. 
-                </li>
-              </ul>
-            </li>
-          </ul>
+          <p>
+            <span class="mr-3"> &#x2022;</span> IATA analysis shows that:
+          </p>
+          <p class="pl-3">
+            <span class="mr-3"> &#x2022;</span> There was 1 runway excursion reported for every 1.3 million flights.
+          </p>
+          <p class="pl-3">
+            <span class="mr-3"> &#x2022;</span> From 2005 to 1H 2019, approximately 23% of the accidents in IATA’s global accident database involved runway excursion.
+          </p>
         </div>
         <div class="col-sm-4 ">
           <img src="/images/VFM/VD1/VD1_NeedforProject2.jpg" class="img-fluid border border-5 border-secondary" alt="" />
@@ -130,14 +128,12 @@ third_nav_title: VD1
       </div>
       <div class="row py-2">
         <div class="col-sm-8">
-          <ul class=" ">
-            <li>
-               ICAO Friction Task Force was tasked to address the problem and developed the Global Reporting Format (GRF) for runway surface conditions. 
-            </li>
-            <li>
-              GRF to be implemented by 4 Nov 2021.
-            </li>
-          </ul>
+          <p>
+            <span class="mr-3"> &#x2022;</span> ICAO Friction Task Force was tasked to address the problem and developed the Global Reporting Format (GRF) for runway surface conditions.
+          </p>
+          <p>
+            <span class="mr-3"> &#x2022;</span> GRF to be implemented by 4 Nov 2021.
+          </p>
         </div>
         <div class="col-sm-4 ">
           <img src="/images/VFM/VD1/VD1_NeedforProject3.png" class="img-fluid border border-5" style="border-color: #28bd99 !important" alt="" />
