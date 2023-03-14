@@ -6,7 +6,7 @@ description: ""
 third_nav_title: VD1
 ---
 <style type="text/css">
- .text-pri {
+  .text-pri {
     color: #273592;
   }
 
@@ -76,7 +76,7 @@ third_nav_title: VD1
     background: rgb(10, 91, 142) !important;
   }
 </style>
-<img src="/images/hero.png" width="100%"  alt="hero"/>
+<img src="/images/hero.png" width="100%" alt="hero" />
 <div class="container-fluid py-5 card-bg text-pri my-5">
   <div class="row">
     <div class="col-sm-12 pt-4 pb-3 text-center">
@@ -105,28 +105,24 @@ third_nav_title: VD1
           <img src="/images/VFM/VD1/VD1 Impact 1A.png" class="img-fluid border border-5 border-primary" alt="" />
         </div>
         <div class="col-sm-12 py-2">
-          <ul>
-            <li>
-              <p> One of the first few in the world to innovatively determine the real-time runway surface conditions automatically through the use of data analytics, and end-to-end integration of existing systems’ functionalities.​ </p>
-            </li>
-            <li>
-              <p> Achieved higher operational efficiency, and avoidance of more than 1,000 manual measurements instances per year per runway which equates to at least 250 hours of downtime per year for each runway.​ </p>
-            </li>
-            <li>
-              <p> Achieved timely reporting of updated RCR automatically when there is a change in runway surface condition.​ </p>
-            </li>
-            <li class="fw-bold">
-              <p class="mb-0"> Total Cost Savings: ≥ $4.80mil.​ </p>
-              <ul>
-                <li>
-                  <p class="mb-0"> Annual Cost Savings: $1.35mil for 2 runways.​ </p>
-                </li>
-                <li>
-                  <p> Project Cost Savings: $3.44mil through integration with existing systems.​ </p>
-                </li>
-              </ul>
-            </li>
-          </ul>
+          <p>
+            <span class="mr-3"> &#x2022;</span> Being one of the first few airports in the world to innovatively determine the real-time runway surface conditions automatically through the use of data analytics, and end-to-end integration of existing systems’ functionalities.​
+          </p>
+          <p>
+            <span class="mr-3"> &#x2022;</span> Achieved higher operational efficiency, and avoidance of more than 1,000 manual measurements instances per year per runway which equates to at least 250 hours of downtime per year for each runway.​
+          </p>
+          <p>
+            <span class="mr-3"> &#x2022;</span> Achieved timely reporting of updated RCR automatically when there was a change in runway surface condition.​
+          </p>
+          <p class="font-weight-bold">
+            <span class="mr-3"> &#x2022;</span> Total Cost Savings: ≥ $4.80mil.​
+          </p>
+          <p class="font-weight-bold pl-3">
+            <span class="mr-3"> &#x2022;</span>Annual Cost Savings: $1.35mil for 2 runways.​
+          </p>
+          <p class="font-weight-bold pl-3">
+            <span class="mr-3"> &#x2022;</span>Project Cost Savings: $3.44mil through integration with existing systems.​
+          </p>
         </div>
       </div>
     </div>
@@ -136,7 +132,7 @@ third_nav_title: VD1
       <p class="mb-0 h3  font-weight-bold text-uppercase"> OUTCOME STATEMENT </p>
     </div>
     <div class="col-sm-12 py-2">
-      <p class="mb-0  font-weight-bold">The implemented solution has achieved an efficient way to timely report RCR automatically that leads to operational efficiency, improved safety outcome and cost savings. </p>
+      <p class="mb-0  font-weight-bold">The implemented solution had achieved an efficient way to automatically report RCR in a timely manner that led to operational efficiency, improved safety outcome and cost savings. </p>
     </div>
   </div>
   <nav>
