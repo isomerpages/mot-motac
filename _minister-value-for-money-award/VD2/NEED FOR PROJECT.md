@@ -76,7 +76,7 @@ third_nav_title: VD2
     background: rgb(10, 91, 142) !important;
   }
 </style>
-<img src="/images/hero.png" class="img-fluid"  alt="hero"/>
+<img src="/images/hero.png" class="img-fluid" alt="hero" />
 <div class="container-fluid py-5 card-bg text-pri my-5">
   <div class="row">
     <div class="col-sm-12 pt-4 pb-3 text-center">
@@ -106,17 +106,15 @@ third_nav_title: VD2
           <label class="text-pri">Viaduct Bearings Using Half-Joint System </label>
         </div>
         <div class="col-sm-12 py-2">
-          <ul class="text-pri">
-            <li>
-              <p> Jurong Region Line (JRL) is the third MRT line to be constructed with elevated tracks that run parallel with road. Viaduct bridge bearings are structural devices positioned between the bridge deck (superstructure) and substructure. The bearings transmit loads from the superstructure to the substructure and accommodate relative movement between the superstructure and the substructure. </p>
-            </li>
-            <li>
-              <p> Existing viaducts at North-South/East-West Line (NSEWL) use “Half-Joint” arrangement where it is only accessible from the side of viaduct girdle. This means only half of the bearings can be inspected. This poses a problem for maintenance as jacking cannot be used to remove existing bearing. This would pose maintenance issue for JRL viaduct if it also uses “half-joint arrangement” arrangement. </p>
-            </li>
-            <li>
-              <p> Old Solutions – The current viaduct bearing replacement solutions used to overcome the access issue in bearing replacements, such as “Temporary Jacking Tower” Method requires massive site preparation and hoarding for worksite. The “Clamping Method” also requires viaduct girder to be parallel to the viaduct column and the risk and cost are high as compared to “Temporary Jacking Tower” Method. </p>
-            </li>
-          </ul>
+          <p>
+            <span class="mr-3"> &#x2022;</span> Jurong Region Line (JRL) is the third MRT line to be constructed with elevated tracks that run parallel with road. Viaduct bridge bearings are structural devices positioned between the bridge deck (superstructure) and substructure. The bearings transmit loads from the superstructure to the substructure and accommodate relative movement between the superstructure and the substructure.
+          </p>
+          <p>
+            <span class="mr-3"> &#x2022;</span> Existing viaducts at North-South/East-West Line (NSEWL) use “Half-Joint” arrangement where it is only accessible from the side of viaduct girdle. This means only half of the bearings can be inspected. This poses a problem for maintenance as jacking cannot be used to remove existing bearing. This will also be the maintenance issue for JRL viaduct if it uses “half-joint arrangement” arrangement.
+          </p>
+          <p>
+            <span class="mr-3"> &#x2022;</span> Old Solutions – The current viaduct bearing replacement solutions used to overcome the access issue in bearing replacements, such as “Temporary Jacking Tower” Method requires massive site preparation and hoarding for worksite. The “Clamping Method” also requires viaduct girder to be parallel to the viaduct column and the risk and cost are high as compared to “Temporary Jacking Tower” Method.
+          </p>
         </div>
       </div>
     </div>
@@ -126,7 +124,7 @@ third_nav_title: VD2
       <p class="mb-0 h3  font-weight-bold text-uppercase"> PROBLEM STATEMENT </p>
     </div>
     <div class="col-sm-12 py-2">
-      <p class="mb-0  font-weight-bold"> Need to optimise the design of JRL viaduct bearing for efficient Operation and Maintenance and avoid future maintenance issue on viaduct bearing. </p>
+      <p class="mb-0  font-weight-bold"> Need to optimise the design of JRL viaduct bearing for efficient operation and maintenance and avoid future maintenance issue on viaduct bearings. </p>
     </div>
   </div>
   <nav>
