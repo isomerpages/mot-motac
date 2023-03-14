@@ -76,7 +76,7 @@ third_nav_title: VD2
     background: rgb(10, 91, 142) !important;
   }
 </style>
-<img src="/images/hero.png" class="img-fluid"  alt="hero"/>
+<img src="/images/hero.png" width="100%" alt="hero" />
 <div class="container-fluid py-5 card-bg text-pri my-5">
   <div class="row">
     <div class="col-sm-12 pt-4 pb-3 text-center">
@@ -105,23 +105,21 @@ third_nav_title: VD2
           <img src="/images/VFM/VD2/VD2_Impact.png" class="img-fluid border border-5 border-primary" alt="" />
         </div>
         <div class="col-sm-12 py-2">
-          <ul class="text-pri">
-            <li>
-              <p> No time wastage / delay in implementation as the requirements on bearing design for operation and maintenance were made clear to Contractors since tender stage. </p>
-            </li>
-            <li>
-              <p> Less cost and manpower required for future bearing replacement works as requirements put in place upstream during design stage and construction. </p>
-            </li>
-            <li>
-              <p> LTA’s KPI to ensure structure designed for safety, construction, operation and maintenance have been met. </p>
-            </li>
-            <li class="font-weight-bold">
-              <p class="mb-0"> Total Capex Savings: $9mil. </p>
-            </li>
-            <li class="font-weight-bold">
-              <p class="mb-0"> Total O&M Savings: $134mil. </p>
-            </li>
-          </ul>
+          <p>
+            <span class="mr-3"> &#x2022;</span> No time wastage / delay in implementation as the requirements on bearing design for operation and maintenance were made clear to Contractors since tender stage.
+          </p>
+          <p>
+            <span class="mr-3"> &#x2022;</span>Less cost and manpower required for future bearing replacement works as requirements put in place upstream during design stage and construction.
+          </p>
+          <p>
+            <span class="mr-3"> &#x2022;</span>LTA’s KPI to ensure structure designed for safety, construction, operation and maintenance have been met.
+          </p>
+          <p class="mb-0 pl-3 font-weight-bold">
+            <span class="mr-3"> &#x2022;</span> Total Capex Savings: $9mil.
+          </p>
+          <p class="mb-0 pl-3 font-weight-bold">
+            <span class="mr-3"> &#x2022;</span> Total O&amp;M Savings: $134mil.
+          </p>
         </div>
       </div>
     </div>
