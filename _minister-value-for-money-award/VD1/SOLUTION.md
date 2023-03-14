@@ -6,7 +6,7 @@ description: ""
 third_nav_title: VD1
 ---
 <style type="text/css">
- .text-pri {
+  .text-pri {
     color: #273592;
   }
 
@@ -76,7 +76,7 @@ third_nav_title: VD1
     background: rgb(10, 91, 142) !important;
   }
 </style>
-<img src="/images/hero.png" width="100%"  alt="hero"/>
+<img src="/images/hero.png" width="100%" alt="hero" />
 <div class="container-fluid py-5 card-bg text-pri my-5">
   <div class="row">
     <div class="col-sm-12 pt-4 pb-3 text-center">
@@ -88,7 +88,7 @@ third_nav_title: VD1
       <img src="/images/Logos/CAAS.png" class="img-fluid" alt="CAAS" />
     </div>
     <div class="col-sm-8 py-3 text-center bg-primary d-flex justify-content-center flex-column aligin-items-center">
-          <p class="mb-1 text-light font-weight-bold raleway-font"> MINISTER’S VFM ACHIEVEMENT AWARD</p>
+      <p class="mb-1 text-light font-weight-bold raleway-font"> MINISTER’S VFM ACHIEVEMENT AWARD</p>
       <p class="mb-0 distinguished-award">Distinguished Award</p>
     </div>
   </div>
@@ -102,25 +102,21 @@ third_nav_title: VD1
     <div class="col-sm-12 py-5">
       <div class="row py-2">
         <div class="col-sm-12">
-          <ul>
-            <li>
-              <p> Optimised use of existing resources and synergised the capabilities of the suite of systems:​ </p>
-              <ul>
-                <li>
-                  <p> Automated Weather Observation System (AWOS) measures the water level along the runways automatically. These data are sent to Automatic Runway Condition Reporting (A-RCR) System for data analytics and processing.​ </p>
-                </li>
-                <li>
-                  <p> A-RCR System processes the data received from AWOS and generates the corresponding Runway Condition Report (RCR). This report is sent to Automatic Terminal Information Service (ATIS) System for processing and broadcast.​ </p>
-                </li>
-                <li>
-                  <p> ATIS System receives the RCR data from A-RCR system and integrates it into the ATIS report for broadcast to aircraft (via VHF broadcast and datalink).​ </p>
-                </li>
-                <li>
-                  <p> ATIS System receives the RCR data from A-RCR system and integrates it into the ATIS report for broadcast to aircraft (via VHF broadcast and datalink).​ </p>
-                </li>
-              </ul>
-            </li>
-          </ul>
+          <p>
+            <span class="mr-3"> &#x2022;</span> Optimised use of existing resources and synergised the capabilities of the suite of systems:​
+          </p>
+          <p class="pl-3">
+            <span class="mr-3"> &#x2022;</span> Automated Weather Observation System (AWOS) measures the water level along the runways automatically. This data is sent to Automatic Runway Condition Reporting (A-RCR) System for data analytics and processing.​
+          </p>
+          <p class="pl-3">
+            <span class="mr-3"> &#x2022;</span>A-RCR System processes the data received from AWOS and generates the corresponding Runway Condition Report (RCR). This report is sent to Automatic Terminal Information Service (ATIS) System for processing and broadcast.​
+          </p>
+          <p class="pl-3">
+            <span class="mr-3"> &#x2022;</span>ATIS System receives the RCR data from A-RCR system and integrates it into the ATIS report for broadcast to aircraft (via VHF broadcast and datalink).​
+          </p>
+          <p class="pl-3">
+            <span class="mr-3"> &#x2022;</span>ATIS System receives the RCR data from A-RCR system and integrates it into the ATIS report for broadcast to aircraft (via VHF broadcast and datalink).​
+          </p>
         </div>
         <div class="col-sm-9  mx-auto">
           <img src="/images/VFM/VD1/VD1_Solution1.png" class="img-fluid border border-5 border-primary" alt="" />
@@ -133,7 +129,7 @@ third_nav_title: VD1
       <p class="mb-0 h3  font-weight-bold text-uppercase"> SOLUTION STATEMENT </p>
     </div>
     <div class="col-sm-12 py-2">
-      <p class="mb-0  font-weight-bold">Synergised the capabilities of the suite of systems, namely, AWOS, A-RCR, AIMS and ATIS systems, to collaborate on the reporting on the runway surface condition in a timely, efficient and effective manner for operational safety </p>
+      <p class="mb-0  font-weight-bold">Synergised the capabilities of the suite of systems, namely, AWOS, A-RCR, AIMS and ATIS systems, to collaborate on the reporting of runway surface condition in a timely, efficient and effective manner for operational safety </p>
     </div>
   </div>
   <nav>
