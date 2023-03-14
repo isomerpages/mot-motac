@@ -76,7 +76,7 @@ third_nav_title: VD3
     background: rgb(10, 91, 142) !important;
   }
 </style>
-<img src="/images/hero.png" class="img-fluid"  alt="hero"/>
+<img src="/images/hero.png" width="100%" alt="hero" />
 <div class="container-fluid py-5 card-bg text-pri my-5">
   <div class="row">
     <div class="col-sm-12 pt-4 pb-3 text-center">
@@ -94,7 +94,7 @@ third_nav_title: VD3
   </div>
   <div class="row">
     <div class="col-12 py-3">
-      <h3 class="text-center font-weight-bold"> Reducing Utility Diversions for Cross Island Line – Punggol Extension </h3>
+      <h3 class="text-center font-weight-bold text-uppercase"> Reducing Utility Diversions for Cross Island Line – Punggol Extension (CPe) </h3>
     </div>
     <div class="col-sm-12 text-center py-2 my-2 bg-secondary">
       <p class="mb-0 h3 font-weight-bold text-uppercase">IMPACT</p>
@@ -105,23 +105,21 @@ third_nav_title: VD3
           <img src="/images/VFM/VD3/VD3 Impact.png" class="img-fluid border border-5 border-primary" alt="" />
         </div>
         <div class="col-sm-12 py-2">
-          <ul class="text-pri">
-            <li>
-              <p> Diverted utilities are protected and the future MRT station wall can be constructed without risk of utility damage. </p>
-            </li>
-            <li>
-              <p> Utilities diversions were overall ~4.5km shorter for the CPe MRT project. </p>
-            </li>
-            <li>
-              <p> The protection wall initiative can be used for other utility diversion projects that face space constraint. </p>
-            </li>
-            <li>
-              <p> Construction Time Savings: 3 months for the CPe project. </p>
-            </li>
-            <li>
-              <p>Total Cost Savings: $13.50mil</p>
-            </li>
-          </ul>
+          <p>
+            <span class="mr-3"> &#x2022;</span>Diverted utilities are protected and the future MRT station wall can be constructed without risk of utility damage.
+          </p>
+          <p>
+            <span class="mr-3"> &#x2022;</span>Utilities diversions were overall ~4.5km shorter for the CPe MRT project.
+          </p>
+          <p>
+            <span class="mr-3"> &#x2022;</span>The protection wall initiative can be used for other utility diversion projects that face space constraint.
+          </p>
+          <p>
+            <span class="mr-3"> &#x2022;</span>Construction Time Savings: 3 months for the CPe project.
+          </p>
+          <p>
+            <span class="mr-3"> &#x2022;</span>Total Cost Savings: $13.50mil
+          </p>
         </div>
       </div>
     </div>
