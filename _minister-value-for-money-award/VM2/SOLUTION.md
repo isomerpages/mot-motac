@@ -76,7 +76,7 @@ third_nav_title: VM2
     background: rgb(10, 91, 142) !important;
   }
 </style>
-<img src="/images/hero.png" class="img-fluid"  alt="hero"/>
+<img src="/images/hero.png" width="100%" alt="hero" />
 <div class="container-fluid py-5 card-bg text-pri my-5">
   <div class="row">
     <div class="col-sm-12 pt-4 pb-3 text-center">
@@ -102,16 +102,12 @@ third_nav_title: VM2
     <div class="col-sm-12">
       <div class="row py-2">
         <div class="col-sm-8">
-          <ul class=" text-pri">
-            <li>
-              <p> Proposed design changes to the vertical alignment and structure of NSC viaduct along Gambas Avenue: </p>
-              <ul>
-                <li>
-                  <p> Optimising the NSC viaduct vertical elevation, adopting 3-legged viaduct portal frame to reduce the beam structure depth and depth of lamp posts so that the final encroachment into the aviation height limit is reduced to acceptable level of risks for MINDEF/DSTA’s agreement. </p>
-                </li>
-              </ul>
-            </li>
-          </ul>
+          <p>
+            <span class="mr-3"> &#x2022;</span> Proposed design changes to NSC viaduct along Gambas Avenue:
+          </p>
+          <p class="pl-3">
+            <span class="mr-3"> &#x2022;</span> Optimising the structure elements of the NSC viaduct via reduction of the structure beam depth.
+          </p>
         </div>
         <div class="col-sm-4">
           <img src="/images/VFM/VM2/VM2_Solution_01.png" class="img-fluid border border-5 border-primary" alt="" />
@@ -119,16 +115,15 @@ third_nav_title: VM2
       </div>
       <div class="row py-2">
         <div class="col-sm-8">
-          <ul class=" text-pri">
-            <li>
-              <p> Proposed shorter lamp posts to minimise the encroachment to the aviation height restriction while maintaining the required lux lighting level along the roads. </p>
-              <ul>
-                <li>
-                  <p> The height of lamp posts was reduced from the original 5.8m to 5.0m, where every small reduction in aviation height restriction helped MINDEF/DSTA to agree to LTA’s appeal to relax the height restriction. </p>
-                </li>
-              </ul>
-            </li>
-          </ul>
+          <p>
+            <span class="mr-3"> &#x2022;</span> Proposed use of shorter lamp posts to further reduce the encroachment to the aviation height restriction while maintaining the required lux lighting level along the roads.
+          </p>
+          <p class="pl-3">
+            <span class="mr-3"> &#x2022;</span> The height of lamp posts was reduced from the original 5.8m to 5.0m.
+          </p>
+          <p>
+            <span class="mr-3"> &#x2022;</span>Every small measure taken in reducing the aviation height restriction helped the team to successfully engage MINDEF/DSTA to agree to LTA’s appeal to relax the height restriction.
+          </p>
         </div>
         <div class="col-sm-4">
           <img src="/images/VFM/VM2/VM2_Solution_02.png" class="img-fluid border border-5 border-secondary" alt="" />
