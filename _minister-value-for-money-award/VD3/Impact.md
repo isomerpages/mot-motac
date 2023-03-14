@@ -129,7 +129,7 @@ third_nav_title: VD3
       <p class="mb-0 h3 font-weight-bold text-uppercase"> OUTCOME STATEMENT </p>
     </div>
     <div class="col-sm-12 py-2">
-      <p class="mb-0 font-weight-bold"> The diverted utilities are safely diverted away from the MRT station footprint and at a lower cost, by using protection walls, paving the way for smooth and safe station construction. </p>
+      <p class="mb-0 font-weight-bold"> The diverted utilities are safely diverted away from the MRT station footprint and at lower cost through the use of protection walls, paving the way for smooth and safe station construction. </p>
     </div>
   </div>
   <nav>
