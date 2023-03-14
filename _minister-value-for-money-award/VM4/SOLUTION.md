@@ -76,7 +76,7 @@ third_nav_title: VM4
     background: rgb(10, 91, 142) !important;
   }
 </style>
-<img src="/images/hero.png" class="img-fluid"  alt="hero"/>
+<img src="/images/hero.png" width="100%" alt="hero" />
 <div class="container-fluid py-5 card-bg text-pri my-5">
   <div class="row">
     <div class="col-sm-12 pt-4 pb-3 text-center">
@@ -110,17 +110,15 @@ third_nav_title: VM4
       </div>
       <div class="row py-2">
         <div class="col-sm-8">
-          <ul class=" text-pri">
-            <li>
-              <p> Installed “Water Mist System” as it uses substantially less water and has smaller control valves as compared to “Deluge System” used in other road tunnels. </p>
-            </li>
-            <li>
-              <p> Water mist system suppliers and SCDF were engaged during the research and design phase as there was lack of information in the public domain. </p>
-            </li>
-            <li>
-              <p> Developed test methodology and conducted large scale fire test to demonstrate the effectiveness of the water mist system in suppressing a heavy goods vehicle fire. </p>
-            </li>
-          </ul>
+          <p>
+            <span class="mr-3"> &#x2022;</span> Installed “Water Mist System” as it uses substantially less water and has smaller control valves as compared to “Deluge System” used in other road tunnels.
+          </p>
+          <p>
+            <span class="mr-3"> &#x2022;</span> Water mist system suppliers and SCDF were engaged during the research and design phase as there was lack of information in the public domain.
+          </p>
+          <p>
+            <span class="mr-3"> &#x2022;</span> Developed test methodology and conducted large scale fire test to demonstrate the effectiveness of the water mist system in suppressing a heavy goods vehicle fire.
+          </p>
         </div>
         <div class="col-sm-4">
           <img src="/images/VFM/VM4/VM4_Solution_3.png" class="img-fluid border border-5 border-secondary" alt="" />
