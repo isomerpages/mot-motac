@@ -76,7 +76,7 @@ third_nav_title: VD4
     background: rgb(10, 91, 142) !important;
   }
 </style>
-<img src="/images/hero.png" class="img-fluid"  alt="hero"/>
+<img src="/images/hero.png" width="100%" alt="hero" />
 <div class="container-fluid py-5 card-bg text-pri my-5">
   <div class="row">
     <div class="col-sm-12 pt-4 pb-3 text-center">
@@ -94,7 +94,7 @@ third_nav_title: VD4
   </div>
   <div class="row">
     <div class="col-12 py-3">
-      <h3 class="text-center font-weight-bold"> MPA Enterprise Data eXchange </h3>
+      <h3 class="text-center font-weight-bold"> MPA <u>E</u>NTERPRISE <u>D</u>ATA e <u>X</u>CHANGE​ </h3>
     </div>
     <div class="col-sm-12 text-center py-2 my-2 bg-secondary">
       <p class="mb-0 h3 font-weight-bold text-uppercase"> NEED FOR PROJECT​ </p>
@@ -106,20 +106,18 @@ third_nav_title: VD4
               border border-5 border-primary" alt="" />
         </div>
         <div class="col-sm-11 py-2 mx-auto">
-          <ul class="text-pri">
-            <li>
-              <p> Costly and time-consuming to redevelop all 85 interfaces with 35 MPA internal legacy and complex systems, which were maintained by multiple vendors, to integrate with Central Workday ERP System directly.​ </p>
-            </li>
-            <li>
-              <p>Tight timeline to go live within 10 months.​</p>
-            </li>
-            <li>
-              <p> Outsourcing this project would not be able to meet the timeline specified, and the cost would be very high based on a budgetary quote of $2.4mil for development and $1.3mil for two years maintenance, received from a system integrator.​ </p>
-            </li>
-            <li>
-              <p> Need a middleware to front Workday as a single point of data exchange instead of multiple integrations which would be tedious, complex, and very expensive. On top of it, MPA would not be able to meet the 10 months timeline if it work with multiple vendors on multiple integrations work.​ </p>
-            </li>
-          </ul>
+          <p>
+            <span class="mr-3"> &#x2022;</span> Costly and time-consuming to redevelop all 85 interfaces with 35 MPA internal legacy and complex systems, which were maintained by multiple vendors, to integrate with Central Workday ERP System directly.​
+          </p>
+          <p>
+            <span class="mr-3"> &#x2022;</span>Tight timeline to go live within 10 months.​
+          </p>
+          <p>
+            <span class="mr-3"> &#x2022;</span> Outsourcing this project would not be able to meet the timeline specified, and the cost would be very high based on a budgetary quote of $2.4mil for development and $1.3mil for two years maintenance, received from a system integrator.​
+          </p>
+          <p>
+            <span class="mr-3"> &#x2022;</span> Need a middleware to front Workday as a single point of data exchange instead of multiple integrations which would be tedious, complex, and very expensive. On top of it, MPA would not be able to meet the 10 months timeline if it work with multiple vendors on multiple integrations work.​
+          </p>
         </div>
       </div>
     </div>
