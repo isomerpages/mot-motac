@@ -5,8 +5,6 @@ permalink: /minister-value-for-money-award/VM3/impact/
 description: ""
 third_nav_title: VM2
 ---
-
-
 <style type="text/css">
   .text-pri {
     color: #273592;
@@ -125,7 +123,7 @@ third_nav_title: VM2
       <p class="mb-0 h3 font-weight-bold text-uppercase"> OUTCOME STATEMENT </p>
     </div>
     <div class="col-sm-12 py-2">
-      <p class="mb-0 font-weight-bold text-pri"> The optimisation of operation parameters and implementation of Inner Loop – Outer Loop Operating pattern will require fewer trains and timely completion of project. </p>
+      <p class="mb-0 font-weight-bold text-pri"> The optimisation of operation parameters and implementation of Inner Loop – Outer Loop Operating pattern will require fewer trains. </p>
     </div>
   </div>
   <nav>
