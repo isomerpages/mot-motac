@@ -76,7 +76,7 @@ third_nav_title: VM1
     background: rgb(10, 91, 142) !important;
   }
 </style>
-<img src="/images/hero.png" class="img-fluid" alt="hero" />
+<img src="/images/hero.png" width="100%" alt="hero" />
 <div class="container-fluid py-5 card-bg text-pri my-5">
   <div class="row">
     <div class="col-sm-12 pt-4 pb-3 text-center">
@@ -85,7 +85,7 @@ third_nav_title: VM1
   </div>
   <div class="row border border-4 border-info">
     <div class="col-sm-4 py-3 text-center d-flex flex-column align-items-center justify-content-center">
-      <img src="/images/Logos/CAAS.png" width="100%" alt="CAAS" />
+      <img src="/images/Logos/CAAS.png" class="img-fluid" alt="CAAS" />
     </div>
     <div class="col-sm-8 py-3 text-center bg-primary d-flex justify-content-center flex-column aligin-items-center">
       <p class="mb-1 text-light font-weight-bold raleway-font"> MINISTER’S VFM ACHIEVEMENT AWARD </p>
