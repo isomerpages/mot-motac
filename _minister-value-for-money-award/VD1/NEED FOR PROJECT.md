@@ -104,7 +104,7 @@ third_nav_title: VD1
         <div class="col-sm-8">
           <ul>
             <li>
-              <p> Runway excursions (inappropriate and premature exit from runway) have always been a top safety risk, with poor braking action as a key contributing factor.</p>
+           Runway excursions (inappropriate and premature exit from runway) have always been a top safety risk, with poor braking action as a key contributing factor.
             </li>
           </ul>
         </div>
@@ -116,13 +116,13 @@ third_nav_title: VD1
         <div class="col-sm-8">
           <ul class="  ">
             <li>
-              <p>IATA analysis shows that:</p>
+             IATA analysis shows that:
               <ul>
                 <li>
-                  <p> There was 1 runway excursion reported for every 1.3 million flights. </p>
+                   There was 1 runway excursion reported for every 1.3 million flights. 
                 </li>
                 <li>
-                  <p> From 2005 to 1H 2019, approximately 23% of the accidents in IATA’s global accident database involved runway excursion. </p>
+               From 2005 to 1H 2019, approximately 23% of the accidents in IATA’s global accident database involved runway excursion. 
                 </li>
               </ul>
             </li>
@@ -136,10 +136,10 @@ third_nav_title: VD1
         <div class="col-sm-8">
           <ul class=" ">
             <li>
-              <p> ICAO Friction Task Force was tasked to address the problem and developed the Global Reporting Format (GRF) for runway surface conditions. </p>
+               ICAO Friction Task Force was tasked to address the problem and developed the Global Reporting Format (GRF) for runway surface conditions. 
             </li>
             <li>
-              <p>GRF to be implemented by 4 Nov 2021.​</p>
+              GRF to be implemented by 4 Nov 2021.
             </li>
           </ul>
         </div>
