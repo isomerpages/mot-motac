@@ -110,7 +110,7 @@ third_nav_title: VD4
             <span class="mr-3"> &#x2022;</span> MPA officers have more in-depth domain knowledge as compared to external vendors who may have a steeper learning curve and require a longer time to understand MPA’s business domain.​
           </p>
           <p>
-            <span class="mr-3"> &#x2022;</span> EDX was developed within 6 months, compared to the proposed timeline of 9 months by external vendor and the 10-month timeline given by PSD to MPA and other 11 agencies to onboard Workday​
+            <span class="mr-3"> &#x2022;</span> EDX was developed within six months, compared to the proposed timeline of nine months by external vendor and the 10-month timeline given by PSD to MPA and other 11 agencies to onboard Workday​
           </p>
           <p>
             <span class="mr-3"> &#x2022;</span> EDX serves as a data hub and data exchange that is scalable to include data and data exchanges from other systems outside of HR, Payroll and Finance. The data in EDX can be identified as useful enterprise datasets for analytics purposes.​
