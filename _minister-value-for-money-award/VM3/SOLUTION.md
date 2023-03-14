@@ -1,7 +1,7 @@
 ---
 layout: skeleton
 title: SOLUTION
-permalink: /minister-value-for-money-award/VM2/solution/
+permalink: /minister-value-for-money-award/VM3/solution/
 description: ""
 third_nav_title: VM3
 ---
