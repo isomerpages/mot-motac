@@ -76,7 +76,7 @@ third_nav_title: VD2
     background: rgb(10, 91, 142) !important;
   }
 </style>
-<img src="/images/hero.png" class="img-fluid"  alt="hero"/>
+<img src="/images/hero.png" width="100%" alt="hero" />
 <div class="container-fluid py-5 card-bg text-pri my-5">
   <div class="row">
     <div class="col-sm-12 pt-4 pb-3 text-center">
@@ -102,25 +102,21 @@ third_nav_title: VD2
     <div class="col-sm-12 py-5">
       <div class="row py-2">
         <div class="col-sm-8">
-          <ul class="text-pri">
-            <li>
-              <p> With JRL being Design and Construction contract, LTA specified its requirements for the viaduct upstream in Contract Document (Particular Specification) for contractor compliance: </p>
-              <ul>
-                <li>
-                  <p> Typical span of 40m rail viaduct and 4 span continuous to minimise number of bearings for maintenance </p>
-                </li>
-                <li>
-                  <p> Full-Joints (no half-joint) Two-Bearings System to provide easy accessibility and stability in maintenance </p>
-                </li>
-                <li>
-                  <p> Minimum height of 300mm between the underside of beam and top of crosshead. </p>
-                </li>
-                <li>
-                  <p> Solutioning for two-bearings system, LTA worked closely with Contractor to further develop the details such as including future jacking position into design consideration of the crosshead. </p>
-                </li>
-              </ul>
-            </li>
-          </ul>
+          <p>
+            <span class="mr-3"> &#x2022;</span> With JRL being Design and Construction contract, LTA specified its requirements for the viaduct upstream in Contract Document (Particular Specification) for contractor compliance:
+          </p>
+          <p class="pl-3">
+            <span class="mr-3"> &#x2022;</span> Typical span of 40m rail viaduct and 4 span continuous to minimise number of bearings for maintenance
+          </p>
+          <p class="pl-3">
+            <span class="mr-3"> &#x2022;</span> Full-Joints (no half-joint) Two-Bearings System to provide easy accessibility and stability in maintenance
+          </p>
+          <p class="pl-3">
+            <span class="mr-3"> &#x2022;</span> Minimum height of 300mm between the underside of beam and top of crosshead.
+          </p>
+          <p class="pl-3">
+            <span class="mr-3"> &#x2022;</span> Solutioning for two-bearings system, LTA worked closely with Contractor to further develop the details such as including future jacking position into design consideration of the crosshead.
+          </p>
         </div>
         <div class="col-sm-4">
           <img src="/images/VFM/VD2/VD2 Solution1.png" class="img-fluid border border-5 border-primary" alt="" />
