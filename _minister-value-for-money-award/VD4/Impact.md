@@ -76,7 +76,7 @@ third_nav_title: VD4
     background: rgb(10, 91, 142) !important;
   }
 </style>
-<img src="/images/hero.png" class="img-fluid"  alt="hero"/>
+<img src="/images/hero.png" width="100%" alt="hero" />
 <div class="container-fluid py-5 card-bg text-pri my-5">
   <div class="row">
     <div class="col-sm-12 pt-4 pb-3 text-center">
@@ -94,7 +94,7 @@ third_nav_title: VD4
   </div>
   <div class="row">
     <div class="col-12 py-3">
-      <h3 class="text-center font-weight-bold"> MPA Enterprise Data eXchange </h3>
+      <h3 class="text-center font-weight-bold"> MPA <u>E</u>NTERPRISE <u>D</u>ATA e<u>X</u>CHANGE​ </h3>
     </div>
     <div class="col-sm-12 text-center py-2 my-2 bg-secondary">
       <p class="mb-0 h3 font-weight-bold text-uppercase">IMPACT</p>
@@ -106,23 +106,21 @@ third_nav_title: VD4
               border-5 border-primary" alt="" />
         </div>
         <div class="col-sm-11 py-2 mx-auto">
-          <ul class="text-pri">
-            <li>
-              <p> MPA officers have more in-depth domain knowledge as compared to external vendors who may have a steeper learning curve and require a longer time to understand MPA’s business domain.​ </p>
-            </li>
-            <li>
-              <p> EDX was developed within 6 months, compared to the proposed timeline of 9 months by external vendor and the 10-month timeline given by PSD to MPA and other 11 agencies to onboard Workday​ </p>
-            </li>
-            <li>
-              <p> EDX serves as a data hub and data exchange that is scalable to include data and data exchanges from other systems outside of HR, Payroll and Finance. The data in EDX can be identified as useful enterprise datasets for analytics purposes.​ </p>
-            </li>
-            <li>
-              <p> EDX was built on Java platform which is easy to maintain and quick to onboard new systems. EDX has the potential to be the only enterprise data exchange for all MPA internal systems. Since it is developed and maintained by MPA ITD, changes or enhancement to EDX can be done quickly to support new requirements.​ </p>
-            </li>
-            <li class="font-weight-bold">
-              <p>Total Cost Savings: $3.47mil.​</p>
-            </li>
-          </ul>
+          <p>
+            <span class="mr-3"> &#x2022;</span> MPA officers have more in-depth domain knowledge as compared to external vendors who may have a steeper learning curve and require a longer time to understand MPA’s business domain.​
+          </p>
+          <p>
+            <span class="mr-3"> &#x2022;</span> EDX was developed within 6 months, compared to the proposed timeline of 9 months by external vendor and the 10-month timeline given by PSD to MPA and other 11 agencies to onboard Workday​
+          </p>
+          <p>
+            <span class="mr-3"> &#x2022;</span> EDX serves as a data hub and data exchange that is scalable to include data and data exchanges from other systems outside of HR, Payroll and Finance. The data in EDX can be identified as useful enterprise datasets for analytics purposes.​
+          </p>
+          <p>
+            <span class="mr-3"> &#x2022;</span> EDX was built on Java platform which is easy to maintain and quick to onboard new systems. EDX has the potential to be the only enterprise data exchange for all MPA internal systems. Since it is developed and maintained by MPA ITD, changes or enhancement to EDX can be done quickly to support new requirements.​
+          </p>
+          <p class="font-weight-bold">
+            <span class="mr-3"> &#x2022;</span>Total Cost Savings: $3.47mil.​
+          </p>
         </div>
       </div>
     </div>
