@@ -102,11 +102,7 @@ third_nav_title: VD1
     <div class="col-sm-12 py-4">
       <div class="row py-2">
         <div class="col-sm-8">
-          <ul>
-            <li>
-           Runway excursions (veer off or overrun from the runway surface) have always been a top safety risk, with poor braking action as a key contributing factor.
-            </li>
-          </ul>
+*           Runway excursions (veer off or overrun from the runway surface) have always been a top safety risk, with poor braking action as a key contributing factor.
         </div>
         <div class="col-sm-4 ">
           <img src="/images/VFM/VD1/VD1_NeedforProject1.jpg" class="img-fluid border border-5 border-primary" alt="" />
