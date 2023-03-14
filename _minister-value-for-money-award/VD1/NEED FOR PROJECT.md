@@ -110,7 +110,7 @@ third_nav_title: VD1
       </div>
       <div class="row py-2">
         <div class="col-sm-8">
-          <ul class="  ">
+          <ul style="list-style-type:circle">
             <li>
              IATA analysis shows that:
               <ul>
