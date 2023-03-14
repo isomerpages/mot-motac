@@ -76,7 +76,7 @@ third_nav_title: VD2
     background: rgb(10, 91, 142) !important;
   }
 </style>
-<img src="/images/hero.png" class="img-fluid"  alt="hero"/>
+<img src="/images/hero.png" width="100%" alt="hero" />
 <div class="container-fluid py-5 text-pri card-bg my-5">
   <div class="row">
     <div class="col-sm-12 pt-4 pb-3 text-center">
@@ -96,7 +96,7 @@ third_nav_title: VD2
     <div class="col-12 py-3">
       <h3 class="text-center  font-weight-bold"> JRL VIADUCT BEARINGS – OPTIMISED DESIGN FOR OPERATION & MAINTENANCE </h3>
     </div>
-    <div class="col-12 py-3">
+    <div class="col-8 mx-auto py-3">
       <img src="/images/VFM/VD2/VD2 Iconic Pic.png" class="img-fluid border my-5" />
     </div>
   </div>
@@ -104,7 +104,7 @@ third_nav_title: VD2
     <div class="col-sm-12 text-center py-2 my-2 bg-secondary">
       <p class="mb-0 h3  font-weight-bold text-uppercase"> Project Team​ </p>
     </div>
-    <div class="col-sm-11 text-center mx-auto py-3">
+    <div class="col-sm-8 text-center mx-auto py-3">
       <img src="/images/VFM/VD2/VD2-Team Photo.png" class="img-fluid border border-5 border-secondary" alt="" />
     </div>
     <div class="col-sm-11 mx-auto">
@@ -181,7 +181,7 @@ third_nav_title: VD2
               <p class="mb-2 text-pri fw-bold"> Sim Yuan Teng, Nicholas </p>
             </div>
             <div class="col-sm-6">
-              <p class="mb-2 text-pri fw-bold"> Team Member </p>
+              <p class="mb-2 text-pri fw-bold"> Member </p>
             </div>
           </div>
           <div class="row">
@@ -189,7 +189,7 @@ third_nav_title: VD2
               <p class="mb-2 text-pri fw-bold"> Ma Wei </p>
             </div>
             <div class="col-sm-6">
-              <p class="mb-2 text-pri fw-bold"> Team Member </p>
+              <p class="mb-2 text-pri fw-bold"> Member </p>
             </div>
           </div>
           <div class="row">
@@ -197,7 +197,7 @@ third_nav_title: VD2
               <p class="mb-2 text-pri fw-bold"> Lee Eng Ming </p>
             </div>
             <div class="col-sm-6">
-              <p class="mb-2 text-pri fw-bold"> Team Member </p>
+              <p class="mb-2 text-pri fw-bold"> Member </p>
             </div>
           </div>
           <div class="row">
@@ -205,7 +205,7 @@ third_nav_title: VD2
               <p class="mb-2 text-pri fw-bold"> David Chen </p>
             </div>
             <div class="col-sm-6">
-              <p class="mb-2 text-pri fw-bold"> Team Member </p>
+              <p class="mb-2 text-pri fw-bold"> Member </p>
             </div>
           </div>
           <div class="row">
@@ -213,7 +213,7 @@ third_nav_title: VD2
               <p class="mb-2 text-pri fw-bold"> Basant Kumar </p>
             </div>
             <div class="col-sm-6">
-              <p class="mb-2 text-pri fw-bold"> Team Member </p>
+              <p class="mb-2 text-pri fw-bold"> Member </p>
             </div>
           </div>
         </div>
