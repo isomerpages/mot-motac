@@ -104,7 +104,7 @@ third_nav_title: VD1
         <div class="col-sm-8">
           <ul>
             <li>
-           Runway excursions (inappropriate and premature exit from runway) have always been a top safety risk, with poor braking action as a key contributing factor.
+           Runway excursions (veer off or overrun from the runway surface) have always been a top safety risk, with poor braking action as a key contributing factor.
             </li>
           </ul>
         </div>
