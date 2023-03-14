@@ -76,7 +76,7 @@ third_nav_title: VD3
     background: rgb(10, 91, 142) !important;
   }
 </style>
-<img src="/images/hero.png" class="img-fluid"  alt="hero"/>
+<img src="/images/hero.png" width="100%" alt="hero" />
 <div class="container-fluid py-5 text-pri card-bg my-5">
   <div class="row">
     <div class="col-sm-12 pt-4 pb-3 text-center">
@@ -94,7 +94,7 @@ third_nav_title: VD3
   </div>
   <div class="row">
     <div class="col-12 py-3">
-      <h3 class="text-center font-weight-bold"> Reducing Utility Diversions for Cross Island Line – Punggol Extension </h3>
+      <h3 class="text-center font-weight-bold text-uppercase"> Reducing Utility Diversions for Cross Island Line – Punggol Extension (CPe) </h3>
     </div>
     <div class="col-sm-8 mx-auto text-center py-3">
       <img src="/images/VFM/VD3/VD3 Iconic Pic.png" class="img-fluid border my-5" />
