@@ -104,12 +104,12 @@ third_nav_title: VM5
          <div class="col-sm-8">
            <ul class=" text-pri">
              <li>
-               <p> VHF voice communications is critical to Vessel Traffic Management (VTM) operations as it supports the exchange of traffic and weather conditions, as well as channel access clearance information with vessels entering and leaving Singapore Port waters.​ </p>
+               <p> VHF voice communication is critical to Vessel Traffic Management (VTM) operations as it supports the exchange of traffic and weather conditions, as well as channel access clearance information with vessels entering and leaving Singapore Port waters.​ </p>
              </li>
            </ul>
          </div>
          <div class="col-sm-4">
-           <img src="/images/VFM/VM5/VM5_NeedforProject_1.jpg" class="img-fluid border border-5 border-primary" alt="" />
+           <img src="/images/VFM/VM5/VM5_NeedforProject_1.png" class="img-fluid border border-5 border-primary" alt="" />
          </div>
        </div>
        <div class="row py-2">
@@ -139,7 +139,7 @@ third_nav_title: VM5
        <p class="mb-0 h3 font-weight-bold text-uppercase"> PROBLEM STATEMENT </p>
      </div>
      <div class="col-sm-12 py-2">
-       <p class="mb-0 font-weight-bold text-pri "> Need to improve the VHF coverage at Pasir Panjang Control (PPC) Sector in view of the fluctuating reception quality in radio voice communications with vessels in the sector.​ </p>
+       <p class="mb-0 font-weight-bold text-pri "> Need to improve the VHF coverage at Pasir Panjang Control (PPC) Sector in view of the fluctuating reception quality in radio voice communication with vessels in the sector.​ </p>
      </div>
    </div>
    <nav>
