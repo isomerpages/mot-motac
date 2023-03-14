@@ -5,7 +5,6 @@ permalink: /minister-value-for-money-award/VM2/solution/
 description: ""
 third_nav_title: VM3
 ---
-
 <style type="text/css">
   .text-pri {
     color: #273592;
@@ -142,14 +141,14 @@ third_nav_title: VM3
   </div>
   <nav>
     <div class="nav nav-tabs nav-fill" id="nav-tab" role="tablist">
-      <a class="nav-link text-uppercase link-home text-decoration-none" id="nav-home-tab" href="/minister-value-for-money-award/VM2/home/">
+      <a class="nav-link text-uppercase link-home text-decoration-none" id="nav-home-tab" href="/minister-value-for-money-award/VM3/home/">
         <svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" fill="currentColor" class="bi bi-house-door-fill" viewBox="0 0 16 16">
           <path d="M6.5 14.5v-3.505c0-.245.25-.495.5-.495h2c.25 0 .5.25.5.5v3.5a.5.5 0 0 0 .5.5h4a.5.5 0 0 0 .5-.5v-7a.5.5 0 0 0-.146-.354L13 5.793V2.5a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1.293L8.354 1.146a.5.5 0 0 0-.708 0l-6 6A.5.5 0 0 0 1.5 7.5v7a.5.5 0 0 0 .5.5h4a.5.5 0 0 0 .5-.5Z" />
         </svg>
       </a>
-      <a class="nav-link link-project text-decoration-none" id="nav-project-tab" href="/minister-value-for-money-award/VM2/need-for-project/"> NEED FOR <br /> PROJECT </a>
-      <a class="nav-link link-solution active text-decoration-none" id="nav-solution-tab" href="/minister-value-for-money-award/VM2/solution/"> SOLUTION</a>
-      <a class="nav-link link-impact text-decoration-none" id="nav-impact-tab" href="/minister-value-for-money-award/VM2/impact/"> IMPACT</a>
+      <a class="nav-link link-project text-decoration-none" id="nav-project-tab" href="/minister-value-for-money-award/VM3/need-for-project/"> NEED FOR <br /> PROJECT </a>
+      <a class="nav-link link-solution active text-decoration-none" id="nav-solution-tab" href="/minister-value-for-money-award/VM3/solution/"> SOLUTION</a>
+      <a class="nav-link link-impact text-decoration-none" id="nav-impact-tab" href="/minister-value-for-money-award/VM3/impact/"> IMPACT</a>
     </div>
   </nav>
 </div>
