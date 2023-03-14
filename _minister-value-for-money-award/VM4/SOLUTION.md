@@ -111,7 +111,7 @@ third_nav_title: VM4
       <div class="row py-2">
         <div class="col-sm-8">
           <p>
-            <span class="mr-3"> &#x2022;</span> Installed “Water Mist System” as it uses substantially less water and has smaller control valves as compared to “Deluge System” used in other road tunnels.
+            <span class="mr-3"> &#x2022;</span> Installed “Water Mist System” as it used substantially less water and had smaller control valves as compared to “Deluge System” used in other road tunnels.
           </p>
           <p>
             <span class="mr-3"> &#x2022;</span> Water mist system suppliers and SCDF were engaged during the research and design phase as there was lack of information in the public domain.
