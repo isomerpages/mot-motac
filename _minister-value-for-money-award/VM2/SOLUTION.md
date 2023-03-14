@@ -105,7 +105,7 @@ third_nav_title: VM2
           <p>
             <span class="mr-3"> &#x2022;</span> Proposed design changes to NSC viaduct along Gambas Avenue:
           </p>
-          <p class="pl-3">
+          <p class="pl-5">
             <span class="mr-3"> &#x2022;</span> Optimising the structure elements of the NSC viaduct via reduction of the structure beam depth.
           </p>
         </div>
@@ -118,7 +118,7 @@ third_nav_title: VM2
           <p>
             <span class="mr-3"> &#x2022;</span> Proposed use of shorter lamp posts to further reduce the encroachment to the aviation height restriction while maintaining the required lux lighting level along the roads.
           </p>
-          <p class="pl-3">
+          <p class="pl-5">
             <span class="mr-3"> &#x2022;</span> The height of lamp posts was reduced from the original 5.8m to 5.0m.
           </p>
           <p>
