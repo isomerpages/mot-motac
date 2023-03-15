@@ -119,7 +119,7 @@ description: ""
     </div>
     <div class="row bg-sec2 text-light">
       <div class="col-12 py-3">
-        <p class="mb-0 py-3 text-primary text-center font-weight-bold raleway-font-custom"> Distinguished Award </p>
+        <p class="mb-0 py-3 text-pri text-center font-weight-bold raleway-font-custom"> Distinguished Award </p>
         <a href="/minister-innovation-award/ID1/home/" class="text-decoration-none text-light pb-2">
           <div class="row mb-2">
             <div class="col-3 p-1">
@@ -206,7 +206,7 @@ description: ""
         </a>
       </div>
       <div class="col-12 py-3">
-        <p class="mb-0 py-3 text-center font-weight-bold raleway-font-custom"> MERIT Award </p>
+        <p class="mb-0 py-3 text-center text-pri font-weight-bold raleway-font-custom"> MERIT Award </p>
         <a href="/minister-innovation-award/IM2/home/" class="text-decoration-none text-light pb-2">
           <div class="row mb-2">
             <div class="col-3 p-1">
