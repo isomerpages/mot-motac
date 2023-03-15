@@ -112,56 +112,56 @@ description: ""
   <div class="row bg-primary text-light">
     <div class="col-12 py-3">
       <p class="mb-0 py-3 text-center font-weight-bold raleway-font-custom"> Distinguished Award </p>
-      <a href="/minister-value-for-money-award/VD1/home/" class="text-decoration-none text-light  pb-2">
+      <a href="/minister-value-for-money-award/VD1/home/" class="text-decoration-none text-light pb-2">
         <div class="row mb-2">
-          <div class="col-sm-3 p-1">
+          <div class="col-3 p-1">
             <div class="distinguished py-3 text-center h-100">
               <p class="mb-0 h4">CAAS</p>
             </div>
           </div>
-          <div class="col-sm-9 p-1">
+          <div class="col-9 p-1">
             <div class="distinguished p-3">
               <p class="mb-0 h4"> AUTOMATED RUNWAY CONDITION REPORTING TO ENHANCE OPERATIONAL SAFETY </p>
             </div>
           </div>
         </div>
       </a>
-      <a href="/minister-value-for-money-award/VD2/home/" class="text-decoration-none text-light  pb-2">
+      <a href="/minister-value-for-money-award/VD2/home/" class="text-decoration-none text-light pb-2">
         <div class="row mb-2">
-          <div class="col-sm-3 p-1">
+          <div class="col-3 p-1">
             <div class="distinguished py-3 text-center h-100">
               <p class="mb-0 h4">LTA</p>
             </div>
           </div>
-          <div class="col-sm-9 p-1">
+          <div class="col-9 p-1">
             <div class="distinguished p-3">
               <p class="mb-0 h4 text-uppercase"> Jurong Region Line (JRL) Viaduct Bearings – Optimised Design for Operation & Maintenance </p>
             </div>
           </div>
         </div>
       </a>
-      <a href="/minister-value-for-money-award/VD3/home/" class="text-decoration-none text-light  pb-2">
+      <a href="/minister-value-for-money-award/VD3/home/" class="text-decoration-none text-light pb-2">
         <div class="row mb-2">
-          <div class="col-sm-3 p-1">
+          <div class="col-3 p-1">
             <div class="distinguished py-3 text-center h-100">
               <p class="mb-0 h4">LTA</p>
             </div>
           </div>
-          <div class="col-sm-9 p-1">
+          <div class="col-9 p-1">
             <div class="distinguished p-3">
               <p class="mb-0 h4 text-uppercase"> REDUCING UTILITY DIVERSIONS FOR CROSS ISLAND LINE – PUNGGOL EXTENSION (CPE) </p>
             </div>
           </div>
         </div>
       </a>
-      <a href="/minister-value-for-money-award/VD4/home/" class="text-decoration-none text-light  pb-2">
+      <a href="/minister-value-for-money-award/VD4/home/" class="text-decoration-none text-light pb-2">
         <div class="row mb-2">
-          <div class="col-sm-3 p-1">
+          <div class="col-3 p-1">
             <div class="distinguished py-3 text-center h-100">
               <p class="mb-0 h4">MPA</p>
             </div>
           </div>
-          <div class="col-sm-9 p-1">
+          <div class="col-9 p-1">
             <div class="distinguished p-3">
               <p class="mb-0 h4 text-uppercase"> MPA ENTERPRISE DATA eXCHANGE​ </p>
             </div>
@@ -171,70 +171,70 @@ description: ""
     </div>
     <div class="col-12 py-3">
       <p class="mb-0 py-3 text-center font-weight-bold raleway-font-custom"> MERIT Award </p>
-      <a href="/minister-value-for-money-award/VM1/home/" class="text-decoration-none text-light  pb-2 ">
+      <a href="/minister-value-for-money-award/VM1/home/" class="text-decoration-none text-light pb-2">
         <div class="row mb-2">
-          <div class="col-sm-3 p-1">
+          <div class="col-3 p-1">
             <div class="merit py-3 text-center h-100">
               <p class="mb-0 h4">CAAS</p>
             </div>
           </div>
-          <div class="col-sm-9 p-1">
+          <div class="col-9 p-1">
             <div class="merit p-3">
               <p class="mb-0 h4"> APPROACH SPACING TOOL FOR AIR TRAFFIC CONTROL </p>
             </div>
           </div>
         </div>
       </a>
-      <a href="/minister-value-for-money-award/VM2/home/" class="text-decoration-none text-light  pb-2">
+      <a href="/minister-value-for-money-award/VM2/home/" class="text-decoration-none text-light pb-2">
         <div class="row mb-2">
-          <div class="col-sm-3 p-1">
+          <div class="col-3 p-1">
             <div class="merit py-3 text-center h-100">
               <p class="mb-0 h4">LTA</p>
             </div>
           </div>
-          <div class="col-sm-9 p-1">
+          <div class="col-9 p-1">
             <div class="merit p-3">
               <p class="mb-0 h4 text-uppercase"> CROSS ISLAND LINE (CRL) TRAIN FLEET SIZE OPTIMISATION </p>
             </div>
           </div>
         </div>
       </a>
-      <a href="/minister-value-for-money-award/VD3/home/" class="text-decoration-none text-light  pb-2">
+      <a href="/minister-value-for-money-award/VD3/home/" class="text-decoration-none text-light pb-2">
         <div class="row mb-2">
-          <div class="col-sm-3 p-1">
+          <div class="col-3 p-1">
             <div class="merit py-3 text-center h-100">
               <p class="mb-0 h4">LTA</p>
             </div>
           </div>
-          <div class="col-sm-9 p-1">
+          <div class="col-9 p-1">
             <div class="merit p-3">
               <p class="mb-0 h4 text-uppercase"> MANAGEMENT OF AVIATION HEIGHT RESTRICTION ON NORTH-SOUTH CORRIDOR VIADUCT </p>
             </div>
           </div>
         </div>
       </a>
-      <a href="/minister-value-for-money-award/VM4/home/" class="text-decoration-none text-light  pb-2">
+      <a href="/minister-value-for-money-award/VM4/home/" class="text-decoration-none text-light pb-2">
         <div class="row mb-2">
-          <div class="col-sm-3 p-1">
+          <div class="col-3 p-1">
             <div class="merit py-3 text-center h-100">
               <p class="mb-0 h4">LTA</p>
             </div>
           </div>
-          <div class="col-sm-9 p-1">
+          <div class="col-9 p-1">
             <div class="merit p-3">
               <p class="mb-0 h4 text-uppercase"> WATER MIST SYSTEM - COST-EFFECTIVE FIRE SAFETY ENHANCEMENT FOR EXISTING ROAD TUNNELS </p>
             </div>
           </div>
         </div>
       </a>
-      <a href="/minister-value-for-money-award/VM5/Home/" class="text-decoration-none text-light  pb-2">
+      <a href="/minister-value-for-money-award/VM5/Home/" class="text-decoration-none text-light pb-2">
         <div class="row mb-2">
-          <div class="col-sm-3 p-1">
+          <div class="col-3 p-1">
             <div class="merit py-3 text-center h-100">
               <p class="mb-0 h4">MPA</p>
             </div>
           </div>
-          <div class="col-sm-9 p-1">
+          <div class="col-9 p-1">
             <div class="merit p-3">
               <p class="mb-0 h4 text-uppercase"> RADIO COVERAGE ENHANCEMENT IN PORT WATERS </p>
             </div>
