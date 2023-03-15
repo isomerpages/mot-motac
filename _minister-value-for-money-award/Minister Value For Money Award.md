@@ -110,12 +110,12 @@ description: ""
       <p class="mb-0 py-3 text-center font-weight-bold raleway-font-custom"> Distinguished Award </p>
       <a href="#" class="text-decoration-none text-light">
         <div class="row">
-          <div class="col-3 p-1">
+          <div class="col-sm-3 p-1">
             <div class="distinguished py-3 text-center">
               <p class="mb-0 h4">CAAS</p>
             </div>
           </div>
-          <div class="col-9 p-1">
+          <div class="col-sm-9 p-1">
             <div class="distinguished py-3 text-center">
               <p class="mb-0 h4">AUTOMATED RUNWAY CONDITION REPORTING TO ENHANCE OPERATIONAL SAFETY</p>
             </div>
