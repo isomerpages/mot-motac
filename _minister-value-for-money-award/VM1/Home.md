@@ -94,7 +94,7 @@ third_nav_title: VM1
   </div>
   <div class="row">
     <div class="col-12 py-3">
-      <h3 class="text-center font-weight-bold"> Approach Spacing Tool for<br/> Air Traffic Control </h3>
+      <h3 class="text-center font-weight-bold text-uppercase"> Approach Spacing Tool for<br/> Air Traffic Control </h3>
     </div>
     <div class="col-sm-11 mx-auto text-center py-3">
       <img src="/images/VFM/VM1/VM1 IconicPic2.png" class="img-fluid border my-5" />
