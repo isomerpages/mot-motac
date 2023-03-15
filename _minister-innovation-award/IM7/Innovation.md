@@ -147,7 +147,7 @@ third_nav_title: IM7
          </svg>
        </a>
        <a class="nav-link link-project text-decoration-none text-uppercase" id="nav-project-tab" href="/minister-innovation-award/IM7/impetus/"> Impetus </a>
-       <a class="nav-link active link-solution text-decoration-nonetext-uppercase" id="nav-solution-tab" href="/minister-innovation-award/IM7/innovation/"> Innovation</a>
+       <a class="nav-link active link-solution text-decoration-none text-uppercase" id="nav-solution-tab" href="/minister-innovation-award/IM7/innovation/"> Innovation</a>
        <a class="nav-link link-impact text-decoration-none text-uppercase" id="nav-impact-tab" href="/minister-innovation-award/IM7/impact/"> Impact</a>
      </div>
    </nav>
