@@ -76,7 +76,7 @@ third_nav_title: IM11 SM
     background: rgb(10, 91, 142) !important;
   }
 </style>
-<img src="/images/hero.png" class="img-fluid"  alt="hero"/>
+<img src="/images/hero.png" class="w-100"  alt="hero"/>
 <div class="container-fluid py-5 card-bg text-pri my-5">
   <div class="row">
     <div class="col-sm-12 pt-4 pb-3 text-center">
@@ -128,9 +128,9 @@ third_nav_title: IM11 SM
           <path d="M6.5 14.5v-3.505c0-.245.25-.495.5-.495h2c.25 0 .5.25.5.5v3.5a.5.5 0 0 0 .5.5h4a.5.5 0 0 0 .5-.5v-7a.5.5 0 0 0-.146-.354L13 5.793V2.5a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1.293L8.354 1.146a.5.5 0 0 0-.708 0l-6 6A.5.5 0 0 0 1.5 7.5v7a.5.5 0 0 0 .5.5h4a.5.5 0 0 0 .5-.5Z" />
         </svg>
       </a>
-      <a class="nav-link active link-project text-decoration-none" id="nav-project-tab" href="/minister-innovation-award/IM11-SM/impetus/"> Impetus </a>
-      <a class="nav-link link-solution text-decoration-none" id="nav-solution-tab" href="/minister-innovation-award/IM11-SM/innovation/"> Innovation</a>
-      <a class="nav-link link-impact text-decoration-none" id="nav-impact-tab" href="/minister-innovation-award/IM11-SM/impact/"> Impact</a>
+      <a class="nav-link active link-project text-decoration-none text-uppercase" id="nav-project-tab" href="/minister-innovation-award/IM11-SM/impetus/"> Impetus </a>
+      <a class="nav-link link-solution text-decoration-none text-uppercase" id="nav-solution-tab" href="/minister-innovation-award/IM11-SM/innovation/"> Innovation</a>
+      <a class="nav-link link-impact text-decoration-none text-uppercase" id="nav-impact-tab" href="/minister-innovation-award/IM11-SM/impact/"> Impact</a>
     </div>
   </nav>
 </div>
