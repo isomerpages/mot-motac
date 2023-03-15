@@ -4,7 +4,7 @@ title: Minister Innovation Award
 permalink: /minister-innovation-award/home/
 description: ""
 ---
-  <style type="text/css">
+<style type="text/css">
     .bg-sec {
       background-color: rgb(31, 159, 181);
     }
@@ -249,7 +249,7 @@ description: ""
             </div>
           </div>
         </a>
-        <a href="/minister-innovation-award/IM4/home/" class="text-decoration-none text-light pb-2">
+        <a href="/minister-innovation-award/IM4/Home/" class="text-decoration-none text-light pb-2">
           <div class="row mb-2">
             <div class="col-3 p-1">
               <div class="merit py-3 text-center h-100">
