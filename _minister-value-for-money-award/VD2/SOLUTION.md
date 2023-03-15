@@ -94,7 +94,8 @@ third_nav_title: VD2
   </div>
   <div class="row">
     <div class="col-12 py-3">
-      <h3 class="text-center  font-weight-bold"> JRL VIADUCT BEARINGS – OPTIMISED DESIGN FOR OPERATION & MAINTENANCE </h3>
+      <h3 class="text-center  font-weight-bold"> Jurong Region Line (JRL) Viaduct Bearings – Optimised Design for Operation & Maintenance
+ </h3>
     </div>
     <div class="col-sm-12 text-center py-2 my-2 bg-secondary">
       <p class="mb-0 h3  font-weight-bold text-uppercase"> SOLUTION </p>
