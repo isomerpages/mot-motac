@@ -14,7 +14,7 @@ description: ""
   <h1>Civil Aviation Authority of Singapore</h1>
   <div class="row py-5">
     <div class="col-sm-4 mb-3 mx-auto">
-      <img src="/images/Accolades/CAAS/1. ComChest Award 2022 - SHARE Platinum award (crystal).jpg" alt="ComChest Award" height="200" />
+      <img src="/images/Accolades/CAAS/ComChest-Award.jpg" alt="ComChest Award" height="200" />
       <p class="mt-3">
         <b>Community Chest Award - SHARE Platinum </b>
       </p>
