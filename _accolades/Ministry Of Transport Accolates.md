@@ -1,6 +1,6 @@
 ---
 layout: skeleton
-title: Ministry Of Transport Accolates
+title: Ministry Of Transport
 permalink: /accolades/MOT/
 description: ""
 ---
