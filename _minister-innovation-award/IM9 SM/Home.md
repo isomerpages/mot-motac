@@ -76,7 +76,7 @@ third_nav_title: IM9 SM
     background: rgb(10, 91, 142) !important;
   }
 </style>
-<img src="/images/hero.png" class="w-100"  alt="hero"/>
+<img src="/images/hero.png" class="w-100" alt="hero" />
 <div class="container-fluid py-5 text-pri card-bg my-5">
   <div class="row">
     <div class="col-sm-12 pt-4 pb-3 text-center">
@@ -112,10 +112,10 @@ third_nav_title: IM9 SM
         <div class="col-sm-6 mb-5">
           <div class="row">
             <div class="col-sm-6">
-              <p class="mb-2 text-pri font-weight-bold">Lydia Tan</p>
+              <p class="mb-2 text-pri font-weight-bold">Team Advisor</p>
             </div>
             <div class="col-sm-6">
-              <p class="mb-2 text-pri font-weight-bold">Team Advisor</p>
+              <p class="mb-2 text-pri font-weight-bold">Lydia Tan</p>
             </div>
           </div>
         </div>
@@ -123,10 +123,10 @@ third_nav_title: IM9 SM
         <div class="col-sm-6 mb-5">
           <div class="row">
             <div class="col-sm-6">
-              <p class="mb-2 text-pri font-weight-bold">Felicia Goh</p>
+              <p class="mb-2 text-pri font-weight-bold">Team Lead</p>
             </div>
             <div class="col-sm-6">
-              <p class="mb-2 text-pri font-weight-bold">Team Lead</p>
+              <p class="mb-2 text-pri font-weight-bold">Felicia Goh</p>
             </div>
           </div>
         </div>
