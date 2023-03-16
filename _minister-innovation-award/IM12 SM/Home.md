@@ -76,7 +76,7 @@ third_nav_title: IM12 SM
     background: rgb(10, 91, 142) !important;
   }
 </style>
-<img src="/images/hero.png" class="w-100"  alt="hero"/>
+<img src="/images/hero.png" class="w-100" alt="hero" />
 <div class="container-fluid py-5 text-pri card-bg my-5">
   <div class="row">
     <div class="col-sm-12 pt-4 pb-3 text-center">
@@ -112,18 +112,18 @@ third_nav_title: IM12 SM
         <div class="col-sm-6 mb-5">
           <div class="row">
             <div class="col-sm-6">
-              <p class="mb-2 text-pri font-weight-bold">Lim Chuen Ni</p>
+              <p class="mb-2 text-pri font-weight-bold">Team Advisor</p>
             </div>
             <div class="col-sm-6">
-              <p class="mb-2 text-pri font-weight-bold">Team Advisor</p>
+              <p class="mb-2 text-pri font-weight-bold">Lim Chuen Ni</p>
             </div>
           </div>
           <div class="row">
             <div class="col-sm-6">
-              <p class="mb-2 text-pri font-weight-bold">Harold Lim</p>
+              <p class="mb-2 text-pri font-weight-bold">Team Lead</p>
             </div>
             <div class="col-sm-6">
-              <p class="mb-2 text-pri font-weight-bold">Team Lead</p>
+              <p class="mb-2 text-pri font-weight-bold">Harold Lim</p>
             </div>
           </div>
         </div>
@@ -131,18 +131,18 @@ third_nav_title: IM12 SM
         <div class="col-sm-6 mb-5">
           <div class="row">
             <div class="col-sm-6">
-              <p class="mb-2 text-pri font-weight-bold">Natasha Razak</p>
+              <p class="mb-2 text-pri font-weight-bold">Member</p>
             </div>
             <div class="col-sm-6">
-              <p class="mb-2 text-pri font-weight-bold">Team Member</p>
+              <p class="mb-2 text-pri font-weight-bold">Natasha Razak</p>
             </div>
           </div>
           <div class="row">
             <div class="col-sm-6">
-              <p class="mb-2 text-pri font-weight-bold">Daniel Koh</p>
+              <p class="mb-2 text-pri font-weight-bold">Member</p>
             </div>
             <div class="col-sm-6">
-              <p class="mb-2 text-pri font-weight-bold">Team Member</p>
+              <p class="mb-2 text-pri font-weight-bold">Daniel Koh</p>
             </div>
           </div>
         </div>
