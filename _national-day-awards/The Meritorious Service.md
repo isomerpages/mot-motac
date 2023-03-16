@@ -1,6 +1,6 @@
 ---
 layout: skeleton
-title: The Meritorious Service
+title: The Meritorious Service Medal
 permalink: /national-day-awards/The-Meritorious-Service/
 description: ""
 ---
