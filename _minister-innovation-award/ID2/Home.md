@@ -306,194 +306,194 @@ third_nav_title: ID2
         <div class="col-sm-6 mb-5">
           <div class="row">
             <div class="col-sm-6">
-              <p class="mb-2  text-pri font-weight-bold"> Jonathan Ong </p>
+              <p class="mb-2 text-pri font-weight-bold">Member</p>
             </div>
             <div class="col-sm-6">
-              <p class="mb-2  text-pri font-weight-bold"> Team Member </p>
-            </div>
-          </div>
-          <div class="row">
-            <div class="col-sm-6">
-              <p class="mb-2  text-pri font-weight-bold"> Deepak Warrier </p>
-            </div>
-            <div class="col-sm-6">
-              <p class="mb-2  text-pri font-weight-bold"> Team Member </p>
+              <p class="mb-2 text-pri font-weight-bold">Jonathan Ong</p>
             </div>
           </div>
           <div class="row">
             <div class="col-sm-6">
-              <p class="mb-2  text-pri font-weight-bold"> Angela Li </p>
+              <p class="mb-2 text-pri font-weight-bold">Member</p>
             </div>
             <div class="col-sm-6">
-              <p class="mb-2  text-pri font-weight-bold"> Team Member </p>
-            </div>
-          </div>
-          <div class="row">
-            <div class="col-sm-6">
-              <p class="mb-2  text-pri font-weight-bold"> Meaveen Lee </p>
-            </div>
-            <div class="col-sm-6">
-              <p class="mb-2  text-pri font-weight-bold"> Team Member </p>
+              <p class="mb-2 text-pri font-weight-bold">Deepak Warrier</p>
             </div>
           </div>
           <div class="row">
             <div class="col-sm-6">
-              <p class="mb-2  text-pri font-weight-bold"> Alicia Low </p>
+              <p class="mb-2 text-pri font-weight-bold">Member</p>
             </div>
             <div class="col-sm-6">
-              <p class="mb-2  text-pri font-weight-bold"> Team Member </p>
-            </div>
-          </div>
-          <div class="row">
-            <div class="col-sm-6">
-              <p class="mb-2  text-pri font-weight-bold"> Shaikh Abdullah Bin Ab Sukor, P. Kepujian </p>
-            </div>
-            <div class="col-sm-6">
-              <p class="mb-2  text-pri font-weight-bold"> Team Member </p>
+              <p class="mb-2 text-pri font-weight-bold">Angela Li</p>
             </div>
           </div>
           <div class="row">
             <div class="col-sm-6">
-              <p class="mb-2  text-pri font-weight-bold"> Lee Chee Tong </p>
+              <p class="mb-2 text-pri font-weight-bold">Member</p>
             </div>
             <div class="col-sm-6">
-              <p class="mb-2  text-pri font-weight-bold"> Team Member </p>
-            </div>
-          </div>
-          <div class="row">
-            <div class="col-sm-6">
-              <p class="mb-2  text-pri font-weight-bold"> Za’id Khan </p>
-            </div>
-            <div class="col-sm-6">
-              <p class="mb-2  text-pri font-weight-bold"> Team Member </p>
+              <p class="mb-2 text-pri font-weight-bold">Meaveen Lee</p>
             </div>
           </div>
           <div class="row">
             <div class="col-sm-6">
-              <p class="mb-2  text-pri font-weight-bold"> Jillian Chan </p>
+              <p class="mb-2 text-pri font-weight-bold">Member</p>
             </div>
             <div class="col-sm-6">
-              <p class="mb-2  text-pri font-weight-bold"> Team Member </p>
-            </div>
-          </div>
-          <div class="row">
-            <div class="col-sm-6">
-              <p class="mb-2  text-pri font-weight-bold"> Christine Yong </p>
-            </div>
-            <div class="col-sm-6">
-              <p class="mb-2  text-pri font-weight-bold"> Team Member </p>
+              <p class="mb-2 text-pri font-weight-bold">Alicia Low</p>
             </div>
           </div>
           <div class="row">
             <div class="col-sm-6">
-              <p class="mb-2  text-pri font-weight-bold"> Terence Tan </p>
+              <p class="mb-2 text-pri font-weight-bold">Member</p>
             </div>
             <div class="col-sm-6">
-              <p class="mb-2  text-pri font-weight-bold"> Team Member </p>
-            </div>
-          </div>
-          <div class="row">
-            <div class="col-sm-6">
-              <p class="mb-2  text-pri font-weight-bold"> Simranpal Kaur </p>
-            </div>
-            <div class="col-sm-6">
-              <p class="mb-2  text-pri font-weight-bold"> Team Member </p>
+              <p class="mb-2 text-pri font-weight-bold"> Shaikh Abdullah Bin Ab Sukor, P. Kepujian </p>
             </div>
           </div>
           <div class="row">
             <div class="col-sm-6">
-              <p class="mb-2  text-pri font-weight-bold"> Ben Lee </p>
+              <p class="mb-2 text-pri font-weight-bold">Member</p>
             </div>
             <div class="col-sm-6">
-              <p class="mb-2  text-pri font-weight-bold"> Team Member </p>
-            </div>
-          </div>
-          <div class="row">
-            <div class="col-sm-6">
-              <p class="mb-2  text-pri font-weight-bold"> Feng Leirong </p>
-            </div>
-            <div class="col-sm-6">
-              <p class="mb-2  text-pri font-weight-bold"> Team Member </p>
+              <p class="mb-2 text-pri font-weight-bold">Lee Chee Tong</p>
             </div>
           </div>
           <div class="row">
             <div class="col-sm-6">
-              <p class="mb-2  text-pri font-weight-bold"> Desmond Lee </p>
+              <p class="mb-2 text-pri font-weight-bold">Member</p>
             </div>
             <div class="col-sm-6">
-              <p class="mb-2  text-pri font-weight-bold"> Team Member </p>
-            </div>
-          </div>
-          <div class="row">
-            <div class="col-sm-6">
-              <p class="mb-2  text-pri font-weight-bold"> Satwinder Kaur </p>
-            </div>
-            <div class="col-sm-6">
-              <p class="mb-2  text-pri font-weight-bold"> Team Member </p>
+              <p class="mb-2 text-pri font-weight-bold">Za’id Khan</p>
             </div>
           </div>
           <div class="row">
             <div class="col-sm-6">
-              <p class="mb-2  text-pri font-weight-bold"> Tan Kar Keong Galven </p>
+              <p class="mb-2 text-pri font-weight-bold">Member</p>
             </div>
             <div class="col-sm-6">
-              <p class="mb-2  text-pri font-weight-bold"> Team Member </p>
-            </div>
-          </div>
-          <div class="row">
-            <div class="col-sm-6">
-              <p class="mb-2  text-pri font-weight-bold"> Sia Hon Yu </p>
-            </div>
-            <div class="col-sm-6">
-              <p class="mb-2  text-pri font-weight-bold"> Team Member </p>
+              <p class="mb-2 text-pri font-weight-bold">Jillian Chan</p>
             </div>
           </div>
           <div class="row">
             <div class="col-sm-6">
-              <p class="mb-2  text-pri font-weight-bold"> Lee Hoong Kwan Victor </p>
+              <p class="mb-2 text-pri font-weight-bold">Member</p>
             </div>
             <div class="col-sm-6">
-              <p class="mb-2  text-pri font-weight-bold"> Team Member </p>
-            </div>
-          </div>
-          <div class="row">
-            <div class="col-sm-6">
-              <p class="mb-2  text-pri font-weight-bold"> Naresh Kumar Dhalamal Tarani </p>
-            </div>
-            <div class="col-sm-6">
-              <p class="mb-2  text-pri font-weight-bold"> Team Member </p>
+              <p class="mb-2 text-pri font-weight-bold">Christine Yong</p>
             </div>
           </div>
           <div class="row">
             <div class="col-sm-6">
-              <p class="mb-2  text-pri font-weight-bold"> Tan Dongneng </p>
+              <p class="mb-2 text-pri font-weight-bold">Member</p>
             </div>
             <div class="col-sm-6">
-              <p class="mb-2  text-pri font-weight-bold"> Team Member </p>
-            </div>
-          </div>
-          <div class="row">
-            <div class="col-sm-6">
-              <p class="mb-2  text-pri font-weight-bold"> Ravindran S/O Veloosamy </p>
-            </div>
-            <div class="col-sm-6">
-              <p class="mb-2  text-pri font-weight-bold"> Team Member </p>
+              <p class="mb-2 text-pri font-weight-bold">Terence Tan</p>
             </div>
           </div>
           <div class="row">
             <div class="col-sm-6">
-              <p class="mb-2  text-pri font-weight-bold"> Salehuddin Bin Mohd Said </p>
+              <p class="mb-2 text-pri font-weight-bold">Member</p>
             </div>
             <div class="col-sm-6">
-              <p class="mb-2  text-pri font-weight-bold"> Team Member </p>
+              <p class="mb-2 text-pri font-weight-bold">Simranpal Kaur</p>
             </div>
           </div>
           <div class="row">
             <div class="col-sm-6">
-              <p class="mb-2  text-pri font-weight-bold"> Zarinah Marican </p>
+              <p class="mb-2 text-pri font-weight-bold">Member</p>
             </div>
             <div class="col-sm-6">
-              <p class="mb-2  text-pri font-weight-bold"> Team Member </p>
+              <p class="mb-2 text-pri font-weight-bold">Ben Lee</p>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-sm-6">
+              <p class="mb-2 text-pri font-weight-bold">Member</p>
+            </div>
+            <div class="col-sm-6">
+              <p class="mb-2 text-pri font-weight-bold">Feng Leirong</p>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-sm-6">
+              <p class="mb-2 text-pri font-weight-bold">Member</p>
+            </div>
+            <div class="col-sm-6">
+              <p class="mb-2 text-pri font-weight-bold">Desmond Lee</p>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-sm-6">
+              <p class="mb-2 text-pri font-weight-bold">Member</p>
+            </div>
+            <div class="col-sm-6">
+              <p class="mb-2 text-pri font-weight-bold">Satwinder Kaur</p>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-sm-6">
+              <p class="mb-2 text-pri font-weight-bold">Member</p>
+            </div>
+            <div class="col-sm-6">
+              <p class="mb-2 text-pri font-weight-bold">Tan Kar Keong Galven</p>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-sm-6">
+              <p class="mb-2 text-pri font-weight-bold">Member</p>
+            </div>
+            <div class="col-sm-6">
+              <p class="mb-2 text-pri font-weight-bold">Sia Hon Yu</p>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-sm-6">
+              <p class="mb-2 text-pri font-weight-bold">Member</p>
+            </div>
+            <div class="col-sm-6">
+              <p class="mb-2 text-pri font-weight-bold">Lee Hoong Kwan Victor</p>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-sm-6">
+              <p class="mb-2 text-pri font-weight-bold">Member</p>
+            </div>
+            <div class="col-sm-6">
+              <p class="mb-2 text-pri font-weight-bold">Naresh Kumar Dhalamal Tarani</p>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-sm-6">
+              <p class="mb-2 text-pri font-weight-bold">Member</p>
+            </div>
+            <div class="col-sm-6">
+              <p class="mb-2 text-pri font-weight-bold">Tan Dongneng</p>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-sm-6">
+              <p class="mb-2 text-pri font-weight-bold">Member</p>
+            </div>
+            <div class="col-sm-6">
+              <p class="mb-2 text-pri font-weight-bold">Ravindran S/O Veloosamy</p>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-sm-6">
+              <p class="mb-2 text-pri font-weight-bold">Member</p>
+            </div>
+            <div class="col-sm-6">
+              <p class="mb-2 text-pri font-weight-bold">Salehuddin Bin Mohd Said</p>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-sm-6">
+              <p class="mb-2 text-pri font-weight-bold">Member</p>
+            </div>
+            <div class="col-sm-6">
+              <p class="mb-2 text-pri font-weight-bold">Zarinah Marican</p>
             </div>
           </div>
         </div>
