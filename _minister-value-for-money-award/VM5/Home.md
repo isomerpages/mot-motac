@@ -97,7 +97,7 @@ third_nav_title: VM5
        <h3 class="text-center font-weight-bold"> RADIO COVERAGE ENHANCEMENT IN PORT WATERS </h3>
      </div>
      <div class="col-sm-11 mx-auto text-center py-3">
-       <img src="/images/VFM/VM5/VM5 IconicPic 2.png" class="img-fluid border border-5 border-primary" alt="" />
+       <img src="/images/VFM/VM5/VM5 IconicPic.jpg" class="img-fluid border border-5 border-primary" alt="" />
      </div>
    </div>
    <div class="row">
