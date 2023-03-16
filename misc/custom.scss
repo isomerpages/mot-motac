@@ -437,3 +437,9 @@ background-size:cover;
 .bg-heading {
     background-color: rgb(9, 92, 139);
   }
+
+@media screen and (max-width: 1279px) {
+  body > footer.bp-footer.top-section > div > div:nth-child(6) {
+    display: none !important;
+  }
+}
