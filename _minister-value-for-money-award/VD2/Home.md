@@ -112,108 +112,108 @@ third_nav_title: VD2
         <div class="col-sm-6 mb-5">
           <div class="row">
             <div class="col-sm-6">
-              <p class="mb-2 text-pri fw-bold"> Advisor </p>
+              <p class="mb-2 text-pri font-weight-bold"> Advisor </p>
             </div>
             <div class="col-sm-6">
-              <p class="mb-2 text-pri fw-bold"> Paul Fok </p>
-            </div>
-          </div>
-          <div class="row">
-            <div class="col-sm-6">
-              <p class="mb-2 text-pri fw-bold"> Advisor </p>
-            </div>
-            <div class="col-sm-6">
-              <p class="mb-2 text-pri fw-bold"> Choo Chai Foong </p>
+              <p class="mb-2 text-pri font-weight-bold"> Paul Fok </p>
             </div>
           </div>
           <div class="row">
             <div class="col-sm-6">
-              <p class="mb-2 text-pri fw-bold"> Advisor </p>
+              <p class="mb-2 text-pri font-weight-bold"> Advisor </p>
             </div>
             <div class="col-sm-6">
-              <p class="mb-2 text-pri fw-bold"> Neo Bian Hong </p>
-            </div>
-          </div>
-          <div class="row">
-            <div class="col-sm-6">
-              <p class="mb-2 text-pri fw-bold"> Advisor </p>
-            </div>
-            <div class="col-sm-6">
-              <p class="mb-2 text-pri fw-bold"> Goh Kok Hun </p>
+              <p class="mb-2 text-pri font-weight-bold"> Choo Chai Foong </p>
             </div>
           </div>
           <div class="row">
             <div class="col-sm-6">
-              <p class="mb-2 text-pri fw-bold"> Advisor </p>
+              <p class="mb-2 text-pri font-weight-bold"> Advisor </p>
             </div>
             <div class="col-sm-6">
-              <p class="mb-2 text-pri fw-bold"> Jeyatharan Kumarasamy </p>
-            </div>
-          </div>
-          <div class="row">
-            <div class="col-sm-6">
-              <p class="mb-2 text-pri fw-bold"> Advisor </p>
-            </div>
-            <div class="col-sm-6">
-              <p class="mb-2 text-pri fw-bold"> Kenneth Liew </p>
+              <p class="mb-2 text-pri font-weight-bold"> Neo Bian Hong </p>
             </div>
           </div>
           <div class="row">
             <div class="col-sm-6">
-              <p class="mb-2 text-pri fw-bold"> Team Leader </p>
+              <p class="mb-2 text-pri font-weight-bold"> Advisor </p>
             </div>
             <div class="col-sm-6">
-              <p class="mb-2 text-pri fw-bold"> Novilia Silman </p>
+              <p class="mb-2 text-pri font-weight-bold"> Goh Kok Hun </p>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-sm-6">
+              <p class="mb-2 text-pri font-weight-bold"> Advisor </p>
+            </div>
+            <div class="col-sm-6">
+              <p class="mb-2 text-pri font-weight-bold"> Jeyatharan Kumarasamy </p>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-sm-6">
+              <p class="mb-2 text-pri font-weight-bold"> Advisor </p>
+            </div>
+            <div class="col-sm-6">
+              <p class="mb-2 text-pri font-weight-bold"> Kenneth Liew </p>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-sm-6">
+              <p class="mb-2 text-pri font-weight-bold"> Team Leader </p>
+            </div>
+            <div class="col-sm-6">
+              <p class="mb-2 text-pri font-weight-bold"> Novilia Silman </p>
             </div>
           </div>
         </div>
         <div class="col-sm-6 mb-5">
           <div class="row">
             <div class="col-sm-6">
-              <p class="mb-2 text-pri fw-bold"> Team Leader  </p>
+              <p class="mb-2 text-pri font-weight-bold"> Team Leader  </p>
             </div>
             <div class="col-sm-6">
-              <p class="mb-2 text-pri fw-bold"> Jemmy Patras </p>
-            </div>
-          </div>
-          <div class="row">
-            <div class="col-sm-6">
-              <p class="mb-2 text-pri fw-bold"> Member </p>
-            </div>
-            <div class="col-sm-6">
-              <p class="mb-2 text-pri fw-bold"> Sim Yuan Teng, Nicholas </p>
+              <p class="mb-2 text-pri font-weight-bold"> Jemmy Patras </p>
             </div>
           </div>
           <div class="row">
             <div class="col-sm-6">
-              <p class="mb-2 text-pri fw-bold"> Member </p>
+              <p class="mb-2 text-pri font-weight-bold"> Member </p>
             </div>
             <div class="col-sm-6">
-              <p class="mb-2 text-pri fw-bold"> Ma Wei </p>
-            </div>
-          </div>
-          <div class="row">
-            <div class="col-sm-6">
-              <p class="mb-2 text-pri fw-bold"> Member </p>
-            </div>
-            <div class="col-sm-6">
-              <p class="mb-2 text-pri fw-bold"> Lee Eng Ming </p>
+              <p class="mb-2 text-pri font-weight-bold"> Sim Yuan Teng, Nicholas </p>
             </div>
           </div>
           <div class="row">
             <div class="col-sm-6">
-              <p class="mb-2 text-pri fw-bold"> Member </p>
+              <p class="mb-2 text-pri font-weight-bold"> Member </p>
             </div>
             <div class="col-sm-6">
-              <p class="mb-2 text-pri fw-bold"> David Chen </p>
+              <p class="mb-2 text-pri font-weight-bold"> Ma Wei </p>
             </div>
           </div>
           <div class="row">
             <div class="col-sm-6">
-              <p class="mb-2 text-pri fw-bold"> Member </p>
+              <p class="mb-2 text-pri font-weight-bold"> Member </p>
             </div>
             <div class="col-sm-6">
-              <p class="mb-2 text-pri fw-bold"> Basant Kumar </p>
+              <p class="mb-2 text-pri font-weight-bold"> Lee Eng Ming </p>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-sm-6">
+              <p class="mb-2 text-pri font-weight-bold"> Member </p>
+            </div>
+            <div class="col-sm-6">
+              <p class="mb-2 text-pri font-weight-bold"> David Chen </p>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-sm-6">
+              <p class="mb-2 text-pri font-weight-bold"> Member </p>
+            </div>
+            <div class="col-sm-6">
+              <p class="mb-2 text-pri font-weight-bold"> Basant Kumar </p>
             </div>
           </div>
         </div>
