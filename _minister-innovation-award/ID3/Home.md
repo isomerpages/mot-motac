@@ -76,7 +76,7 @@ third_nav_title: ID3
     background: rgb(10, 91, 142) !important;
   }
 </style>
-<img src="/images/hero.png" width="100%"  alt="hero"/>
+<img src="/images/hero.png" width="100%" alt="hero" />
 <div class="container-fluid py-5 text-pri card-bg my-5">
   <div class="row">
     <div class="col-sm-12 pt-4 pb-3 text-center">
@@ -112,68 +112,68 @@ third_nav_title: ID3
         <div class="col-sm-6 mb-5">
           <div class="row">
             <div class="col-sm-6">
-              <p class="mb-2 text-pri font-weight-bold"> Muhammad Najib bin Jaafar </p>
+              <p class="mb-2 text-pri font-weight-bold">Team Advisor</p>
             </div>
             <div class="col-sm-6">
-              <p class="mb-2 text-pri font-weight-bold"> Team Advisor </p>
-            </div>
-          </div>
-          <div class="row">
-            <div class="col-sm-6">
-              <p class="mb-2 text-pri font-weight-bold"> Lim Chong Teik </p>
-            </div>
-            <div class="col-sm-6">
-              <p class="mb-2 text-pri font-weight-bold"> Team Advisor </p>
+              <p class="mb-2 text-pri font-weight-bold">Muhammad Najib bin Jaafar</p>
             </div>
           </div>
           <div class="row">
             <div class="col-sm-6">
-              <p class="mb-2 text-pri font-weight-bold"> Yap Wee Yeow </p>
+              <p class="mb-2 text-pri font-weight-bold">Team Advisor</p>
             </div>
             <div class="col-sm-6">
-              <p class="mb-2 text-pri font-weight-bold"> Team Advisor </p>
+              <p class="mb-2 text-pri font-weight-bold">Lim Chong Teik</p>
             </div>
           </div>
           <div class="row">
             <div class="col-sm-6">
-              <p class="mb-2 text-pri font-weight-bold"> Tan Ai Ping </p>
+              <p class="mb-2 text-pri font-weight-bold">Team Advisor</p>
             </div>
             <div class="col-sm-6">
-              <p class="mb-2 text-pri font-weight-bold"> Team Lead </p>
+              <p class="mb-2 text-pri font-weight-bold">Yap Wee Yeow</p>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-sm-6">
+              <p class="mb-2 text-pri font-weight-bold">Team Lead</p>
+            </div>
+            <div class="col-sm-6">
+              <p class="mb-2 text-pri font-weight-bold">Tan Ai Ping</p>
             </div>
           </div>
         </div>
         <div class="col-sm-6 mb-5">
           <div class="row">
             <div class="col-sm-6">
-              <p class="mb-2 text-pri font-weight-bold"> Lim May Hsia Jordan </p>
+              <p class="mb-2 text-pri font-weight-bold">Member</p>
             </div>
             <div class="col-sm-6">
-              <p class="mb-2 text-pri font-weight-bold"> Member </p>
-            </div>
-          </div>
-          <div class="row">
-            <div class="col-sm-6">
-              <p class="mb-2 text-pri font-weight-bold"> Song Jia Jun Darrell </p>
-            </div>
-            <div class="col-sm-6">
-              <p class="mb-2 text-pri font-weight-bold"> Member </p>
+              <p class="mb-2 text-pri font-weight-bold">Lim May Hsia Jordan</p>
             </div>
           </div>
           <div class="row">
             <div class="col-sm-6">
-              <p class="mb-2 text-pri font-weight-bold"> Koh Si Min </p>
+              <p class="mb-2 text-pri font-weight-bold">Member</p>
             </div>
             <div class="col-sm-6">
-              <p class="mb-2 text-pri font-weight-bold"> Member </p>
+              <p class="mb-2 text-pri font-weight-bold">Song Jia Jun Darrell</p>
             </div>
           </div>
           <div class="row">
             <div class="col-sm-6">
-              <p class="mb-2 text-pri font-weight-bold"> Mohd Raziee bin Sulaiman </p>
+              <p class="mb-2 text-pri font-weight-bold">Member</p>
             </div>
             <div class="col-sm-6">
-              <p class="mb-2 text-pri font-weight-bold"> Member </p>
+              <p class="mb-2 text-pri font-weight-bold">Koh Si Min</p>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-sm-6">
+              <p class="mb-2 text-pri font-weight-bold">Member</p>
+            </div>
+            <div class="col-sm-6">
+              <p class="mb-2 text-pri font-weight-bold">Mohd Raziee bin Sulaiman</p>
             </div>
           </div>
         </div>
