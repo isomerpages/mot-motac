@@ -76,7 +76,7 @@ third_nav_title: IM4
     background: rgb(10, 91, 142) !important;
   }
 </style>
-<img src="/images/hero.png" class="w-100"  alt="hero"/>
+<img src="/images/hero.png" class="w-100" alt="hero" />
 <div class="container-fluid py-5 text-pri card-bg my-5">
   <div class="row">
     <div class="col-sm-12 pt-4 pb-3 text-center">
@@ -112,42 +112,42 @@ third_nav_title: IM4
         <div class="col-sm-6 mb-5">
           <div class="row">
             <div class="col-sm-6">
-              <p class="mb-2 text-pri font-weight-bold">Lim Kian Peng</p>
+              <p class="mb-2 text-pri font-weight-bold">Advisor</p>
             </div>
             <div class="col-sm-6">
-              <p class="mb-2 text-pri font-weight-bold">Advisor</p>
+              <p class="mb-2 text-pri font-weight-bold">Lim Kian Peng</p>
             </div>
           </div>
           <div class="row">
+            <div class="col-sm-6">
+              <p class="mb-2 text-pri font-weight-bold">Co-Advisor</p>
+            </div>
             <div class="col-sm-6">
               <p class="mb-2 text-pri font-weight-bold">Sihan Sadikin</p>
             </div>
+          </div>
+          <div class="row">
             <div class="col-sm-6">
               <p class="mb-2 text-pri font-weight-bold">Co-Advisor</p>
             </div>
-          </div>
-          <div class="row">
             <div class="col-sm-6">
               <p class="mb-2 text-pri font-weight-bold">Kwa Chin Soon</p>
             </div>
-            <div class="col-sm-6">
-              <p class="mb-2 text-pri font-weight-bold">Co-Advisor</p>
-            </div>
           </div>
           <div class="row">
-            <div class="col-sm-6">
-              <p class="mb-2 text-pri font-weight-bold"> Tan Hwee Hua Kacie </p>
-            </div>
             <div class="col-sm-6">
               <p class="mb-2 text-pri font-weight-bold">Team Lead</p>
             </div>
+            <div class="col-sm-6">
+              <p class="mb-2 text-pri font-weight-bold">Tan Hwee Hua Kacie</p>
+            </div>
           </div>
           <div class="row">
             <div class="col-sm-6">
-              <p class="mb-2 text-pri font-weight-bold">Hendry Khoe</p>
+              <p class="mb-2 text-pri font-weight-bold">Asst Team Lead</p>
             </div>
             <div class="col-sm-6">
-              <p class="mb-2 text-pri font-weight-bold">Asst Team Lead</p>
+              <p class="mb-2 text-pri font-weight-bold">Hendry Khoe</p>
             </div>
           </div>
         </div>
@@ -155,50 +155,50 @@ third_nav_title: IM4
         <div class="col-sm-6 mb-5">
           <div class="row">
             <div class="col-sm-6">
+              <p class="mb-2 text-pri font-weight-bold">Member</p>
+            </div>
+            <div class="col-sm-6">
               <p class="mb-2 text-pri font-weight-bold">Farid Mohd Hamim</p>
             </div>
+          </div>
+          <div class="row">
             <div class="col-sm-6">
               <p class="mb-2 text-pri font-weight-bold">Member</p>
+            </div>
+            <div class="col-sm-6">
+              <p class="mb-2 text-pri font-weight-bold">Tay Khay Heng Jimmy</p>
             </div>
           </div>
           <div class="row">
             <div class="col-sm-6">
-              <p class="mb-2 text-pri font-weight-bold"> Tay Khay Heng Jimmy </p>
-            </div>
-            <div class="col-sm-6">
               <p class="mb-2 text-pri font-weight-bold">Member</p>
             </div>
-          </div>
-          <div class="row">
             <div class="col-sm-6">
               <p class="mb-2 text-pri font-weight-bold">Lim Wei Ting</p>
             </div>
+          </div>
+          <div class="row">
             <div class="col-sm-6">
               <p class="mb-2 text-pri font-weight-bold">Member</p>
+            </div>
+            <div class="col-sm-6">
+              <p class="mb-2 text-pri font-weight-bold">Tomas Jr Soriano Dangat</p>
             </div>
           </div>
           <div class="row">
             <div class="col-sm-6">
-              <p class="mb-2 text-pri font-weight-bold"> Tomas Jr Soriano Dangat </p>
+              <p class="mb-2 text-pri font-weight-bold">Member</p>
             </div>
             <div class="col-sm-6">
-              <p class="mb-2 text-pri font-weight-bold">Member</p>
+              <p class="mb-2 text-pri font-weight-bold">GK Mathirajan Nalini</p>
             </div>
           </div>
           <div class="row">
             <div class="col-sm-6">
-              <p class="mb-2 text-pri font-weight-bold"> GK Mathirajan Nalini </p>
-            </div>
-            <div class="col-sm-6">
               <p class="mb-2 text-pri font-weight-bold">Member</p>
             </div>
-          </div>
-          <div class="row">
             <div class="col-sm-6">
               <p class="mb-2 text-pri font-weight-bold">Zay Yar Min</p>
-            </div>
-            <div class="col-sm-6">
-              <p class="mb-2 text-pri font-weight-bold">Member</p>
             </div>
           </div>
         </div>
