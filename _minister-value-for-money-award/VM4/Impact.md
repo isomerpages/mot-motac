@@ -118,13 +118,15 @@ third_nav_title: VM4
           <div class="row py-2">
             <div class="col-sm-8">
               <p>
-                <span class="mr-3"> &#x2022;</span> Performance of the water mist system exceeded expectations, resulting in additional benefits of reducing the number of tunnel jet fans required and omission of fire-rated boards.
+                <span class="mr-3"> &#x2022;</span> Performance of the Water Mist System exceeded expectations, resulting in additional benefits of reducing the number of tunnel jet fans required and omission of fire-rated boards.
               </p>
               <p>
                 <span class="mr-3"> &#x2022;</span> The system can be implemented on future road tunnels in Singapore and can be used as reference by overseas organisations for their road tunnels.
               </p>
               <p class="font-weight-bold">
-                <span class="mr-3"> &#x2022;</span>Total Capex & O&M Savings: $4.50mil over 20 Years
+                <span class="mr-3"> &#x2022;</span>Total Capex Savings: $3.80mil.              </p>
+							 <p class="font-weight-bold">
+                <span class="mr-3"> &#x2022;</span>Total O&M Savings: $720,000 over 20 Years
               </p>
             </div>
             <div class="col-sm-4">
