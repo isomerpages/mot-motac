@@ -1,6 +1,6 @@
 ---
 layout: skeleton
-title: The Public Service Star
+title: The Public Service Star Medal
 permalink: /national-day-awards/The-Public-Service-Star/
 description: ""
 ---
