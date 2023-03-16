@@ -94,8 +94,7 @@ third_nav_title: VD2
   </div>
   <div class="row">
     <div class="col-12 py-3">
-      <h3 class="text-center  font-weight-bold"> Jurong Region Line (JRL) Viaduct Bearings – Optimised Design for Operation & Maintenance
- </h3>
+      <h3 class="text-center  font-weight-bold"> Jurong Region Line (JRL) Viaduct Bearings – Optimised Design for Operation & Maintenance </h3>
     </div>
     <div class="col-8 mx-auto py-3">
       <img src="/images/VFM/VD2/VD2 Iconic Pic.png" class="img-fluid border my-5" />
@@ -113,108 +112,108 @@ third_nav_title: VD2
         <div class="col-sm-6 mb-5">
           <div class="row">
             <div class="col-sm-6">
-              <p class="mb-2 text-pri fw-bold"> Paul Fok </p>
+              <p class="mb-2 text-pri fw-bold"> Advisor </p>
             </div>
             <div class="col-sm-6">
-              <p class="mb-2 text-pri fw-bold"> Advisor </p>
+              <p class="mb-2 text-pri fw-bold"> Paul Fok </p>
             </div>
           </div>
           <div class="row">
+            <div class="col-sm-6">
+              <p class="mb-2 text-pri fw-bold"> Advisor </p>
+            </div>
             <div class="col-sm-6">
               <p class="mb-2 text-pri fw-bold"> Choo Chai Foong </p>
             </div>
+          </div>
+          <div class="row">
             <div class="col-sm-6">
               <p class="mb-2 text-pri fw-bold"> Advisor </p>
             </div>
-          </div>
-          <div class="row">
             <div class="col-sm-6">
               <p class="mb-2 text-pri fw-bold"> Neo Bian Hong </p>
             </div>
+          </div>
+          <div class="row">
             <div class="col-sm-6">
               <p class="mb-2 text-pri fw-bold"> Advisor </p>
             </div>
-          </div>
-          <div class="row">
             <div class="col-sm-6">
               <p class="mb-2 text-pri fw-bold"> Goh Kok Hun </p>
             </div>
+          </div>
+          <div class="row">
             <div class="col-sm-6">
               <p class="mb-2 text-pri fw-bold"> Advisor </p>
             </div>
-          </div>
-          <div class="row">
             <div class="col-sm-6">
               <p class="mb-2 text-pri fw-bold"> Jeyatharan Kumarasamy </p>
             </div>
+          </div>
+          <div class="row">
             <div class="col-sm-6">
               <p class="mb-2 text-pri fw-bold"> Advisor </p>
             </div>
-          </div>
-          <div class="row">
             <div class="col-sm-6">
               <p class="mb-2 text-pri fw-bold"> Kenneth Liew </p>
             </div>
-            <div class="col-sm-6">
-              <p class="mb-2 text-pri fw-bold"> Advisor </p>
-            </div>
           </div>
           <div class="row">
             <div class="col-sm-6">
-              <p class="mb-2 text-pri fw-bold"> Novilia Silman </p>
+              <p class="mb-2 text-pri fw-bold"> Team Leader </p>
             </div>
             <div class="col-sm-6">
-              <p class="mb-2 text-pri fw-bold"> Team Leader </p>
+              <p class="mb-2 text-pri fw-bold"> Novilia Silman </p>
             </div>
           </div>
         </div>
         <div class="col-sm-6 mb-5">
           <div class="row">
             <div class="col-sm-6">
-              <p class="mb-2 text-pri fw-bold"> Jemmy Patras </p>
+              <p class="mb-2 text-pri fw-bold"> Team Leader  </p>
             </div>
             <div class="col-sm-6">
-              <p class="mb-2 text-pri fw-bold"> Dy Team Leader  </p>
+              <p class="mb-2 text-pri fw-bold"> Jemmy Patras </p>
             </div>
           </div>
           <div class="row">
+            <div class="col-sm-6">
+              <p class="mb-2 text-pri fw-bold"> Member </p>
+            </div>
             <div class="col-sm-6">
               <p class="mb-2 text-pri fw-bold"> Sim Yuan Teng, Nicholas </p>
             </div>
+          </div>
+          <div class="row">
             <div class="col-sm-6">
               <p class="mb-2 text-pri fw-bold"> Member </p>
             </div>
-          </div>
-          <div class="row">
             <div class="col-sm-6">
               <p class="mb-2 text-pri fw-bold"> Ma Wei </p>
             </div>
+          </div>
+          <div class="row">
             <div class="col-sm-6">
               <p class="mb-2 text-pri fw-bold"> Member </p>
             </div>
-          </div>
-          <div class="row">
             <div class="col-sm-6">
               <p class="mb-2 text-pri fw-bold"> Lee Eng Ming </p>
             </div>
+          </div>
+          <div class="row">
             <div class="col-sm-6">
               <p class="mb-2 text-pri fw-bold"> Member </p>
             </div>
-          </div>
-          <div class="row">
             <div class="col-sm-6">
               <p class="mb-2 text-pri fw-bold"> David Chen </p>
             </div>
-            <div class="col-sm-6">
-              <p class="mb-2 text-pri fw-bold"> Member </p>
-            </div>
           </div>
           <div class="row">
             <div class="col-sm-6">
-              <p class="mb-2 text-pri fw-bold"> Basant Kumar </p>
+              <p class="mb-2 text-pri fw-bold"> Member </p>
             </div>
             <div class="col-sm-6">
-              <p class="mb-2 text-pri fw-bold"> Member </p>
+              <p class="mb-2 text-pri fw-bold"> Basant Kumar </p>
             </div>
           </div>
         </div>
