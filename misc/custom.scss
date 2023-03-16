@@ -408,6 +408,9 @@ background-size:cover;
     font-size: 11px !important;
 }
 @media screen and (min-width: 1280px) {
+  #social-link-desktop-tablet{
+	  display:none !important;
+}
   .navbar .navbar-item a {
     color: #fff !important;
   }
