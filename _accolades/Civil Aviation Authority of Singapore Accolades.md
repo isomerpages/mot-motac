@@ -1,6 +1,6 @@
 ---
 layout: skeleton
-title: Civil Aviation Authority of Singapore Accolades
+title: Civil Aviation Authority of Singapore
 permalink: /accolades/CAAS/
 description: ""
 ---
