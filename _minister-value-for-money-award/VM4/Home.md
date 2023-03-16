@@ -76,7 +76,7 @@ third_nav_title: VM4
     background: rgb(10, 91, 142) !important;
   }
 </style>
-<img src="/images/hero.png" width="100%"  alt="hero"/>
+<img src="/images/hero.png" width="100%" alt="hero" />
 <div class="container-fluid py-5 text-pri card-bg my-5">
   <div class="row">
     <div class="col-sm-12 pt-4 pb-3 text-center">
@@ -115,92 +115,92 @@ third_nav_title: VM4
         <div class="col-sm-6 mb-5">
           <div class="row">
             <div class="col-sm-6">
-              <p class="mb-2 text-pri font-weight-bold">Dr. Samuel Chan</p>
+              <p class="mb-2 text-pri font-weight-bold">Advisor</p>
             </div>
             <div class="col-sm-6">
-              <p class="mb-2 text-pri font-weight-bold">Advisor</p>
+              <p class="mb-2 text-pri font-weight-bold">Dr. Samuel Chan</p>
             </div>
           </div>
           <div class="row">
+            <div class="col-sm-6">
+              <p class="mb-2 text-pri font-weight-bold">Advisor</p>
+            </div>
             <div class="col-sm-6">
               <p class="mb-2 text-pri font-weight-bold">Tan Yih Long</p>
             </div>
+          </div>
+          <div class="row">
             <div class="col-sm-6">
               <p class="mb-2 text-pri font-weight-bold">Advisor</p>
             </div>
-          </div>
-          <div class="row">
             <div class="col-sm-6">
               <p class="mb-2 text-pri font-weight-bold">Er. Melvyn Thong</p>
             </div>
+          </div>
+          <div class="row">
             <div class="col-sm-6">
               <p class="mb-2 text-pri font-weight-bold">Advisor</p>
             </div>
-          </div>
-          <div class="row">
             <div class="col-sm-6">
               <p class="mb-2 text-pri font-weight-bold">Er. Hadi Wijaya</p>
             </div>
+          </div>
+          <div class="row">
             <div class="col-sm-6">
               <p class="mb-2 text-pri font-weight-bold">Advisor</p>
             </div>
-          </div>
-          <div class="row">
             <div class="col-sm-6">
               <p class="mb-2 text-pri font-weight-bold">Ernest Poon</p>
             </div>
-            <div class="col-sm-6">
-              <p class="mb-2 text-pri font-weight-bold">Advisor</p>
-            </div>
           </div>
           <div class="row">
             <div class="col-sm-6">
-              <p class="mb-2 text-pri font-weight-bold">Dr. Eric Cheong</p>
+              <p class="mb-2 text-pri font-weight-bold">Team Leader</p>
             </div>
             <div class="col-sm-6">
-              <p class="mb-2 text-pri font-weight-bold">Team Leader</p>
+              <p class="mb-2 text-pri font-weight-bold">Dr. Eric Cheong</p>
             </div>
           </div>
         </div>
         <div class="col-sm-6 mb-5">
           <div class="row">
             <div class="col-sm-6">
-              <p class="mb-2 text-pri font-weight-bold">Celia Tan</p>
+              <p class="mb-2 text-pri font-weight-bold">Dy Team Leader</p>
             </div>
             <div class="col-sm-6">
-              <p class="mb-2 text-pri font-weight-bold">Dy Team Leader</p>
+              <p class="mb-2 text-pri font-weight-bold">Celia Tan</p>
             </div>
           </div>
           <div class="row">
-            <div class="col-sm-6">
-              <p class="mb-2 text-pri font-weight-bold">Er. Lim Lean Wan</p>
-            </div>
             <div class="col-sm-6">
               <p class="mb-2 text-pri font-weight-bold">Member </p>
             </div>
+            <div class="col-sm-6">
+              <p class="mb-2 text-pri font-weight-bold">Er. Lim Lean Wan</p>
+            </div>
           </div>
           <div class="row">
+            <div class="col-sm-6">
+              <p class="mb-2 text-pri font-weight-bold">Member</p>
+            </div>
             <div class="col-sm-6">
               <p class="mb-2 text-pri font-weight-bold">Rivan Rivaldy</p>
             </div>
+          </div>
+          <div class="row">
             <div class="col-sm-6">
               <p class="mb-2 text-pri font-weight-bold">Member</p>
             </div>
-          </div>
-          <div class="row">
             <div class="col-sm-6">
               <p class="mb-2 text-pri font-weight-bold">Ramesh Srivatsa</p>
             </div>
-            <div class="col-sm-6">
-              <p class="mb-2 text-pri font-weight-bold">Member</p>
-            </div>
           </div>
           <div class="row">
             <div class="col-sm-6">
-              <p class="mb-2 text-pri font-weight-bold">Chua Jia Sheng</p>
+              <p class="mb-2 text-pri font-weight-bold">Member</p>
             </div>
             <div class="col-sm-6">
-              <p class="mb-2 text-pri font-weight-bold">Member</p>
+              <p class="mb-2 text-pri font-weight-bold">Chua Jia Sheng</p>
             </div>
           </div>
         </div>
