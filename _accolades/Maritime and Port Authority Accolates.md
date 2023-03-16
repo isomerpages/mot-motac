@@ -1,6 +1,6 @@
 ---
 layout: skeleton
-title: Maritime and Port Authority Accolates
+title: Maritime and Port Authority
 permalink: /accolades/MPA/
 description: ""
 ---
