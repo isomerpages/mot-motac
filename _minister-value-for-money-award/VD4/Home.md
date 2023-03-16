@@ -76,7 +76,7 @@ third_nav_title: VD4
     background: rgb(10, 91, 142) !important;
   }
 </style>
-<img src="/images/hero.png" width="100%"  alt="hero"/>
+<img src="/images/hero.png" width="100%" alt="hero" />
 <div class="container-fluid py-5 text-pri card-bg my-5">
   <div class="row">
     <div class="col-sm-12 pt-4 pb-3 text-center">
@@ -94,7 +94,7 @@ third_nav_title: VD4
   </div>
   <div class="row">
     <div class="col-12 py-3">
-			<h3 class="text-center font-weight-bold"> MPA <u>E</u>NTERPRISE <u>D</u>ATA e<u>X</u>CHANGE​ </h3>
+      <h3 class="text-center font-weight-bold"> MPA <u>E</u>NTERPRISE <u>D</u>ATA e <u>X</u>CHANGE​ </h3>
     </div>
     <div class="col-sm-11 mx-auto text-center py-3">
       <img src="/images/VFM/VD4/VD4 Iconic pic v2.png" class="img-fluid border my-5" />
@@ -112,44 +112,44 @@ third_nav_title: VD4
         <div class="col-sm-6 mb-5">
           <div class="row">
             <div class="col-sm-6">
-              <p class="mb-2 fs-5 text-pri font-weight-bold">Marie Wong</p>
+              <p class="mb-2 fs-5 text-pri font-weight-bold">Advisor</p>
             </div>
             <div class="col-sm-6">
-              <p class="mb-2 fs-5 text-pri font-weight-bold">Advisor</p>
+              <p class="mb-2 fs-5 text-pri font-weight-bold">Marie Wong</p>
             </div>
           </div>
           <div class="row">
+            <div class="col-sm-6">
+              <p class="mb-2 fs-5 text-pri font-weight-bold">Team Leader</p>
+            </div>
             <div class="col-sm-6">
               <p class="mb-2 fs-5 text-pri font-weight-bold">Lester Kum</p>
             </div>
-            <div class="col-sm-6">
-              <p class="mb-2 fs-5 text-pri font-weight-bold">Team Leader​</p>
-            </div>
           </div>
           <div class="row">
-            <div class="col-sm-6">
-              <p class="mb-2 fs-5 text-pri font-weight-bold">Alvin Tandian</p>
-            </div>
             <div class="col-sm-6">
               <p class="mb-2 fs-5 text-pri font-weight-bold">Member</p>
             </div>
+            <div class="col-sm-6">
+              <p class="mb-2 fs-5 text-pri font-weight-bold">Alvin Tandian</p>
+            </div>
           </div>
         </div>
-        <div class="col-sm-6  mb-5">
+        <div class="col-sm-6 mb-5">
           <div class="row">
+            <div class="col-sm-6">
+              <p class="mb-2 fs-5 text-pri font-weight-bold">Member</p>
+            </div>
             <div class="col-sm-6">
               <p class="mb-2 fs-5 text-pri font-weight-bold">Tommy Lim</p>
             </div>
-            <div class="col-sm-6">
-              <p class="mb-2 fs-5 text-pri font-weight-bold">Member </p>
-            </div>
           </div>
           <div class="row">
             <div class="col-sm-6">
-              <p class="mb-2 fs-5 text-pri font-weight-bold">Wong Ru Peng</p>
+              <p class="mb-2 fs-5 text-pri font-weight-bold">Member</p>
             </div>
             <div class="col-sm-6">
-              <p class="mb-2 fs-5 text-pri font-weight-bold">Member </p>
+              <p class="mb-2 fs-5 text-pri font-weight-bold">Wong Ru Peng</p>
             </div>
           </div>
         </div>
