@@ -109,110 +109,84 @@ third_nav_title: VD1
     </div>
     <div class="col-sm-11 mx-auto">
       <div class="row py-5">
-        <div class="col-sm-6 mb-5">
+        <div class="col-sm-12 mb-5">
           <div class="row">
-            <div class="col-sm-6">
+            <div class="col-sm-12">
               <p class="mb-2 h5 font-weight-bold">Team Leader​</p>
             </div>
-            <div class="col-sm-6">
+            <div class="col-sm-12">
               <p class="mb-2 h5 font-weight-bold">Tan Choon Leong</p>
             </div>
           </div>
           <div class="row">
-            <div class="col-sm-6">
+            <div class="col-sm-12">
               <p class="mb-2 h5 font-weight-bold"> Co-Team Leader (Changi Airport Group) </p>
             </div>
-            <div class="col-sm-6">
+            <div class="col-sm-12">
               <p class="mb-2 h5 font-weight-bold">Dr. Calvin Yeung</p>
             </div>
           </div>
           <div class="row">
-            <div class="col-sm-6">
+            <div class="col-sm-12">
               <p class="mb-2 h5 font-weight-bold">Member</p>
             </div>
-            <div class="col-sm-6">
+            <div class="col-sm-12">
               <p class="mb-2 h5 font-weight-bold">Gao Shu</p>
             </div>
           </div>
           <div class="row">
-            <div class="col-sm-6">
-              <p class="mb-2 h5 font-weight-bold">Member</p>
-            </div>
-            <div class="col-sm-6">
+            <div class="col-sm-12">
               <p class="mb-2 h5 font-weight-bold">Yeoh Yee Leng</p>
             </div>
           </div>
           <div class="row">
-            <div class="col-sm-6">
+            <div class="col-sm-12">
               <p class="mb-2 h5 font-weight-bold">Member</p>
             </div>
-            <div class="col-sm-6">
+            <div class="col-sm-12">
               <p class="mb-2 h5 font-weight-bold">Monica Pang</p>
             </div>
           </div>
           <div class="row">
-            <div class="col-sm-6">
-              <p class="mb-2 h5 font-weight-bold">Member</p>
-            </div>
-            <div class="col-sm-6">
+            <div class="col-sm-12">
               <p class="mb-2 h5 font-weight-bold">Pauline Yip</p>
             </div>
           </div>
-        </div>
-        <div class="col-sm-6 mb-5">
           <div class="row">
-            <div class="col-sm-6">
-              <p class="mb-2 h5 font-weight-bold">Member </p>
-            </div>
-            <div class="col-sm-6">
+            <div class="col-sm-12">
               <p class="mb-2 h5 font-weight-bold">Allan Alex Sim</p>
             </div>
           </div>
           <div class="row">
-            <div class="col-sm-6">
-              <p class="mb-2 h5 font-weight-bold">Member </p>
-            </div>
-            <div class="col-sm-6">
+            <div class="col-sm-12">
               <p class="mb-2 h5 font-weight-bold">Chia Wei Jie</p>
             </div>
           </div>
           <div class="row">
-            <div class="col-sm-6">
+            <div class="col-sm-12">
               <p class="mb-2 h5 font-weight-bold">Member (Changi Airport Group)</p>
             </div>
-            <div class="col-sm-6">
+            <div class="col-sm-12">
               <p class="mb-2 h5 font-weight-bold">Edwin Chow​</p>
             </div>
           </div>
           <div class="row">
-            <div class="col-sm-6">
-              <p class="mb-2 h5 font-weight-bold">Member</p>
-            </div>
-            <div class="col-sm-6">
+            <div class="col-sm-12">
               <p class="mb-2 h5 font-weight-bold">Adelene Yeong​</p>
             </div>
           </div>
           <div class="row">
-            <div class="col-sm-6">
-              <p class="mb-2 h5 font-weight-bold">Member</p>
-            </div>
-            <div class="col-sm-6">
+            <div class="col-sm-12">
               <p class="mb-2 h5 font-weight-bold">Jon Tay​</p>
             </div>
           </div>
           <div class="row">
-            <div class="col-sm-6">
-              <p class="mb-2 h5 font-weight-bold">Member</p>
-            </div>
-            <div class="col-sm-6">
+            <div class="col-sm-12">
               <p class="mb-2 h5 font-weight-bold">Jeff Loke​</p>
             </div>
           </div>
           <div class="row">
-            <div class="col-sm-6">
-              <p class="mb-2 h5 font-weight-bold">Member</p>
-            </div>
-            <div class="col-sm-6">
+            <div class="col-sm-12">
               <p class="mb-2 h5 font-weight-bold">Victor Lee​</p>
             </div>
           </div>
