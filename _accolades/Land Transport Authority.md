@@ -14,18 +14,21 @@ description: ""
   <h1>Land Transport Authority</h1>
   <div class="row py-5">
     <div class="col-sm-4 mb-3 mx-auto">
+			<img src="/images/Accolades/CAAS/ComChest-Award.jpg" alt="ComChest Award" height="200" />
       <p class="mt-3">
         <b>TOPSIS Award – Special Commendation </b>
       </p>
       <p> TOPSIS (Threat-Oriented Person Screening Integrated System) was implemented at border checkpoints to enhance aviation and border security. LTA received a special tier of TOPSIS Award in 2022 in recognition of its support in regulating and sustaining the programme with the 4 Public Transport Operators. </p>
     </div>
     <div class="col-sm-4 mb-3 mx-auto">
+			<img src="/images/Accolades/CAAS/ComChest-Award.jpg" alt="ComChest Award" height="200" />
       <p class="mt-3">
         <b>Safe Distancing Taskforce (SDTF) appreciation by Head Civil Service </b>
       </p>
       <p> LTA was presented an appreciation plaque for its contribution to the Safe Distancing Taskforce in enforcing Safe Management Measures in the public transport sector, thus keeping Singapore and Singaporeans safe during the Covid-19 pandemic.  </p>
     </div>
     <div class="col-sm-4 mb-3 mx-auto">
+			<img src="/images/Accolades/CAAS/ComChest-Award.jpg" alt="ComChest Award" height="200" />
       <p class="mt-3">
         <b>Charity Platinum Award  </b>
       </p>
