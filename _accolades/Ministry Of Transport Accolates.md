@@ -54,7 +54,7 @@ description: ""
       <p class="mt-3">
         <b>MHA Operational Excellence Award</b>
       </p>
-      <p> The MHA Operational Excellence Award is presented to outstanding officers from the Home Team Departments and <b>partnering agencies</b> annually in recognition of their professionalism and proficiency while mounting keynote operations. MOT was given the award in recognition of our efforts in leading the airport bus gate operations during COVID-19. </p>
+      <p> The MHA Operational Excellence Award is presented to outstanding officers from the Home Team Departments and <b>partnering agencies </b>annually in recognition of their professionalism and proficiency while mounting keynote operations. MOT was given the award in recognition of our efforts in leading the airport bus gate operations during COVID-19. </p>
     </div>
   </div>
 </div>
