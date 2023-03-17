@@ -23,11 +23,11 @@ description: ""
   </div>
   <div class="row py-5">
     <div class="col-sm-4 mb-3 mx-auto">
-      <!-- <img
-            src="/images/Accolades/MOT/Public Sector Transformation Awards_Entry of Workers.jpg"
+      <img
+            src="/images/Accolades/MOT/Public Sector Transformation.jpg"
             alt="Maritime and Port Authority of Singapore"
             height="200"
-          /> -->
+          /> 
       <p class="mt-3">
         <b>Public Sector Transformation Awards – Regulatory Excellence Award: Crew Change </b>
       </p>
