@@ -22,17 +22,20 @@ description: ""
       <p> SHARE Platinum is for organisations who have regular monetary contribution and high SHARE participation rate of 90-97% towards ComChest. </p>
     </div>
     <div class="col-sm-4 mb-3 mx-auto">
+			<img src="/images/Accolades/CAAS/CAAS One Publis Service Award - Enhanced SHN.jpg" alt="ComChest Award" height="200" />
       <p class="mt-3">
-        <b>One Public Service Award (An inter-agency project submitted by STB on behalf of 17 agencies including MOT and CAAS) </b>
+        <b>Public Sector Transformation Awards – One Public Service Award: Enhanced Stay Home Notice (SHN) Operations 
+
+ </b>
       </p>
-      <p>Enhanced Stay Home Notice (SHN) Operations</p>
+      <p>This award recognises agencies for exemplary inter-agency initiatives that have reflected a sustained and institutionalised approach to collaboration. The initiatives may be exemplary WOG efforts in: (i) service delivery, (ii) citizen engagement, (iii) regulatory review, (iv) digitalisation that achieve a transformative (not incremental) change in how things are done; or (v) innovation at the WOG level. </p>
     </div>
     <div class="col-sm-4 mb-3 mx-auto">
       <img src="/images/Accolades/CAAS/2. Project Haven.jpg" alt="Project Haven" height="200" />
       <p class="mt-3">
-        <b>Agility Award (An inter-agency project submitted by MTI on behalf of 10 agencies including MOT and CAAS) </b>
+        <b>Public Sector Transformation Awards – Agility Award: Project Haven  </b>
       </p>
-      <p> The project allowed CAAS to bring in additional foreign manpower for the critical Civil Engineering projects required for our airport development.  </p>
+      <p> This award recognises outstanding efforts in planning, mobilising, and implementing new policies and programmes in a timely manner to respond to challenges and needs in a fast-changing operating landscape.   </p>
     </div>
   </div>
 </div>
