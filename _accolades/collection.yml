@@ -1,8 +1,0 @@
-collections:
-  accolades:
-    output: true
-    order:
-      - Civil Aviation Authority of Singapore Accolades.md
-      - Land Transport Authority.md
-      - Ministry Of Transport Accolates.md
-      - Maritime and Port Authority Accolates.md
